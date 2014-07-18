@@ -10,3 +10,7 @@ recipes.remove(<IC2:itemArmorBronzeLegs>);
 recipes.remove(<IC2:itemToolBronzePickaxe>);
 recipes.remove(<IC2:itemToolBronzeSpade>);
 recipes.remove(<IC2:itemToolBronzeSword>);
+recipes.remove(<IC2:reactorCoolantSimple>);
+recipes.addShaped(<IC2:reactorCoolantSimple>,		[[null, <ore:plateTin>,null],
+													[<ore:plateTin>,<IC2:itemCellWater>,<ore:plateTin>],
+													[null, <ore:plateTin>,null]]);
