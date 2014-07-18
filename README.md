@@ -4,6 +4,8 @@ BevoTechPack
 - Bevo Tech Pack -
 Public 1.7.10 Mod Pack on AT Launcher
 
+Bevo's Youtube Page: https://www.youtube.com/user/BevoLJ
+
 Bevo's Website/Forums: http://bevolj.com/
 
 AT Launcher Web Page: http://www.atlauncher.com/pack/BevosTechPack/
