@@ -1,7 +1,7 @@
 1.7.10
 AdvancedMachinesAS-1.7.10.jar
 AOBD-2.1.0.jar
-appliedenergistics2-rv1-alpha-8.jar
+appliedenergistics2-rv1-alpha-12.jar
 Aroma1997Core-1.7.10-1.0.2.6.jar
 AromaBackup-1.7.2-0.0.0.2.jar
 AsieLib-1.7.10-0.2.6.jar
@@ -34,9 +34,9 @@ InventoryTweaks-1.58-dev-139.jar
 ironchest-1.7.10-6.0.41.729-universal.jar
 Jabba-1.1.4-CrazyPantsPort.jar
 Mantle_mc1.7.10_0.3.0.jar
-Mekanism-1.7.10-7.0.0.68.jar
-MekanismGenerators-1.7.10-7.0.0.68.jar
-MekanismTools-1.7.10-7.0.0.68.jar
+Mekanism-1.7.10-7.0.0.70.jar
+MekanismGenerators-1.7.10-7.0.0.70.jar
+MekanismTools-1.7.10-7.0.0.70.jar
 MineMenu-1.7.10-1.0.2.6-universal.jar
 MineTweaker3-1.7.10-3.0.5.jar
 ModTweaker-1.7.X-0.4.jar
@@ -47,6 +47,7 @@ neiaddons-mc1710-1.12.0.1.jar
 NotEnoughItems-1.7.10-1.0.2.30-universal.jar
 OpenComputers-MC1.7.10-1.3.1.28-universal.jar
 OpenEye-0.6-1.7.10.jar
+Pam's HarvestCraft 1.7.10a.zip
 ProgressiveAutomation-1.7.10-1.3.0.jar
 ProjectRed-Base-1.7.10-4.4.5.44.jar
 ProjectRed-Compat-1.7.10-4.4.5.44.jar
