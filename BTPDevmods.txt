@@ -27,6 +27,13 @@ Factorization-1.7.10-0.8.86.jar
 FlaxbeardsSteamPower-1.7.10-0.22.8.jar
 forestry_1.7.10-2.4.2.30.jar
 gendustry-mc1710-1.3.0.3.jar
+growthcraft-apples-1.7.10-2.1.0.jar
+growthcraft-bamboo-1.7.10-2.1.0.jar
+growthcraft-cellar-1.7.10-2.1.0a.jar
+growthcraft-core-1.7.10-2.1.0a.jar
+growthcraft-grapes-1.7.10-2.1.0.jar
+growthcraft-hops-1.7.10-2.1.0.jar
+growthcraft-rice-1.7.10-2.1.0a.jar
 ic2
 immibis-core-59.0.1.jar
 industrialcraft-2-2.2.507-experimental.jar

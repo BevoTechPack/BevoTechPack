@@ -2,7 +2,7 @@
     
 	<pack>
         
-		<version>1.2.0b-1.7.10</version>
+		<version>1.2.1b-1.7.10</version>
 		<minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -46,7 +46,7 @@
       	<!-- Resource Pack -->
         
         <mod 
-            name="Bevo Faithful Texture and Lang Pack" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-v1.1.0.zip" file="BevoPack-v1.1.0.zip" md5="2e8c3b07f27f4b04480eed38e5e9cf00" download="server" type="resourcepack" website="http://www.minecraftforum.net/topic/72747-faithful-32x32-pack-updatemore-17-rose-bush-pufferfish-17/" authors="Vattic, Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains Vattic's 32x32 faithful pack. With this you can play like Bevo does!" />
+            name="Bevo Faithful Texture and Lang Pack" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-v1.1.0.zip" file="BevoPack-v1.1.0.zip" md5="2e8c3b07f27f4b04480eed38e5e9cf00" download="server" type="resourcepack" website="http://www.minecraftforum.net/topic/72747-faithful-32x32-pack-updatemore-17-rose-bush-pufferfish-17/" authors="Vattic, Vexatos" optional="yes" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains Vattic's 32x32 faithful pack. With this you can play like Bevo does!" />
         
         <mod name="BevoPack-lang_only" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-lang_only-v1.1.0.zip" file="BevoPack-lang_only-v1.1.0.zip" md5="ad8c09b06daadf9a38fa471bc3c9cdb4" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any high-resolution textures" />
         
@@ -62,7 +62,7 @@
 		
 		<!-- Scripts -->
               
-        <mod name="Scripts" version="1" url="packs/BevosTechPack/files/1710/scripts.zip" file="scripts.zip" md5="d6637cbc42a6d7ff9f038c7488af1a1e" download="server" type="extract" extractto="root" hidden="yes" website="http:/bevolj.com" description="Minetweaker Scripts" />
+        <mod name="Scripts" version="1" url="packs/BevosTechPack/files/1710/scripts121b.zip" file="scripts121b.zip" md5="9b7eaa413bec1f6ac6d113c7579066c4" download="server" type="extract" extractto="root" hidden="yes" website="http:/bevolj.com" description="Minetweaker Scripts" />
 		
 		<!-- Mods authors=""  -->  
         
@@ -70,7 +70,7 @@
 		
 		<mod name="Another Ore Bites the Dust" version="2.1" url="packs/BevosTechPack/files/1710/AOBD-2.1.0.jar" file="AOBD-2.1.0.jar" md5="f7cdd356d772aeba28e28881acab2aa3" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/221863-another-one-bites-the-dust" donation="http://www.patreon.com/ganymedes01" description="Automaticly detects ores for dust" />
 		
-		<mod name="Applied Energistics 2" version="rv1-a-8" url="packs/BevosTechPack/files/1710/appliedenergistics2-rv1-alpha-8.jar" file="appliedenergistics2-rv1-alpha-8.jar" md5="1c30ed4a682db2d9236da5dcd5301490" download="server" type="mods" website="http://ae2.ae-mod.info/Downloads/" donation="http://www.patreon.com/algorithmx2" authors="AlgorithmX2" description="Applied Energistics is a Minecraft Mod with advanced storage systems called ME that lets you store items compactly and in the way you want." />
+		<mod name="Applied Energistics 2" version="rv1-a-12" url="packs/BevosTechPack/files/1710/appliedenergistics2-rv1-alpha-12.jar" file="appliedenergistics2-rv1-alpha-12.jar" md5="80cf08fef0abaddbe751675484881ee0" download="server" type="mods" website="http://ae2.ae-mod.info/Downloads/" donation="http://www.patreon.com/algorithmx2" authors="AlgorithmX2" description="Applied Energistics is a Minecraft Mod with advanced storage systems called ME that lets you store items compactly and in the way you want." />
 		
 		<mod name="Aroma1997Core" version="1.0.2.6" url="packs/BevosTechPack/files/1710/Aroma1997Core-1.7.10-1.0.2.6.jar" file="Aroma1997Core-1.7.10-1.0.2.6.jar" md5="ff68a5c260e04b684db90d6f040dd865" download="server" type="mods" hidden="yes" website="http://www.minecraftforum.net/topic/1679684-" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=JUN8L67CPHTRC&amp;item_name=Aroma1997s+Mods&amp;cmd=_s-xclick" authors="Aroma1997,Schillaa" description="This is basically a library used by most my other mods." />
 		
@@ -121,6 +121,20 @@
         <mod name="Forestry" version="2.4.2.30" url="packs/BevosTechPack/files/1710/forestry_1.7.10-2.4.2.30.jar" file="forestry_1.7.10-2.4.2.30.jar" md5="233cd0ab4c8d6a1d4d8dffb142849fcc" download="server" type="mods" website="http://forestry.sengir.net/wiki.new/doku.php" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" authors="SirSengir" description="Bee and Tree Breeding, farms, backpacks, mail system, and power production" />
         
         <mod name="Gendustry" version="1.3.0.3" url="packs/BevosTechPack/files/1710/gendustry-mc1710-1.3.0.3.jar" file="gendustry-mc1710-1.3.0.3.jar" md5="85dd9e37b26fa2a035d1973e4d85461b" download="server" type="mods" website="http://www.minecraftforum.net/topic/2160265-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" authors="bdew" description="Gendustry" />
+
+		<mod name="GrowthCraft Core" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-core-1.7.10-2.1.0a.jar" file="growthcraft-core-1.7.10-2.1.0a.jar" md5="05d64d9f59b3ccd2f6464b8797024639" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Shared files within GrowthCraft" />
+
+		<mod name="GrowthCraft Apples" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-apples-1.7.10-2.1.0.jar" file="growthcraft-apples-1.7.10-2.1.0.jar" md5="9d07164344883e4c0bf500531fabebfd" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Improves the way of farming apples and addition of Apple Ciders." />
+
+		<mod name="GrowthCraft Bamboo" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-bamboo-1.7.10-2.1.0.jar" file="growthcraft-bamboo-1.7.10-2.1.0.jar" md5="e1a09f4fe76a80621f48042ea967b8db" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Adds bamboos which can be crafted to fresh looking aesthetics" />
+
+		<mod name="GrowthCraft Core: Cellar" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-cellar-1.7.10-2.1.0a.jar" file="growthcraft-cellar-1.7.10-2.1.0a.jar" md5="4a6f42229072eecdea2829957ec964af" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Shared files within GrowthCraft" />
+
+		<mod name="GrowthCraft Grapes" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-grapes-1.7.10-2.1.0.jar" file="growthcraft-grapes-1.7.10-2.1.0.jar" md5="8618e01c4efd64d2c6ab9ac5d8f84f6f" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Adds Grapes which can be brewed into Grape Wine." />
+
+		<mod name="GrowthCraft Hops" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-hops-1.7.10-2.1.0.jar" file="growthcraft-hops-1.7.10-2.1.0.jar" md5="ae73f9c73ca2249e84bdad038cc2daf2" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Adds Hops which can be brewed into Ale." />
+
+		<mod name="GrowthCraft Rice" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-rice-1.7.10-2.1.0a.jar" file="growthcraft-rice-1.7.10-2.1.0a.jar" md5="43d71a38543c8d7202e0c4ba2c33ac8c" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Adds rice which can be crafted to rice balls and brewed into rice wine" />
         
         <mod name="Immibis Core" version="59.0.1" url="packs/BevosTechPack/files/1710/immibis-core-59.0.1.jar" file="immibis-core-59.0.1.jar" md5="bb3e1b066877a7dd2ef24a1f62610d0a" download="server" type="mods" website="http://www.minecraftforum.net/topic/1001131-" hidden="yes" authors="immibis" description="This is like CodeChicken Core, Buildcraft Core, RedPower Core, and so on - it provides requirements for other mods." />
 		
@@ -134,11 +148,11 @@
 		
 		<mod name="Mantle" version="0.3.0" url="packs/BevosTechPack/files/1710/Mantle_mc1.7.10_0.3.0.jar" file="Mantle_mc1.7.10_0.3.0.jar" md5="14cda5489848a896dfe6e3c552c0ed0f" download="server" type="mods" hidden="yes" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287648-tinkers-construct" authors="mDiyo" description="Core for TCon" />
         
-        <mod name="Mekanism" version="1.7.10-7.0.0.68" url="packs/BevosTechPack/files/1710/Mekanism-1.7.10-7.0.0.68.jar" file="Mekanism-1.7.10-7.0.0.68.jar" md5="a2fd5a8620e1af9000938c9d63c7a1f6" download="server" type="mods" website="http://wiki.aidancbrady.com/wiki/Main_Page" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" description="Energy, Armor, Tools, Weapons, Machines, Magic." />
+        <mod name="Mekanism" version="1.7.10-7.0.0.70" url="packs/BevosTechPack/files/1710/Mekanism-1.7.10-7.0.0.70.jar" file="Mekanism-1.7.10-7.0.0.70.jar" md5="38441cd6bd42dfb05e4e6c25cd31ea8e" download="server" type="mods" website="http://universalelectricity.com/mekanism" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" description="Energy, Armor, Tools, Weapons, Machines, Magic." />
         
-        <mod name="MekanismGenerators" version="1.7.10-7.0.0.68" url="packs/BevosTechPack/files/1710/MekanismGenerators-1.7.10-7.0.0.68.jar" file="MekanismGenerators-1.7.10-7.0.0.68.jar" md5="3591ffd65cf8f67b7c44a3e796e9e31c" download="server" type="mods" website="http://wiki.aidancbrady.com/wiki/Main_Page" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" description="Generators module of Mekanism." />
+        <mod name="MekanismGenerators" version="1.7.10-7.0.0.70" url="packs/BevosTechPack/files/1710/MekanismGenerators-1.7.10-7.0.0.70.jar" file="MekanismGenerators-1.7.10-7.0.0.70.jar" md5="97287fb47ad84fa2921b7de72c10b821" download="server" type="mods" website="http://universalelectricity.com/mekanism" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" description="Generators module of Mekanism." />
         
-        <mod name="MekanismTools" version="1.7.10-7.0.0.68" url="packs/BevosTechPack/files/1710/MekanismTools-1.7.10-7.0.0.68.jar" file="MekanismTools-1.7.10-7.0.0.68.jar" md5="06747f5776c473c3035dcb8f78350894" download="server" type="mods" website="http://wiki.aidancbrady.com/wiki/Main_Page" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" description="Tools module for Mekanism." />
+        <mod name="MekanismTools" version="1.7.10-7.0.0.70" url="packs/BevosTechPack/files/1710/MekanismTools-1.7.10-7.0.0.70.jar" file="MekanismTools-1.7.10-7.0.0.70.jar" md5="e901e8fb75b8c1e1310041e80e1dd489" download="server" type="mods" website="http://universalelectricity.com/mekanism" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" description="Tools module for Mekanism." />
         
         <mod name="MineMenu" version="1.0.2.6" url="packs/BevosTechPack/files/1710/MineMenu-1.7.10-1.0.2.6-universal.jar" file="MineMenu-1.7.10-1.0.2.6-universal.jar" md5="864f8b72916a076c6163ad549cc9a31d" download="server" type="mods" server="no" website="http://www.curse.com/mc-mods/minecraft/222378-minemenu#t1:description" description="this fancy new radial menu, you put the power of 10 keys…that’s right, 10! Into the comfort of only one." />
 		
@@ -160,6 +174,8 @@
 		
 		<mod name="OpenEye" version="0.6" url="packs/BevosTechPack/files/1710/OpenEye-0.6-1.7.10.jar" file="OpenEye-0.6-1.7.10.jar" md5="38671a0ad16f1b8978fbd612ec75e9d3" download="server" type="mods" website="http://openeye.openmods.info/" donation="http://www.patreon.com/openmods" authors="Mikee,NeverCast,boq,Lyqyd" optional="yes" server="no" description="Our primary aim is to collect and share vital information to allow us to provide a set of tools to the community to make the experience easier, drama-free and more secure for both users and modders." />
         
+        <mod name="Pam&apos;s Harvestcraft" version="1.7.10a" url="packs/BevosTechPack/files/1710/Pams HarvestCraft 1.7.10a.zip" file="Pams HarvestCraft 1.7.10a.zip" md5="c9a87888d4f1489739c82c8ee109152b" download="server" type="mods" website="http://www.minecraftforum.net/topic/402069-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=UMVYJNMULKL2W&amp;lc=US&amp;item_name=Pam%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" authors="MatrexsVigil" description="Expanded food system including tons of new crops!" />
+        
 		<mod name="Progressive Automation" version="1.3.0" url="packs/BevosTechPack/files/1710/ProgressiveAutomation-1.7.10-1.3.0.jar" file="ProgressiveAutomation-1.7.10-1.3.0.jar" md5="21f593ffe53141ef665a678b69d16970" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation-upgradeable-machines" authors="Vanhal" description="This mod provides low tech automation tools for common tasks. The tools will be upgradable as the player progresses." />
 		
 		<mod name="Project Red" version="4.4.5.44" url="packs/BevosTechPack/files/1710/ProjectRed-Base-1.7.10-4.4.5.44.jar" file="ProjectRed-Base-1.7.10-4.4.5.44.jar" md5="8d0a5c286434f77fb20cfa32fff59d48" download="server" donation="http://www.patreon.com/MrTJP" type="mods" authors="MrTJP" website="http://projectredwiki.com/wiki/Version_archive" description="A mod all about redstone tinkering." />
@@ -178,13 +194,13 @@
         
         <mod name="Rock Digger" version="1.2" url="packs/BevosTechPack/files/1710/rockdigger-1.7.10-1.2.jar" file="rockdigger-1.7.10-1.2.jar" md5="8cd4708350ebe281518d553d5b165494" download="server" type="mods" website="http://www.curse.com/mc-mods/minecraft/221245-rock-digger" hidden="yes" donation="http://www.patreon.com/HQM" authors="Lord Dusk" description="Config to add custom blocks and ores to packs" />
         
-        <mod name="Roguelike Dungeons Mod" version="1.3.4" url="packs/BevosTechPack/files/1710/roguelike-1.7.10-1.3.4.jar" file="roguelike-1.7.10-1.3.4.jar" md5="eff3a05e2fa21a7b423084489cdcdd34" optional="yes" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290238-roguelike-dungeons-v1-3-4" authors="Greymerk" description="A mod that adds random dungeon complexes to the world" />
+        <mod name="Roguelike Dungeons Mod" version="1.3.4" url="packs/BevosTechPack/files/1710/roguelike-1.7.10-1.3.4.jar" file="roguelike-1.7.10-1.3.4.jar" md5="eff3a05e2fa21a7b423084489cdcdd34" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290238-roguelike-dungeons-v1-3-4" authors="Greymerk" description="A mod that adds random dungeon complexes to the world" />
 		
 		<mod name="Rotateable Blocks" version="1.0.5e" url="packs/BevosTechPack/files/1710/RefinedRelocation-1.7.10-1.0.5e.jar" file="RefinedRelocation-1.7.10-1.0.5e.jar" md5="46a0cfab12364aa36656782fd12051a1" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294621-1-7-x-rotatable-blocks-not-just-an-april-fools" donation="http://www.patreon.com/algorithmx2" authors="AlgorithmX2" description="Rotatable blocks lets you rotate most full size opaque cube blocks in minecraft, and mods to a total of 24 orientations." />
         
         <mod name="Ruins" version="1.7.10" url="packs/BevosTechPack/files/1710/Ruins-1.7.10.zip" file="Ruins-1.7.10.zip" md5="13c91241548af9e9519d798e0c4861ca" download="server" type="extract" extractto="mods" extractfolder="mods" donation="http://www.patreon.com/user?u=82605" website="http://www.atomicstryker.net/" description="Randomly Generated Structures" />
 		
-		<mod name="Spice Of Life" version="1.1.0" url="packs/BevosTechPack/files/1710/SpiceOfLife-mc1.7.x-1.1.0.jar" file="SpiceOfLife-mc1.7.x-1.1.0.jar" md5="afb512cf3e479533eddad725b239c6ba" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety" donation="http://www.patreon.com/squeek502" optional="yes" authors="Squeek502" description="A mod that encourages dietary variety through diminishing returns." />
+		<mod name="Spice Of Life" version="1.1.0" url="packs/BevosTechPack/files/1710/SpiceOfLife-mc1.7.x-1.1.0.jar" file="SpiceOfLife-mc1.7.x-1.1.0.jar" md5="afb512cf3e479533eddad725b239c6ba" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety" donation="http://www.patreon.com/squeek502" authors="Squeek502" description="A mod that encourages dietary variety through diminishing returns." />
 		
 		<mod name="Statues" version="2.1.3" url="packs/BevosTechPack/files/1710/statues-1.7.10-2.1.3.jar" file="statues-1.7.10-2.1.3.jar" md5="75ba3573b5ddf250740d2c35a8c46d3f" download="server" type="mods" website="http://www.minecraftforum.net/topic/2115090-" authors="AUTOMATIC_MAIDEN" description="Create statues out of various blocks" />
 		
@@ -228,23 +244,9 @@
 
 		<mod name="Steve&apos;s Factory Manager" version="" url="packs/BevosTechPack/files/1710/StevesFactoryManagerA88.jar" file="StevesFactoryManagerA88.jar" md5="fb8e1f6937c67cc9899e9856d71bb2bb" download="server" type="mods" website="http://www.minecraftforum.net/topic/2211439-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z7NBL3BRBCNFC" authors="vswe" description="This mod allows you to move items between different inventories (machines and storage blocks) by specifying it using commands in a flow chart like way." />
 
-		<mod name="GrowthCraft Core" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-core-1.7.10-2.1.0a.jar" file="growthcraft-core-1.7.10-2.1.0a.jar" md5="05d64d9f59b3ccd2f6464b8797024639" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Shared files within GrowthCraft" />
-
-		<mod name="GrowthCraft Apples" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-apples-1.7.10-2.1.0.jar" file="growthcraft-apples-1.7.10-2.1.0.jar" md5="9d07164344883e4c0bf500531fabebfd" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Improves the way of farming apples and addition of Apple Ciders." />
-
-		<mod name="GrowthCraft Bamboo" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-bamboo-1.7.10-2.1.0.jar" file="growthcraft-bamboo-1.7.10-2.1.0.jar" md5="e1a09f4fe76a80621f48042ea967b8db" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Adds bamboos which can be crafted to fresh looking aesthetics" />
-
-		<mod name="GrowthCraft Core: Cellar" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-cellar-1.7.10-2.1.0a.jar" file="growthcraft-cellar-1.7.10-2.1.0a.jar" md5="4a6f42229072eecdea2829957ec964af" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Shared files within GrowthCraft" />
-
-		<mod name="GrowthCraft Grapes" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-grapes-1.7.10-2.1.0.jar" file="growthcraft-grapes-1.7.10-2.1.0.jar" md5="8618e01c4efd64d2c6ab9ac5d8f84f6f" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Adds Grapes which can be brewed into Grape Wine." />
-
-		<mod name="GrowthCraft Hops" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-hops-1.7.10-2.1.0.jar" file="growthcraft-hops-1.7.10-2.1.0.jar" md5="ae73f9c73ca2249e84bdad038cc2daf2" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Adds Hops which can be brewed into Ale." />
-
-		<mod name="GrowthCraft Rice" version="2.1.0a" url="packs/BevosTechPack/files/1710/growthcraft-rice-1.7.10-2.1.0a.jar" file="growthcraft-rice-1.7.10-2.1.0a.jar" md5="43d71a38543c8d7202e0c4ba2c33ac8c" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Adds rice which can be crafted to rice balls and brewed into rice wine" />
-
 		<mod name="ZZZZZ Custom Configs" version="1.4.0" url="packs/BevosTechPack/files/1710/ZZZZZ Custom Configs-1.4.0.jar" file="ZZZZZ Custom Configs-1.4.0.jar" md5="07b914c20f39c87ee462d1fa3083cd70" download="server" type="mods" website="https://github.com/ganymedes01/ZZZZZ-Custom-Configs" donation="http://www.patreon.com/ganymedes01" authors="Ganymedes01" hidden="yes" description="ZZZZZ Custom Configs is a small mod I put together in a couple of hours that allows users (more specifically mod pack creators) to do several things that could normally be done only by mod authors." />
 
-		Test change
+
  
 -->
     
