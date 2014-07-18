@@ -1,0 +1,61 @@
+We currently have permissions for all mods. 
+
+Perms Needed:
+None!  We are good to go on all current mods!
+
+Have Perms:
+AOBD - http://minecraft.curseforge.com/mc-mods/221863-another-one-bites-the-dust
+AdvancedMachinesAS - http://puu.sh/aa7aB/0bd256aa9a.png
+appliedenergistics2 - http://ae2.ae-mod.info/Frequently-Asked-Questions/
+Aroma1997Core - http://puu.sh/aa7dD/422c84bd94.png
+AromaBackup - http://puu.sh/aa7dD/422c84bd94.png
+AsieLib - http://mc.shinonome.ch/doku.php
+backpack - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286124-1-6-x-1-7-x-backpacks-v-2-0-0
+Baubles-princess - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2132152-baubles-princess-edition-1-0-0-18p-last-updated-7
+BetterFoliage - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2119722-better-foliage
+BiblioCraft - http://www.bibliocraftmod.com/?page_id=57#modpacks
+BiomesOPlenty - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286162-biomes-o-plenty-were-back
+Blood Magic - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-1-0-updated-jul-13?comment=3 (Note this is on 3rd post, not the thread OP)
+Botania - http://vazkii.us/mod/Botania/faq.php
+Chisel - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288400-1-6-4-smp-forge-chisel
+CodeChickenCore - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+dimensional-anchor - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers
+eirairc - http://minecraft.curseforge.com/mc-mods/68420-eirairc
+enderio - http://enderio.com/ (Click the "Extra Info" on the top right)
+EnderStorage - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+extrautilities - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0c
+Factorization - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284592-factorization-0-8-86 (I'd failed here! My post made today. heh)
+FlaxbeardsSteamPower - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995-professor-flaxbeards-wondrous-steam-power-mod-beta
+Forestry - http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#license
+immibis-core - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers
+industrialcraft - http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994
+InventoryTweaks - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-57-march-14#Sup
+ironchest - (I have never found anything official - Need help)
+Mantle - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287648-tinkers-construct
+Mekanism - http://aidancbrady.com/copyright/
+MineTweaker3 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your
+Morpheus - http://puu.sh/aaal6/5e8f1ebe1f.png
+natura - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura
+NedoComputers - Only a week old mod and he hasn't gotten to this yet. I've asked and will try to get something in black and white that I can screenshot and post here as proof of permissions.
+NotEnoughItems - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+OpenComputers - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293018-opencomputers-v1-3-0
+OpenEye - http://openeye.openmods.info/download
+PneumaticCraft - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289696-1-7-2-forge-ssp-smp-techmod-pneumaticcraft
+ProgressiveAutomation - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation-upgradeable-machines
+ProjectRed - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred-v4-4-5-44-7-8-2014
+Railcraft - http://puu.sh/aaldj/b4b2397d92.png http://www.railcraft.info/forum/?mingleforumaction=viewtopic&t=584.0#postid-2414
+RefinedRelocation - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293062-refined-relocation-1-0-5-solves-your
+rockdigger - http://puu.sh/aaapv/5d1b67b519.png
+roguelike - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290238-roguelike-dungeons-v1-3-4
+rotateableblocks - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294621-1-7-x-rotatable-blocks-not-just-an-april-fools
+Ruins - http://puu.sh/aa7aB/0bd256aa9a.png
+SpiceOfLife - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety
+statues - http://mc.shinonome.ch/doku.php
+TConstruct - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287648-tinkers-construct
+TiC-Tooltips - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool
+TooMuchRain - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2125321-1-7-x-toomuchrain-more-control-over-minecraft
+twilightforest - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-2-1-domain-of-the-alpha
+Waila - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-2
+WailaHarvestability - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im
+Warp Book - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293310-teleportation-warp-book
+ZZZZZ Custom Configs - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293069-zzzzz-custom-configs-v1-3-1-create-your-own?comment=3 (Note: he gives permissions on post 3 not the thead op)
