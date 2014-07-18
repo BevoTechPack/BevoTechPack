@@ -3,8 +3,8 @@
 # priority (i.e. included recipes simply replace the current definition for all
 # already known recipes).
 
-include file("default.recipes")
-#include file("hardmode.recipes")
+#include file("default.recipes")
+include file("hardmode.recipes")
 #include file("gregtech.recipes")
 #include file("your_custom.recipes")
 
