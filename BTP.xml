@@ -46,9 +46,9 @@
       	<!-- Resource Pack -->
         
         <mod 
-            name="Bevo Faithful Texture and Lang Pack" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-v1.1.0.zip" file="BevoPack-v1.1.0.zip" md5="2e8c3b07f27f4b04480eed38e5e9cf00" download="server" type="resourcepack" website="http://www.minecraftforum.net/topic/72747-faithful-32x32-pack-updatemore-17-rose-bush-pufferfish-17/" authors="Vattic, Vexatos" optional="yes" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains Vattic's 32x32 faithful pack. With this you can play like Bevo does!" />
+            name="Bevo Faithful Texture and Lang Pack" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-v1.1.0.zip" file="BevoPack-v1.1.0.zip" md5="2e8c3b07f27f4b04480eed38e5e9cf00" download="server" type="resourcepack" website="http://www.minecraftforum.net/topic/72747-faithful-32x32-pack-updatemore-17-rose-bush-pufferfish-17/" authors="Vattic, Vexatos" optional="yes" server="no" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains Vattic's 32x32 faithful pack. With this you can play like Bevo does!" />
         
-        <mod name="BevoPack-lang_only" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-lang_only-v1.1.0.zip" file="BevoPack-lang_only-v1.1.0.zip" md5="ad8c09b06daadf9a38fa471bc3c9cdb4" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any high-resolution textures" />
+        <mod name="BevoPack-lang_only" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-lang_only-v1.1.0.zip" file="BevoPack-lang_only-v1.1.0.zip" md5="ad8c09b06daadf9a38fa471bc3c9cdb4" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" server="no" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any high-resolution textures" />
         
         <!-- Others -->
         
@@ -57,6 +57,8 @@
 		<mod name="CodeChickenLib" version="1.1.1.93" url="packs/BevosTechPack/files/1710/CodeChickenLib-1.7.10-1.1.1.93-universal.jar" file="CodeChickenLib-1.7.10-1.1.1.93-universal.jar" md5="3ae58b680b0d8e1df1c767afd65b3ed0" download="server" type="dependency" hidden="yes" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Needed for ChickenBones mods" />
 		
 		<mod name="Forge Multipart" version="1.1.0.297" url="packs/BevosTechPack/files/1710/ForgeMultipart-1.7.10-1.1.0.297-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.297-universal.jar" md5="bc89b4f16f29a148a18f892002b0511b" download="server" type="dependency" website="http://files.minecraftforge.net/ForgeMultipart/" authors="ChickenBones" description="An API for dynamically handling different functional parts in the one block space." />
+        
+        <mod name="Cauldron (MCPC+)" version="1187.03.118" url="packs/BevosTechPack/files/jar/Cauldron-1.1187.03.118.zip" file="Cauldron-1.1187.03.118.zip" md5="588bbc93f1191f281caaccf31b60a5b1" download="server" type="extract" extractto="root" client="no" optional="yes" donation="http://www.patreon.com/bloodmc" website="http://cauldron.minecraftforge.net/" description="Libaries required by Cauldron Servers" />
         
         
 		
@@ -198,7 +200,7 @@
 		
 		<mod name="Project Red" version="4.4.5.44" url="packs/BevosTechPack/files/1710/ProjectRed-Integration-1.7.10-4.4.5.44.jar" file="ProjectRed-Integration-1.7.10-4.4.5.44.jar" md5="17f076c6b00c38d71304be9ce4deaae8" download="server" donation="http://www.patreon.com/MrTJP" hidden="yes" type="mods" website="http://projectredwiki.com/wiki/Version_archive" authors="MrTJP" description="A mod all about redstone tinkering." />
 		
-		<mod name="Project Red Lighting" version="4.4.5.44" url="packs/BevosTechPack/files/1710/ProjectRed-Lighting-1.7.10-4.4.5.44.jar" file="ProjectRed-Lighting-1.7.10-4.4.5.44.jar" md5="658056955c766bcfed255c0405761369" download="server" donation="http://www.patreon.com/MrTJP" optional="yes" type="mods" website="http://projectredwiki.com/wiki/Version_archive" authors="MrTJP" description="A mod all about redstone tinkering." />
+		<mod name="Project Red" version="4.4.5.44" url="packs/BevosTechPack/files/1710/ProjectRed-Lighting-1.7.10-4.4.5.44.jar" file="ProjectRed-Lighting-1.7.10-4.4.5.44.jar" md5="658056955c766bcfed255c0405761369" download="server" donation="http://www.patreon.com/MrTJP" hidden="yes" type="mods" website="http://projectredwiki.com/wiki/Version_archive" authors="MrTJP" description="A mod all about redstone tinkering." />
 		
 		<mod name="Project Red" version="4.4.5.44" url="packs/BevosTechPack/files/1710/ProjectRed-Mechanical-1.7.10-4.4.5.44.jar" file="ProjectRed-Mechanical-1.7.10-4.4.5.44.jar" md5="c7a65762e764d85de9c8f0cd2d868a83" download="server" donation="http://www.patreon.com/MrTJP" hidden="yes" type="mods" website="http://projectredwiki.com/wiki/Version_archive" authors="MrTJP" description="A mod all about redstone tinkering." />
 		
@@ -224,9 +226,7 @@
 		
 		<mod name="The Twilight Forest" version="1.7.2-2.2.2" url="packs/BevosTechPack/files/1710/twilightforest-1.7.2-2.2.2.jar" file="twilightforest-1.7.2-2.2.2.jar" md5="8607f5083ffb6d3134864448f9ade24c" download="server" type="mods" website="http://www.minecraftforum.net/topic/561673-" authors="Benimatic (Ben Mazur)" description="An enchanted forest dimension." />
         
-        <mod name="VersionChecker" version="1.1.4" url="packs/BevosTechPack/files/1710/VersionChecker-1.1.4.jar" file="VersionChecker-1.1.4.jar" md5="4ebfada02ad8c455e1c9d4f6fb7ab333" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091981-version-checker-auto-update-mods-and-clean" authors="Dynious" description="Auto update mods and clean outdated list!" />
-        
-        <mod name="Voxel Map NoRadar" version="1.0" url="packs/BevosTechPack/files/1710/voxelmapNoRadar-1.7.10-1.0.jar" file="voxelmapNoRadar-1.7.10-1.0.jar" md5="addbca29618476109bdff9131c477872" download="server" optional="yes" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282353-1-6-4-1-6-2-mamiyaotarus-mods-voxelmap" description="Minecraft Map" />
+        <mod name="Voxel Map NoRadar" version="1.0" url="packs/BevosTechPack/files/1710/voxelmapNoRadar-1.7.10-1.0.jar" file="voxelmapNoRadar-1.7.10-1.0.jar" md5="addbca29618476109bdff9131c477872" download="server" optional="yes" type="mods" server="no" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282353-1-6-4-1-6-2-mamiyaotarus-mods-voxelmap" description="Minecraft Map" />
 		
 		<mod name="WAILA" version="1.5.2a-CrazyPantsPort" url="packs/BevosTechPack/files/1710/Waila-1.5.2a-CrazyPantsPort.jar" file="Waila-1.5.2a-CrazyPantsPort.jar" md5="b50af4b0c4e1953a66ca95ecaa0aff86" download="server" type="mods" server="no" website="http://minecraft.curseforge.com/mc-mods/73488-waila" authors="Prof Mobius" donation="http://www.patreon.com/profmobius" description="What Am I Looking At" />
 		
@@ -259,6 +259,8 @@
 		<mod name="Steve&apos;s Factory Manager" version="" url="packs/BevosTechPack/files/1710/StevesFactoryManagerA88.jar" file="StevesFactoryManagerA88.jar" md5="fb8e1f6937c67cc9899e9856d71bb2bb" download="server" type="mods" website="http://www.minecraftforum.net/topic/2211439-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z7NBL3BRBCNFC" authors="vswe" description="This mod allows you to move items between different inventories (machines and storage blocks) by specifying it using commands in a flow chart like way." />
 
 		<mod name="ZZZZZ Custom Configs" version="1.4.0" url="packs/BevosTechPack/files/1710/ZZZZZ Custom Configs-1.4.0.jar" file="ZZZZZ Custom Configs-1.4.0.jar" md5="07b914c20f39c87ee462d1fa3083cd70" download="server" type="mods" website="https://github.com/ganymedes01/ZZZZZ-Custom-Configs" donation="http://www.patreon.com/ganymedes01" authors="Ganymedes01" hidden="yes" description="ZZZZZ Custom Configs is a small mod I put together in a couple of hours that allows users (more specifically mod pack creators) to do several things that could normally be done only by mod authors." />
+        
+        <mod name="VersionChecker" version="1.1.4" url="packs/BevosTechPack/files/1710/VersionChecker-1.1.4.jar" file="VersionChecker-1.1.4.jar" md5="4ebfada02ad8c455e1c9d4f6fb7ab333" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091981-version-checker-auto-update-mods-and-clean" authors="Dynious" description="Auto update mods and clean outdated list!" />
 
 
  
