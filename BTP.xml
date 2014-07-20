@@ -145,6 +145,8 @@
         <mod name="Immibis Core" version="59.0.1" url="packs/BevosTechPack/files/1710/immibis-core-59.0.1.jar" file="immibis-core-59.0.1.jar" md5="bb3e1b066877a7dd2ef24a1f62610d0a" download="server" type="mods" website="http://www.minecraftforum.net/topic/1001131-" hidden="yes" authors="immibis" description="This is like CodeChicken Core, Buildcraft Core, RedPower Core, and so on - it provides requirements for other mods." />
         
         <mod name="IndustrialCraft 2" version="2.2.526" url="packs/BevosTechPack/files/1710/industrialcraft-2-2.2.526-experimental.jar" file="industrialcraft-2-2.2.526-experimental.jar" md5="d109e22be3749088efe0d26b6d1b0a49" download="server" type="mods" website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44" description="Industrial age themed expansion for Minecraft." />
+
+		<mod name="InfernalMobs" version="1.7.10" url="packs/BevosTechPack/files/1710/InfernalMobs-1.7.10.jar" file="InfernalMobs-1.7.10.jar" md5="323f4c79350cae074e74f8a2ed7d2ed7" download="server" type="mods" donation="http://www.patreon.com/user?u=82605" website="http://www.atomicstryker.net/" description="randomly imbues spawning Living Things in the World with Diablo-style random Enchantments, making them much harder and much more rewarding to kill." />
 		
 		<mod name="Inventory Tweaks" version="1.58-dev-144" url="packs/BevosTechPack/files/1710/InventoryTweaks-1.58-dev-144.jar" file="InventoryTweaks-1.58-dev-144.jar" md5="f85045be1791bfe6639404d0468a02e0" download="server" type="mods" server="no" website="http://www.minecraftforum.net/topic/1720872-" authors="Jimeo Wan,Kobata" description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items." />
 		
@@ -220,8 +222,6 @@
 		
 		<mod name="TiC Tooltips" version="1.1.8a" url="packs/BevosTechPack/files/1710/TiC-Tooltips-mc1.7.10-1.1.8a.jar" file="TiC-Tooltips-mc1.7.10-1.1.8a.jar" md5="01ed3e79575a04e11388fafdd693ccd4" download="server" type="mods" website="http://www.curse.com/mc-mods/minecraft/tic-tooltips" donation="http://www.patreon.com/squeek502" authors="Squeek502" description="A simple client-side add-on for Tinkers' Construct that adds relevant stats to all tool and tool part tooltips." />
 		
-		<mod name="To Much Rain" version="1.0.0" url="packs/BevosTechPack/files/1710/TooMuchRain-1.7.2-1.0.0-b5-universal.jar" file="TooMuchRain-1.7.2-1.0.0-b5-universal.jar" md5="5a47103021fc6a525cae7fdc3fe80009" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2125321-1-7-x-toomuchrain-more-control-over-minecraft" authors="dmillerw" donation="http://www.patreon.com/dmillerw" description="This simple mod allows players and server owners to have a bit more control over when Minecraft rains/storms, and for how long." />
-		
 		<mod name="The Twilight Forest" version="1.7.2-2.2.2" url="packs/BevosTechPack/files/1710/twilightforest-1.7.2-2.2.2.jar" file="twilightforest-1.7.2-2.2.2.jar" md5="8607f5083ffb6d3134864448f9ade24c" download="server" type="mods" website="http://www.minecraftforum.net/topic/561673-" authors="Benimatic (Ben Mazur)" description="An enchanted forest dimension." />
         
         <mod name="VersionChecker" version="1.1.4" url="packs/BevosTechPack/files/1710/VersionChecker-1.1.4.jar" file="VersionChecker-1.1.4.jar" md5="4ebfada02ad8c455e1c9d4f6fb7ab333" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091981-version-checker-auto-update-mods-and-clean" authors="Dynious" description="Auto update mods and clean outdated list!" />
@@ -250,8 +250,6 @@
 		
 		<mod name="iChunUtil" version="3.3.0" url="packs/BevosTechPack/files/1710/iChunUtil-3.3.0.jar" file="iChunUtil-3.3.0.jar" md5="82c825e4be70bec7935b89791e3aea38" download="server" type="mods" website="http://www.ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Shared library mod required by several of iChun&apos;s Mods." />
 
-		<mod name="" version="" url="packs/BevosTechPack/files/1710/InfernalMobs-1.7.10.jar" file="InfernalMobs-1.7.10.jar" md5="323f4c79350cae074e74f8a2ed7d2ed7" download="server" type="mods" website="" description="" />
-		
 		<mod name="Morph" version="0.8.0" url="packs/BevosTechPack/files/1710/Morph-Beta-0.8.0.jar" file="Morph-Beta-0.8.0.jar" md5="9ba5904e5f72b3b76eaec9fd28f278bc" download="server" type="mods" website="http://ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Morph mod, made for ModJam 2. Allows players to acquire the morph skill and turn into other mobs." />
 		
 		<mod name="Railcraft" version="9.1.0.0" url="packs/BevosTechPack/files/1710/Railcraft_1.7.2-9.1.0.0.jar" file="Railcraft_1.7.2-9.1.0.0.jar" md5="5c78705e2ab30d60d27f800c87eba26b" download="server" type="mods" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" authors="CovertJaguar" description="Redefine your rails" />
