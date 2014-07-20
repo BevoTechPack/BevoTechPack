@@ -1,6 +1,6 @@
 1.7.10
 AdvancedMachinesAS-1.7.10.jar
-AOBD-2.1.0.jar
+AOBD-2.2.1.jar
 appliedenergistics2-rv1-alpha-14.jar
 Aroma1997Core-1.7.10-1.0.2.6.jar
 AromaBackup-1.7.2-0.0.0.2.jar
@@ -23,7 +23,7 @@ CompactSolars-1.7.10-4.4.36.313-universal.jar
 Computronics-1.7-0.5.1.jar
 CoroUtil-1.0.jar
 dimensional-anchor-59.0.2.jar
-enderio-2.0_beta.137.jar
+enderio-2.0_beta.142.jar
 EnderStorage-1.7.10-1.4.4.9-universal.jar
 ExtraCells-2.1.6.jar
 extrautilities-1.1.0e.jar
@@ -46,12 +46,11 @@ InventoryTweaks-1.58-dev-144.jar
 ironchest-1.7.10-6.0.41.729-universal.jar
 Jabba-1.1.4-CrazyPantsPort.jar
 launchgui-1.7.10-1.2.jar
-LycanitesMobsComplete 1.7.1b [1.7.10].jar
 Mantle_mc1.7.10_0.3.0.jar
 Mekanism-1.7.10-7.0.0.70.jar
 MekanismGenerators-1.7.10-7.0.0.70.jar
 MekanismTools-1.7.10-7.0.0.70.jar
-MineMenu-1.7.10-1.0.2.6-universal.jar
+MineMenu-1.7.2-1.0.5.14-universal.jar
 MineTweaker3-1.7.10-3.0.5.jar
 ModTweaker-1.7.X-0.4.jar
 Morpheus-1.7.10-1.5.17.jar
@@ -83,7 +82,6 @@ TConstruct_mc1.7.10_1.6.0d34.jar
 TiC-Tooltips-mc1.7.10-1.1.8a.jar
 twilightforest-1.7.2-2.2.2.jar
 UpdateCheckerMod-1.7.10.jar
-VersionChecker-1.1.4.jar
 voxelmapNoRadar-1.7.10-1.0.jar
 VoxelMods
 Waila-1.5.2a-CrazyPantsPort.jar
