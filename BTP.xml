@@ -58,7 +58,7 @@
 		
 		<mod name="Forge Multipart" version="1.1.0.297" url="packs/BevosTechPack/files/1710/ForgeMultipart-1.7.10-1.1.0.297-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.297-universal.jar" md5="bc89b4f16f29a148a18f892002b0511b" download="server" type="dependency" website="http://files.minecraftforge.net/ForgeMultipart/" authors="ChickenBones" description="An API for dynamically handling different functional parts in the one block space." />
         
-        <mod name="Cauldron (MCPC+)" version="1187.03.118" url="packs/BevosTechPack/files/jar/Cauldron-1.1187.03.118.zip" file="Cauldron-1.1187.03.118.zip" md5="588bbc93f1191f281caaccf31b60a5b1" download="server" type="extract" extractto="root" client="no" optional="yes" donation="http://www.patreon.com/bloodmc" website="http://cauldron.minecraftforge.net/" description="Libaries required by Cauldron Servers" />
+        <mod name="Cauldron (MCPC+)" version="1187.03.118" url="packs/BevosTechPack/files/jar/Cauldron-1.1187.03.118.zip" file="Cauldron-1.1187.03.118.zip" md5="565d76b7809e9f7c179ed3744f873529" download="server" type="extract" extractto="root" client="no" optional="yes" donation="http://www.patreon.com/bloodmc" website="http://cauldron.minecraftforge.net/" description="Libaries required by Cauldron Servers" />
         
         
 		
@@ -108,7 +108,7 @@
         
         <mod name="Computronics" version="0.5.1" url="packs/BevosTechPack/files/1710/Computronics-1.7-0.5.1.jar" file="Computronics-1.7-0.5.1.jar" md5="6e2c6ac26b0e69e21eb071a7f901e7e7" download="server" type="mods" website="http://mc.shinonome.ch/doku.php" authors="Asie" description="Computronics is a Minecraft mod that adds a set of computer peripherals. It is compatible with both ComputerCraft, NedoComputers and OpenComputers" />
         
-        <mod name="CoroUtil" version="1.0" url="packs/BevosTechPack/files/1710/CoroUtil-1.0.jar" file="CoroUtil-1.0.jar" md5="8a56e41b69df6fe2312572b397858320" download="server" hidden="yes" authors="Corosus" type="mods" website="http://coros.us/mods/" description="Ult for Weather Mod" />
+        <mod name="CoroUtil" version="1.0" url="packs/BevosTechPack/files/1710/CoroUtil-1.0.jar" file="CoroUtil-1.0.jar" md5="8a56e41b69df6fe2312572b397858320" download="server" optional="yes" library="yes" authors="Corosus" type="mods" website="http://coros.us/mods/" description="Ult for Weather Mod" />
         
         <mod name="Dimensional Anchors" version="59.0.2" url="packs/BevosTechPack/files/1710/dimensional-anchor-59.0.2.jar" file="dimensional-anchor-59.0.2.jar" md5="e422a4e650091adc0327603ffb89e3d3" download="server" type="mods" website="http://www.minecraftforum.net/topic/1001131-" authors="immibis" description="Yet another chunkloader mod." />
 		
@@ -168,7 +168,7 @@
         
         <mod name="MekanismTools" version="1.7.10-7.0.0.70" url="packs/BevosTechPack/files/1710/MekanismTools-1.7.10-7.0.0.70.jar" file="MekanismTools-1.7.10-7.0.0.70.jar" md5="e901e8fb75b8c1e1310041e80e1dd489" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" hidden="yes" authors="aidancbrady" description="Tools module for Mekanism." />
         
-        <mod name="MineMenu" version="1.0.2.6" url="packs/BevosTechPack/files/1710/MineMenu-1.7.10-1.0.2.6-universal.jar" file="MineMenu-1.7.10-1.0.2.6-universal.jar" md5="864f8b72916a076c6163ad549cc9a31d" download="server" type="mods" server="no" website="http://www.curse.com/mc-mods/minecraft/222378-minemenu#t1:description" description="this fancy new radial menu, you put the power of 10 keys…that’s right, 10! Into the comfort of only one." />
+        <mod name="MineMenu" version="1.0.4.12" url="packs/BevosTechPack/files/1710/MineMenu-1.7.2-1.0.4.12-universal.jar" file="MineMenu-1.7.2-1.0.4.12-universal.jar" md5="2f6386d0ae7cf0977eb7f81b5c149af6" download="server"  type="mods" server="no" website="http://www.curse.com/mc-mods/minecraft/222378-minemenu#t1:description" description="this fancy new radial menu, you put the power of 10 keys…that’s right, 10! Into the comfort of only one." />
 		
 		<mod name="MineTweaker" version="3.0.5" url="packs/BevosTechPack/files/1710/MineTweaker3-1.7.10-3.0.5.jar" file="MineTweaker3-1.7.10-3.0.5.jar" md5="c48901eb10cc6528d25b12d1cae3a09d" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your" authors="StanH" hidden="yes" description="MineTweaker is a mod that enables players and server admins to alter recipes (both crafting recipes, furnace recipes and now also some mod machine recipes) as well as changing some small things such as item names, fuel burning times, ... For all these functions, MineTweaker uses a fully scripted language, making it easy to understand and offering a lot of functionality." />
         
@@ -234,7 +234,7 @@
  
         <mod name="warp-book" version="1.2.29" url="packs/BevosTechPack/files/1710/warpbook-1.2.29.jar" file="warpbook-1.2.29.jar" md5="b03f1f4f2d39e22fbfaf6069de4ce9ff" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293310-teleportation-warp-book" description="teleportation between given points." />
         
-        <mod name="Local Weather n Stormfronts" version="2.3.4" url="packs/BevosTechPack/files/1710/Weather-2.3.4.jar" file="Weather-2.3.4.jar" md5="0aee56cc06dffb3c4bf0fad998596bf9" download="server" authors="Corosus" type="mods" website="http://coros.us/mods/" description="The new local weather mod! Replaced vanilla clouds! Stormfronts of varying intensity! Wind! Leaves! Tornadoes!" />
+        <mod name="Local Weather and Stormfronts" version="2.3.4" url="packs/BevosTechPack/files/1710/Weather-2.3.4.jar" file="Weather-2.3.4.jar" md5="0aee56cc06dffb3c4bf0fad998596bf9" download="server" authors="Corosus" type="mods" website="http://coros.us/mods/" depends="CoroUtil" optional="yes" description="The new local weather mod! Replaced vanilla clouds! Stormfronts of varying intensity! Wind! Leaves! Tornadoes!" />
         
         <mod name="Whats This Pack" version="1.0" url="packs/BevosTechPack/files/1710/whatsthispack-1.7.2-1.0.jar" file="whatsthispack-1.7.2-1.0.jar" md5="149b79293a545040b6ac70f623c4e49c" download="server" server="no" hidden="yes" type="mods" website="http://minecraft.curseforge.com/mc-mods/221658-wtp-whats-this-pack" description="What's This Pack, is a simple modpack identifier for those of you who make modpacks and would like your users to have that extra bit of pizzazz in their pack. " />
 		
