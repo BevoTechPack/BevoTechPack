@@ -1,7 +1,7 @@
 1.7.10
 AdvancedMachinesAS-1.7.10.jar
 AOBD-2.1.0.jar
-appliedenergistics2-rv1-alpha-13.jar
+appliedenergistics2-rv1-alpha-14.jar
 Aroma1997Core-1.7.10-1.0.2.6.jar
 AromaBackup-1.7.2-0.0.0.2.jar
 AsieLib-1.7.10-0.2.6.jar
@@ -10,22 +10,25 @@ Baubles-princess-1.7.2-1.0.0.18p.jar
 bdlib-mc1710-1.4.0.2.jar
 BiblioCraft[v1.7.4][MC1.7.10].jar
 BiblioWoods[BiomesOPlenty][v1.4].jar
-BiomesOPlenty-1.7.10-2.0.2.897-universal.jar
+BiomesOPlenty-1.7.2-2.0.2.932-universal.jar
 Blood Magic-v1.1.0(1.7.10).jar
 Botania r1.1-83.jar
 BTPDevmods.txt
 buildcraft-6.0.17.jar
+Carpenter's Blocks v3.2.5 [DEV] - MC 1.7.10.zip
+carpentersblocks
 Chisel-1.7.10-1.5.6.jar
 CodeChickenCore-1.7.10-1.0.2.11-universal.jar
+CompactSolars-1.7.10-4.4.36.313-universal.jar
 Computronics-1.7-0.5.1.jar
-DecoCraft1.7.2V1.9b.jar
+CoroUtil-1.0.jar
 dimensional-anchor-59.0.2.jar
 enderio-2.0_beta.137.jar
 EnderStorage-1.7.10-1.4.4.9-universal.jar
 ExtraCells-2.1.6.jar
 extrautilities-1.1.0e.jar
 Factorization-1.7.10-0.8.86.jar
-FlaxbeardsSteamPower-1.7.10-0.22.8.jar
+FlaxbeardsSteamPower-1.7.10-0.23.0.jar
 forestry_1.7.10-2.4.2.30.jar
 gendustry-mc1710-1.3.0.3.jar
 growthcraft-apples-1.7.10-2.1.0.jar
@@ -37,11 +40,13 @@ growthcraft-hops-1.7.10-2.1.0.jar
 growthcraft-rice-1.7.10-2.1.0a.jar
 ic2
 immibis-core-59.0.1.jar
-industrialcraft-2-2.2.507-experimental.jar
+industrialcraft-2-2.2.526-experimental.jar
 InfernalMobs-1.7.10.jar
-InventoryTweaks-1.58-dev-139.jar
+InventoryTweaks-1.58-dev-144.jar
 ironchest-1.7.10-6.0.41.729-universal.jar
 Jabba-1.1.4-CrazyPantsPort.jar
+launchgui-1.7.10-1.2.jar
+LycanitesMobsComplete 1.7.1b [1.7.10].jar
 Mantle_mc1.7.10_0.3.0.jar
 Mekanism-1.7.10-7.0.0.70.jar
 MekanismGenerators-1.7.10-7.0.0.70.jar
@@ -79,9 +84,11 @@ TiC-Tooltips-mc1.7.10-1.1.8a.jar
 TooMuchRain-1.7.2-1.0.0-b5-universal.jar
 twilightforest-1.7.2-2.2.2.jar
 UpdateCheckerMod-1.7.10.jar
+VersionChecker-1.1.4.jar
 voxelmapNoRadar-1.7.10-1.0.jar
 VoxelMods
 Waila-1.5.2a-CrazyPantsPort.jar
 WailaHarvestability-mc1.7.x-1.0.4.jar
-warp-book-1.7.10-1.1.42.jar
+warpbook-1.2.29.jar
+Weather-2.3.4.jar
 whatsthispack-1.7.2-1.0.jar
