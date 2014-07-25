@@ -1,7 +1,7 @@
 1.7.10
-AdvancedMachinesAS-1.7.10.jar
+AdvancedMachinesAS-1.7.10-2.jar
 AOBD-2.2.1.jar
-appliedenergistics2-rv1-alpha-17.jar
+appliedenergistics2-rv1-alpha-23.jar
 Aroma1997Core-1.7.10-1.0.2.6.jar
 AromaBackup-1.7.2-0.0.0.2.jar
 AsieLib-1.7.10-0.2.6.jar
@@ -14,18 +14,19 @@ BiblioWoods[Forestry][v1.4].jar
 BiblioWoods[Natura][v1.2].jar
 BiomesOPlenty-1.7.2-2.0.2.932-universal.jar
 Blood Magic-v1.1.0(1.7.10).jar
-Botania r1.1-87.jar
+Botania r1.1-89.jar
 BTPDevmods.txt
 buildcraft-6.0.17.jar
 Carpenters Blocks v3.2.5 [DEV] - MC 1.7.10.zip
 carpentersblocks
 Chisel-1.7.10-1.5.6.jar
-CodeChickenCore-1.7.10-1.0.2.11-universal.jar
+CodeChickenCore-1.7.10-1.0.2.13-universal.jar
 CompactSolars-1.7.10-4.4.36.313-universal.jar
-Computronics-1.7-0.5.1.jar
+Computronics-1.7-0.5.2.jar
 CoroUtil-1.0.jar
 dimensional-anchor-59.0.2.jar
-enderio-2.0_beta.142.jar
+EasyCrafting-1.7.10-2.0.0.12.jar
+enderio-2.0_beta.147.jar
 EnderStorage-1.7.10-1.4.4.10-universal.jar
 ExtraCells-2.1.6.jar
 extrautilities-1.1.0e.jar
@@ -43,14 +44,14 @@ growthcraft-rice-1.7.10-2.1.0a.jar
 ic2
 immibis-core-59.0.1.jar
 industrialcraft-2-2.2.526-experimental.jar
-InventoryTweaks-1.58-dev-144.jar
+InventoryTweaks-1.58-147.jar
 ironchest-1.7.10-6.0.41.729-universal.jar
 Jabba-1.1.4_1.7.10.jar
 launchgui-1.7.10-1.2.jar
 Mantle_mc1.7.10_0.3.0.jar
-Mekanism-1.7.10-7.0.0.73.jar
-MekanismGenerators-1.7.10-7.0.0.73.jar
-MekanismTools-1.7.10-7.0.0.73.jar
+Mekanism-1.7.10-7.0.0.75.jar
+MekanismGenerators-1.7.10-7.0.0.75.jar
+MekanismTools-1.7.10-7.0.0.75.jar
 MineMenu-1.7.2-1.0.5.14-universal.jar
 MineTweaker3-1.7.10-3.0.6.jar
 ModTweaker-1.7.X-0.5.jar
@@ -58,9 +59,8 @@ Morpheus-1.7.10-1.5.17.jar
 natura-1.7.10-2.2.0-b1.jar
 NedoComputers-1.7.2-0.3.jar
 neiaddons-mc1710-1.12.0.1.jar
-NotEnoughItems-1.7.10-1.0.2.31-universal.jar
-OpenComputers-MC1.7.10-1.3.1.28-universal.jar
-OpenEye-0.6-1.7.10.jar
+NotEnoughItems-1.7.10-1.0.2.35-universal.jar
+OpenComputers-MC1.7.10-1.3.2.34-universal.jar
 OreDictReader-1.1.3.jar
 Pams HarvestCraft 1.7.10a.zip
 PneumaticCraft-1.2.2.jar
@@ -73,7 +73,7 @@ ProjectRed-Mechanical-1.7.10-4.4.5.44.jar
 ProjectRed-World-1.7.10-4.4.5.44.jar
 railcraft
 Railcraft_1.7.10-9.1.0.6.jar
-RefinedRelocation-1.7.10-1.0.6.jar
+RefinedRelocation-1.7.10-1.0.6a.jar
 resources
 roguelike-1.7.10-1.3.4.jar
 rotateableblocks-17x-build-7.jar
