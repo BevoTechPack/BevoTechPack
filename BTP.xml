@@ -57,9 +57,9 @@
       	<!-- Resource Pack -->
         
         <mod 
-            name="Bevo Texture and Lang Pack" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-Unity-v1.1.1.zip" file="BevoPack-Unity-v1.1.1.zip" md5="8f7fe442dfde4a6867ac66149458b67b" download="server" type="resourcepack" website="http://www.minecraftforum.net/topic/72747-faithful-32x32-pack-updatemore-17-rose-bush-pufferfish-17/" authors="CyanideX, Vexatos" server="no" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains CyanideX's Unity Textures. With this you can play like Bevo does!" />
+            name="Bevo Texture and Lang Pack" version="Bevo v1.1.1" url="packs/BevosTechPack/files/resourcepacks/BevoPack-Unity-v1.1.1.zip" file="BevoPack-Unity-v1.1.1.zip" md5="8f7fe442dfde4a6867ac66149458b67b" download="server" type="resourcepack" website="http://minecraft.curseforge.com/texture-packs/222097-unity" authors="CyanideX, Vexatos" server="no" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains CyanideX's Unity Textures. With this you can play like Bevo does!" />
         
-        <mod name="BevoPack-lang_only" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-lang_only-v1.1.1.zip" file="BevoPack-lang_only-v1.1.1.zip" md5="2ec1878559da52d7f470a0c625f26cac" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" server="no" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any textures" />
+        <mod name="BevoPack-lang_only" version="Bevo v1.1.1" url="packs/BevosTechPack/files/resourcepacks/BevoPack-lang_only-v1.1.1.zip" file="BevoPack-lang_only-v1.1.1.zip" md5="2ec1878559da52d7f470a0c625f26cac" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" server="no" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any textures" />
         
         <!-- Others -->
         
