@@ -2,7 +2,7 @@
     
 	<pack>
         
-		<version>1.2.6b-1.7.10</version>
+		<version>1.2.7b-1.7.10</version>
 		<minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -10,6 +10,17 @@
         <permgen>128</permgen>
         
     </pack>
+    
+    <!-- messages
+    
+    <messages>
+        
+    	<install><![CDATA[<center>Enjoy</center>]]></install>
+   		<update><![CDATA[<b>Be Careful</b>]]></update>
+        
+	</messages>
+
+	 -->
     
     <libraries>
         

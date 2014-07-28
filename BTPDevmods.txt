@@ -71,7 +71,6 @@ ProjectRed-Integration-1.7.10-4.4.5.44.jar
 ProjectRed-Lighting-1.7.10-4.4.5.44.jar
 ProjectRed-Mechanical-1.7.10-4.4.5.44.jar
 ProjectRed-World-1.7.10-4.4.5.44.jar
-railcraft
 Railcraft_1.7.10-9.1.0.6.jar
 RefinedRelocation-1.7.10-1.0.6a.jar
 resources
