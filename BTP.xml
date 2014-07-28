@@ -50,16 +50,16 @@
         
         <!-- Forge -->
 		
-		<mod name="Minecraft Forge" version="10.13.0.1187" url="packs/BevosTechPack/files/jar/forge-1.7.10-10.13.0.1187-universal.jar" file="forge-1.7.10-10.13.0.1187-universal.jar" md5="952b91abbcfa4691d218617cac40f3ba" download="server"  type="forge" website="http://www.minecraftforge.net/forum/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw" description="Minecraft Forge is a modding API used by alot of mods." />
+		<mod name="Minecraft Forge" version="10.13.0.1188" url="packs/BevosTechPack/files/jar/forge-1.7.10-10.13.0.1188-universal.jar" file="forge-1.7.10-10.13.0.1188-universal.jar" md5="4f219504a4ff95db8817c9c0f8191ad8" download="server" type="forge" website="http://www.minecraftforge.net/forum/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw" description="Minecraft Forge is a modding API used by alot of mods." />
         
       	<!-- World Downloads -->
         
       	<!-- Resource Pack -->
         
         <mod 
-            name="Bevo Faithful Texture and Lang Pack" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-v1.1.0.zip" file="BevoPack-v1.1.0.zip" md5="2e8c3b07f27f4b04480eed38e5e9cf00" download="server" type="resourcepack" website="http://www.minecraftforum.net/topic/72747-faithful-32x32-pack-updatemore-17-rose-bush-pufferfish-17/" authors="Vattic, Vexatos" optional="yes" server="no" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains Vattic's 32x32 faithful pack. With this you can play like Bevo does!" />
+            name="Bevo Texture and Lang Pack" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-Unity-v1.1.1.zip" file="BevoPack-Unity-v1.1.1.zip" md5="8f7fe442dfde4a6867ac66149458b67b" download="server" type="resourcepack" website="http://www.minecraftforum.net/topic/72747-faithful-32x32-pack-updatemore-17-rose-bush-pufferfish-17/" authors="CyanideX, Vexatos" server="no" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains CyanideX's Unity Textures. With this you can play like Bevo does!" />
         
-        <mod name="BevoPack-lang_only" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-lang_only-v1.1.0.zip" file="BevoPack-lang_only-v1.1.0.zip" md5="ad8c09b06daadf9a38fa471bc3c9cdb4" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" server="no" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any high-resolution textures" />
+        <mod name="BevoPack-lang_only" version="Bevo v1.1.0" url="packs/BevosTechPack/files/resourcepacks/BevoPack-lang_only-v1.1.1.zip" file="BevoPack-lang_only-v1.1.1.zip" md5="2ec1878559da52d7f470a0c625f26cac" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" server="no" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any textures" />
         
         <!-- Others -->
         
@@ -69,13 +69,13 @@
 		
 		<mod name="Forge Multipart" version="1.1.0.297" url="packs/BevosTechPack/files/1710/ForgeMultipart-1.7.10-1.1.0.297-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.297-universal.jar" md5="bc89b4f16f29a148a18f892002b0511b" download="server" type="dependency" website="http://files.minecraftforge.net/ForgeMultipart/" authors="ChickenBones" description="An API for dynamically handling different functional parts in the one block space." />
         
-        <mod name="Cauldron (MCPC+)" version="1187.03.118" url="packs/BevosTechPack/files/jar/Cauldron-1.1187.03.118.zip" file="Cauldron-1.1187.03.118.zip" md5="565d76b7809e9f7c179ed3744f873529" download="server" type="extract" extractto="root" client="no" optional="yes" donation="http://www.patreon.com/bloodmc" website="http://cauldron.minecraftforge.net/" description="Libaries required by Cauldron Servers" />
+        <mod name="Cauldron (MCPC+)" version="1187.03.127" url="packs/BevosTechPack/files/jar/cauldron-1.7.10-1.1187.01.127.zip" file="cauldron-1.7.10-1.1187.01.127.zip" md5="8c8278ed954aca75b6706fbedae74aa9" download="server" type="extract" extractto="root" client="no" optional="yes" donation="http://www.patreon.com/bloodmc" website="http://cauldron.minecraftforge.net/" description="Libaries required by Cauldron Servers" />
         
         
 		
 		<!-- Scripts -->
               
-        <mod name="Scripts" version="126" url="packs/BevosTechPack/files/1710/scripts.zip" file="scripts.zip" md5="1aefcd6ee151663f9164203dde2aaf31" download="server" type="extract" extractto="root" hidden="yes" website="http:/bevolj.com" description="Minetweaker Scripts" />
+        <mod name="Scripts" version="127" url="packs/BevosTechPack/files/1710/scripts.zip" file="scripts.zip" md5="b0d32d0386f1bcfef8116505811ed552" download="server" type="extract" extractto="root" hidden="yes" website="http:/bevolj.com" description="Minetweaker Scripts" />
 		
 		<!-- Mods authors=""  -->  
         
@@ -98,10 +98,6 @@
 		<mod name="Baubles-princess" version="1.0.0.18p" url="packs/BevosTechPack/files/1710/Baubles-princess-1.7.2-1.0.0.18p.jar" file="Baubles-princess-1.7.2-1.0.0.18p.jar" md5="112370c7d0bb8ee4d8582c8ab66eb214" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2132152-baubles-princess-edition-1-0-0-18p-last-updated-7" donation="http://www.patreon.com/azanor" authors="Azanor" description="A small addon mod and api that is intended to be used by other mods to add additional inventory slots to a character." />
         
         <mod name="BdLib" version="1.4.0.3" url="packs/BevosTechPack/files/1710/bdlib-mc1710-1.4.0.3.jar" file="bdlib-mc1710-1.4.0.3.jar" md5="cccc8d06e8b4aa9cbfa554575e5f72c8" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/bdlib/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" hidden="yes" authors="bdew" description="This is a collection of generic code used by bdew&apos;s other mods" />
-        	
-		<mod name="Better Foliage" version="0.9.4b" url="packs/BevosTechPack/files/1710/BetterFoliage-0.9.7b.jar" file="BetterFoliage-0.9.7b.jar" md5="5539975c1cad743701b6bc2c96647f2e" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2119722-better-foliage" authors="Octarine" optional="yes" server="no" description="Better Foliage is my reimplementation of some features of one of my favourite 1.6.4 mods Better Grass n Leaves" />
-        
-        <mod name="Better Grass &amp; Leaves Mod" version="1.6.4" url="packs/BevosTechPack/files/resourcepacks/BetterGrassAndLeavesMod[v1.6.4.D].zip" file="BetterGrassAndLeavesMod[v1.6.4.D].zip" md5="12ed5f74765a8984094e8c68321450b7" download="server" type="resourcepack" website="http://www.minecraftforum.net/topic/508886-" library="yes" depends="Better Foliage" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=DNXP2KX7H5KJC" authors="Poersch" description="Better Grass &amp; Leaves is a small mod which extends grass and leaves by a few juicy pixels" />
 		
 		<mod name="BiblioCraft" version="v1.7.5" url="packs/BevosTechPack/files/1710/BiblioCraft[v1.7.5][MC1.7.10]1.jar" file="BiblioCraft[v1.7.5][MC1.7.10]1.jar" md5="001c12531e5f4bc6fcc74d99530d8ffc" download="server" type="mods" website="http://www.bibliocraftmod.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NLK9SWM3U77XS" authors="Joseph &apos;Nuchaz&apos; Sinclair" description="BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware! New in 1.3: Fancy lamps and golden lanterns. Also Tables and enchanted plates!" />
         
@@ -113,7 +109,7 @@
 		
 		<mod name="Biomes O&apos; Plenty" version="2.1.0.943" url="packs/BevosTechPack/files/1710/BiomesOPlenty-1.7.10-2.1.0.943-universal.jar" file="BiomesOPlenty-1.7.10-2.1.0.943-universal.jar" md5="6c50434eab24e7aec7e8ad9765f48d22" download="server" type="mods" website="http://www.minecraftforum.net/topic/1495041-" optional="yes" depends="BiblioWoods Biomes O&apos;Plenty Edition"  donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" authors="Forstride,Adubbz,Amnet,ted80" description="Adds 87 new, unique biomes!" />
 		
-		<mod name="Blood Magic" version="v1.1.0" url="packs/BevosTechPack/files/1710/Blood Magic-v1.1.0(1.7.10).jar" file="Blood Magic-v1.1.0(1.7.10).jar" md5="0a2bd8fa19cfbab587fcab334ef8490d" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-0-1g-updated-jun-27" donation="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-0-1g-updated-jun-27" authors="Way of Time" description="Blood Magic is an arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood." />
+		<mod name="Blood Magic" version="v1.1.0" url="packs/BevosTechPack/files/1710/Blood Magic-v1.1.0(1.7.10).jar" file="Blood Magic-v1.1.0(1.7.10).jar" md5="0a2bd8fa19cfbab587fcab334ef8490d" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-0-1g-updated-jun-27" donation="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-0-1g-updated-jun-27" optional="yes" authors="Way of Time" description="Blood Magic is an arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood." />
 		
 		<mod name="Botania" version="r1.1-90" url="packs/BevosTechPack/files/1710/Botania r1.1-90.jar" file="Botania r1.1-90.jar" md5="f29018a08433320411a676398e8d9680" download="server" donation="http://www.patreon.com/Vazkii" type="mods" website="http://vazkii.us/mod/Botania/index.php" authors="Vazkii" description="Botania is a magic tech mod based on nature." />
         
@@ -228,8 +224,6 @@
 		<mod name="Refined Relocation" version="1.0.6a" url="packs/BevosTechPack/files/1710/RefinedRelocation-1.7.10-1.0.6a.jar" file="RefinedRelocation-1.7.10-1.0.6a.jar" md5="a18204abd4f070b28a2cb9b1d0b4dcc1" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293062-refined-relocation-1-0-5-solves-your" authors="Dynious" description="Players of modded Minecraft face many problems: chests are too messy, you need to fit that one pipe onto a block, but it doesn&apos;t look nice that way, there are too many pipes everywhere etc. Refined Relocation is here to make your modded Minecraft life easier! Not another new system, but something that works with existing systems and makes it better." />
         
         <mod name="Roguelike Dungeons Mod" version="1.3.4" url="packs/BevosTechPack/files/1710/roguelike-1.7.10-1.3.4.jar" file="roguelike-1.7.10-1.3.4.jar" md5="eff3a05e2fa21a7b423084489cdcdd34" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290238-roguelike-dungeons-v1-3-4" authors="Greymerk" description="A mod that adds random dungeon complexes to the world" />
-		
-		<mod name="Rotateable Blocks" version="17x-7" url="packs/BevosTechPack/files/1710/rotateableblocks-17x-build-7.jar" file="rotateableblocks-17x-build-7.jar" md5="f4e5482426a71a054ef6928bec62d44b" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294621-1-7-x-rotatable-blocks-not-just-an-april-fools" donation="http://www.patreon.com/algorithmx2" authors="AlgorithmX2" description="Rotatable blocks lets you rotate most full size opaque cube blocks in minecraft, and mods to a total of 24 orientations." />
         
         <mod name="Ruins" version="1.7.10" url="packs/BevosTechPack/files/1710/Ruins-1.7.10-2.zip" file="Ruins-1.7.10-2.zip" md5="d9eaf7125c152379629e32aa5c8e4fbc" download="server" type="extract" extractto="mods" extractfolder="mods" donation="http://www.patreon.com/user?u=82605" website="http://www.atomicstryker.net/" description="Randomly Generated Structures" />
 		
@@ -247,7 +241,7 @@
 		
 		<mod name="The Twilight Forest" version="1.7.2-2.2.2" url="packs/BevosTechPack/files/1710/twilightforest-1.7.2-2.2.2.jar" file="twilightforest-1.7.2-2.2.2.jar" md5="8607f5083ffb6d3134864448f9ade24c" download="server" type="mods" website="http://www.minecraftforum.net/topic/561673-" authors="Benimatic (Ben Mazur)" description="An enchanted forest dimension." />
         
-        <mod name="Voxel Map NoRadar" version="1.0" url="packs/BevosTechPack/files/1710/voxelmapNoRadar-1.7.10-1.0.jar" file="voxelmapNoRadar-1.7.10-1.0.jar" md5="addbca29618476109bdff9131c477872" download="server" optional="yes" type="mods" server="no" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282353-1-6-4-1-6-2-mamiyaotarus-mods-voxelmap" description="Minecraft Map" />
+        <mod name="Voxel Map NoRadar" version="1.0" url="packs/BevosTechPack/files/1710/voxelmapNoRadar-1.7.10-1.0.jar" file="voxelmapNoRadar-1.7.10-1.0.jar" md5="addbca29618476109bdff9131c477872" download="server" type="mods" server="no" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282353-1-6-4-1-6-2-mamiyaotarus-mods-voxelmap" description="Minecraft Map" />
 		
 		<mod name="WAILA" version="1.5.3" url="packs/BevosTechPack/files/1710/Waila-1.5.3_1.7.10.jar" file="Waila-1.5.3_1.7.10.jar" md5="187285fe5abd467e55c90151d1fc9fc7" download="server" type="mods" server="no" website="http://minecraft.curseforge.com/mc-mods/73488-waila" authors="Prof Mobius" donation="http://www.patreon.com/profmobius" description="What Am I Looking At" />
 		
@@ -262,8 +256,8 @@
         <mod name="Local Weather and Stormfronts" version="2.3.4" url="packs/BevosTechPack/files/1710/Weather-2.3.4.jar" file="Weather-2.3.4.jar" md5="0aee56cc06dffb3c4bf0fad998596bf9" download="server" authors="Corosus" type="mods" website="http://coros.us/mods/" depends="CoroUtil" optional="yes" description="The new local weather mod! Replaced vanilla clouds! Stormfronts of varying intensity! Wind! Leaves! Tornadoes!" />
 		
 		<!-- Disabled 1.7.2 Mods
-		
-		<mod name="Better Foliage" version="0.9.4b" url="packs/BevosTechPack/files/1710/BetterFoliage-0.9.7b.jar" file="BetterFoliage-0.9.7b.jar" md5="5539975c1cad743701b6bc2c96647f2e" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2119722-better-foliage" authors="Octarine" optional="yes" server="no" description="Better Foliage is my reimplementation of some features of one of my favourite 1.6.4 mods Better Grass n Leaves" />
+        	
+		<mod name="Better Foliage" version="0.9.7b" url="packs/BevosTechPack/files/1710/BetterFoliage-0.9.7b.jar" file="BetterFoliage-0.9.7b.jar" md5="5539975c1cad743701b6bc2c96647f2e" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2119722-better-foliage" authors="Octarine" optional="yes" server="no" description="Better Foliage is my reimplementation of some features of one of my favourite 1.6.4 mods Better Grass n Leaves" />
         
         <mod name="Better Grass &amp; Leaves Mod" version="1.6.4" url="packs/BevosTechPack/files/resourcepacks/BetterGrassAndLeavesMod[v1.6.4.D].zip" file="BetterGrassAndLeavesMod[v1.6.4.D].zip" md5="12ed5f74765a8984094e8c68321450b7" download="server" type="resourcepack" website="http://www.minecraftforum.net/topic/508886-" library="yes" depends="Better Foliage" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=DNXP2KX7H5KJC" authors="Poersch" description="Better Grass &amp; Leaves is a small mod which extends grass and leaves by a few juicy pixels" />
 		
@@ -276,6 +270,8 @@
 		<mod name="Morph" version="0.8.0" url="packs/BevosTechPack/files/1710/Morph-Beta-0.8.0.jar" file="Morph-Beta-0.8.0.jar" md5="9ba5904e5f72b3b76eaec9fd28f278bc" download="server" type="mods" website="http://ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Morph mod, made for ModJam 2. Allows players to acquire the morph skill and turn into other mobs." />
 		
 		<mod name="Railcraft" version="9.1.0.0" url="packs/BevosTechPack/files/1710/Railcraft_1.7.2-9.1.0.0.jar" file="Railcraft_1.7.2-9.1.0.0.jar" md5="5c78705e2ab30d60d27f800c87eba26b" download="server" type="mods" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" authors="CovertJaguar" description="Redefine your rails" />
+		
+		<mod name="Rotateable Blocks" version="17x-7" url="packs/BevosTechPack/files/1710/rotateableblocks-17x-build-7.jar" file="rotateableblocks-17x-build-7.jar" md5="f4e5482426a71a054ef6928bec62d44b" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294621-1-7-x-rotatable-blocks-not-just-an-april-fools" donation="http://www.patreon.com/algorithmx2" authors="AlgorithmX2" description="Rotatable blocks lets you rotate most full size opaque cube blocks in minecraft, and mods to a total of 24 orientations." />
         
 
 
