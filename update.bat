@@ -9,8 +9,8 @@ C:
 cd C:\Users\Bevo\Documents\GitHub\BevoTechPack\FULL\
 del *.zip
 cd C:\Users\Bevo\Documents\GitHub
-7za.exe a config.zip C:\Users\Bevo\Documents\GitHub\BevoTechPack\FULL\config\*
-7za.exe a scripts.zip C:\Users\Bevo\Documents\GitHub\BevoTechPack\FULL\scripts\*
+7za.exe a config.zip C:\Users\Bevo\Documents\GitHub\BevoTechPack\FULL\config*
+7za.exe a scripts.zip C:\Users\Bevo\Documents\GitHub\BevoTechPack\FULL\scripts*
 move config.zip .\BevoTechPack\FULL\
 move scripts.zip .\BevoTechPack\FULL\
 G:
@@ -24,8 +24,8 @@ C:
 cd C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\
 del *.zip
 cd C:\Users\Bevo\Documents\GitHub
-7za.exe a config.zip C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\config\*
-7za.exe a scripts.zip C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\scripts\*
+7za.exe a config.zip C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\config*
+7za.exe a scripts.zip C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\scripts*
 move config.zip .\BevoTechPack\MINI\
 move scripts.zip .\BevoTechPack\MINI\
 
