@@ -17,7 +17,7 @@ BiomesOPlenty-1.7.10-2.1.0.943-universal.jar
 Blood Magic-v1.1.0(1.7.10).jar
 Botania r1.1-93.jar
 buildcraft-6.0.17.jar
-Carpenter's Blocks v3.2.5 [DEV R3] - MC 1.7.10.zip
+Carpenters Blocks v3.2.5 [DEV R3] - MC 1.7.10.zip
 carpentersblocks
 Chisel-1.7.10-1.5.6.jar
 CodeChickenCore-1.7.10-1.0.2.13-universal.jar
