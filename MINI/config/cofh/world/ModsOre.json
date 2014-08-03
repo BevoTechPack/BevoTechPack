@@ -3,11 +3,11 @@
         "template": "uniform",
         "block": "Steamcraft:steamcraftOre",
         "metadata": 1,
-        "clusterSize": 8,
-        "numClusters": 10,
+        "clusterSize": 6,
+        "numClusters": 6,
         "minHeight": 20,
         "maxHeight": 55,
-        "retrogen": "false",
+        "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
             "all"
