@@ -1,7 +1,0 @@
-# machineName, inputOreDict, inputSize, extra(some don't need it) ,outputName, outputAmount, outputMetadata... #
-# Types: macerator, extractor, compressor, centrifuge, metalformerExtruding, metalformerCutting, metalformerRolling, oreWashing #
-# Examples: #
-# Macerating 1 dust copper yields a diamond sword #
-# macerator, dustCopper, 1, diamond_sword, 1, 0 #
-# Thermal Centrifuge, with min heat of 1000, 1 diamond sword yields a 2 diamonds and a stick #
-# centrifuge, diamond_sword,1,0, 1000, diamond,2,0, stick,1,0 #

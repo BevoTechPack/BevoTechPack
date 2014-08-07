@@ -1,4 +1,0 @@
-# resultName, resultAmount, resultMetadata, topRow, middleRow, bottomRow, (ingredIdentifier, ingredName, ingredMetada)... #
-# Diamond sword recipe example: 276, 0, 0, x, x, y, x, 264, 0, y, 280, 0 #
-# If is empty leave it blank. Example: xx, , xx
-# L shaped recipe example (leave an actual blank space where it says (space)): (space)(space)x, (space)(space)x, xxx #

@@ -1,2 +1,0 @@
-# resultName, resultAmount, resultMetadata, (inputId, inputMetadata)... #
-# Example of recipe for bedrock using stone, dirt and grass: bedrock,1,0, stone,0, dirt,0, grass,0 #
