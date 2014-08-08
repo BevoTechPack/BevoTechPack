@@ -48,7 +48,11 @@
 		
 		<mod name="Minecraft Forge" version="10.13.0.1199" url="packs/BevosTechPack/files/jar/forge-1.7.10-10.13.0.1199-universal.jar" file="forge-1.7.10-10.13.0.1199-universal.jar" md5="e7acb9bb147232988538d0f45909faef" download="server" type="forge" website="http://www.minecraftforge.net/forum/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw" description="Minecraft Forge is a modding API used by alot of mods." />
         
-      	<!-- World Downloads -->
+      	<!-- Resource Packs -->
+        
+        <mod name="Bevo Texture and Lang Pack" version="Bevo v1.1.3" url="packs/BevosTechPack/files/resourcepacks/BevoPack-Unity-v1.1.3.zip" file="BevoPack-Unity-v1.1.3.zip" md5="3ff73a2df011cd80c4aa42b899598101" download="server" type="resourcepack" website="http://minecraft.curseforge.com/texture-packs/222097-unity/" authors="CyanideX, Vexatos" server="no" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains CyanideX's Unity Textures. With this you can play like Bevo does!" />
+        
+        <mod name="BevoPack-lang_only" version="Bevo v1.1.3" url="packs/BevosTechPack/files/resourcepacks/BevoPack-lang_only-v1.1.3.zip" file="BevoPack-lang_only-v1.1.3.zip" md5="965d2eab8ea64bcc2c4f55eda8c9ae77" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" server="no" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any textures" />
         
         <!-- Others -->
         
@@ -58,7 +62,7 @@
 		
 		<mod name="Forge Multipart" version="1.1.0.300" url="packs/BevosTechPack/files/1710/ForgeMultipart-1.7.10-1.1.0.300-universal.jar" file="ForgeMultipart-1.7.10-1.1.0.300-universal.jar" md5="cdea50c7944ecb00f19bb9401f7e954d" download="server" type="dependency" website="http://files.minecraftforge.net/ForgeMultipart/" authors="ChickenBones" description="An API for dynamically handling different functional parts in the one block space." />
         
-        <mod name="Cauldron (MCPC+)" version="1197.01.140" url="packs/BevosTechPack/files/jar/cauldron-1.7.10-1.1197.01.140-server.zip" file="cauldron-1.7.10-1.1197.01.140-server.zip" md5="94eefb7872c37a12d14fe7b0d50bd29b" download="server" type="extract" extractto="root" client="no" optional="yes" donation="http://www.patreon.com/bloodmc" website="http://cauldron.minecraftforge.net/" description="Libaries required by Cauldron Servers" />
+        <mod name="Cauldron (MCPC+)" version="1197.01.146" url="packs/BevosTechPack/files/jar/cauldron-1.7.10-1.1199.01.146-server.zip" file="cauldron-1.7.10-1.1199.01.146-server.zip" md5="799e035fe8574eb95529e2e272e59614" download="server" type="extract" extractto="root" client="no" optional="yes" donation="http://www.patreon.com/bloodmc" website="http://cauldron.minecraftforge.net/" description="Libaries required by Cauldron Servers" />
         
         
 		
@@ -66,7 +70,7 @@
               
         <mod name="Scripts" version="3-MINI" url="packs/BevosTechPack/files/1710/scripts-3-MINI.zip" file="scripts-3-MINI.zip" md5="9baac193828baeba409e0d91c64f8bbc" download="server" type="extract" extractto="root" hidden="yes" website="http:/bevolj.com" description="Minetweaker Scripts" />
 		
-		<!-- Mods authors=""  -->  
+		<!-- Mods -->  
         
         <mod name="Advanced Machines" version="1.7.10" url="packs/BevosTechPack/files/1710/AdvancedMachinesAS-1.7.10.jar" file="AdvancedMachinesAS-1.7.10.jar" md5="10f0cd90187a3ed31c06940fd2f3fd2c" download="server" type="mods" donation="http://www.patreon.com/user?u=82605" authors="AtomicStriker" website="http://www.atomicstryker.net/" description="Extension for IC2 Machines" />
 		
@@ -102,19 +106,13 @@
 		
 		<mod name="Factorization" version="1.7.10-0.8.87.1" url="packs/BevosTechPack/files/1710/Factorization-1.7.10-0.8.87.1.jar" file="Factorization-1.7.10-0.8.87.1.jar" md5="808837a0327195c98f4f496aa62b7d28" download="server" type="mods" website="http://minecraftforum.net/topic/1351802-" authors="neptunepink" description="Auto-crafting, ore processing, barrels, and other toys" />
 		
-		<mod name="Flaxbeards Steam Power" version="0.25.0" url="packs/BevosTechPack/files/1710/FlaxbeardsSteamPower-1.7.10-0.25.0.jar" file="FlaxbeardsSteamPower-1.7.10-0.25.0.jar" md5="8bbc7be03a7a447547f59f555c671edb" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995-professor-flaxbeards-wondrous-steam-power-mod-beta" authors="Prof Flaxbeard" description="A tech mod based on steam power" />
+		<mod name="Flaxbeards Steam Power" version="0.25.1" url="packs/BevosTechPack/files/1710/FlaxbeardsSteamPower-1.7.10-0.25.1.jar" file="FlaxbeardsSteamPower-1.7.10-0.25.1.jar" md5="c2baf93954861371cbc546b66014db30" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995-professor-flaxbeards-wondrous-steam-power-mod-beta" authors="Prof Flaxbeard" description="A tech mod based on steam power" />
         
-        <mod name="Forestry" version="2.4.2.36" url="packs/BevosTechPack/files/1710/forestry_1.7.10-2.4.2.36.jar" file="forestry_1.7.10-2.4.2.36.jar" md5="c2903e6b3868c8fcd40e66f7f9cbdf56" download="server" type="mods" website="http://forestry.sengir.net/wiki.new/doku.php" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" authors="SirSengir" description="Bee and Tree Breeding, farms, backpacks, mail system, and power production" />
+        <mod name="Forestry" version="2.4.2.44" url="packs/BevosTechPack/files/1710/forestry_1.7.10-2.4.2.44.jar" file="forestry_1.7.10-2.4.2.44.jar" md5="6720e74b9b50cc099287a2da4d6466ba" download="server" type="mods" website="http://forestry.sengir.net/wiki.new/doku.php" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" authors="SirSengir" description="Bee and Tree Breeding, farms, backpacks, mail system, and power production" />
         
         <mod name="Gendustry" version="1.3.0.7" url="packs/BevosTechPack/files/1710/gendustry-mc1710-1.3.0.7.jar" file="gendustry-mc1710-1.3.0.7.jar" md5="ec583d893531274ee6bd0384988b572b" download="server" type="mods" website="http://www.minecraftforum.net/topic/2160265-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" authors="bdew" description="Gendustry" />
         
         <mod name="GraviSuite" version="2.0.1" url="packs/BevosTechPack/files/GraviSuite-1.7.10-2.0.1.jar" file="GraviSuite-1.7.10-2.0.1.jar" md5="2b2a4e5c66b0a9c7516bd4173f4d61bd" download="server" type="mods" website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" authors="SeNtiMeL" description="IC2 Gear!" />
-        
-        <mod name="Hats" version="4.0.0" url="packs/BevosTechPack/files/Hats-4.0.0.jar" file="Hats-4.0.0.jar" md5="a308703ee962ce45cc1c8cca6c2aba5c" download="server" type="mods" website="http://ichun.us/mods/hats/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Adds a bunch of hats, as wells as the ability to add more, into Minecraft" />
-        
-        <mod name="HatStand" version="4.0.0" url="packs/BevosTechPack/files/HatStand-4.0.0.jar" file="HatStand-4.0.0.jar" md5="6d668669276027a99973b73e0677fc87" download="server" type="mods" website="http://ichun.us/mods/hats/hatstand/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Addon for Hats, a Hat Stand block to display hats." />
-        
-        <mod name="iChunUtil" version="4.0.0" url="packs/BevosTechPack/files/iChunUtil-4.0.0.jar" file="iChunUtil-4.0.0.jar" md5="c035f3695968cad2064259e1613527e6" download="server" type="mods" website="http://www.ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Shared library mod required by several of iChun&apos;s Mods." />
         
         <mod name="IndustrialCraft 2" version="2.2.566" url="packs/BevosTechPack/files/1710/industrialcraft-2-2.2.566-experimental.jar" file="industrialcraft-2-2.2.566-experimental.jar" md5="d734f57dc95ac15df4da4993a23d5922" download="server" type="mods" website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44" description="Industrial age themed expansion for Minecraft." />
 		
@@ -141,8 +139,6 @@
 		<mod name="MineTweaker" version="3.0.6" url="packs/BevosTechPack/files/1710/MineTweaker3-1.7.10-3.0.6.jar" file="MineTweaker3-1.7.10-3.0.6.jar" md5="ce39a225381966e42938c2d13c28f915" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your" authors="StanH" hidden="yes" description="MineTweaker is a mod that enables players and server admins to alter recipes (both crafting recipes, furnace recipes and now also some mod machine recipes) as well as changing some small things such as item names, fuel burning times, ... For all these functions, MineTweaker uses a fully scripted language, making it easy to understand and offering a lot of functionality." />
         
         <mod name="ModTweaker" version="0.5" url="packs/BevosTechPack/files/1710/ModTweaker-1.7.X-0.5.jar" file="ModTweaker-1.7.X-0.5.jar" md5="141ed69a6f9496c7ff24dacb139fe54d" download="server" type="mods" donation="http://www.patreon.com/joshiejack" hidden="yes" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-4-minetweaker-addon" authors="Joshie" description="Addon for MineTweaker 3" />
-        
-        <mod name="Morph" version="0.9.0" url="packs/BevosTechPack/files/Morph-Beta-0.9.0.jar" file="Morph-Beta-0.9.0.jar" md5="9f12f42c509df317f16c2bc0b14894e4" download="server" type="mods" website="http://ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Morph mod, made for ModJam 2. Allows players to acquire the morph skill and turn into other mobs." />
 		
 		<mod name="Morpheus" version="1.5.18" url="packs/BevosTechPack/files/1710/Morpheus-1.7.10-1.5.18.jar" file="Morpheus-1.7.10-1.5.18.jar" md5="0ed51ed482e6571bed4e6fe83de98510" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/69118-morpheus" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+%28from+CurseForge.com%29&amp;cmd=_s-xclick" authors="quetzi" description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate." />
 		
@@ -150,7 +146,7 @@
 		
 		<mod name="NedoComputers" version="0.3" url="packs/BevosTechPack/files/1710/NedoComputers-1.7.2-0.3.jar" file="NedoComputers-1.7.2-0.3.jar" md5="cd356f4b5b8dadb8678e7275ea60a105" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2126938-nedocomputers" authors="Andrey" description="This mod adds computers, almost the same as were in RedPower 2. NedoForth used in this mod, similar to MineOS of RedPower." />
 		
-		<mod name="NotEnoughItems" version="1.0.3.44" url="packs/BevosTechPack/files/1710/NotEnoughItems-1.7.10-1.0.3.44-universal.jar" file="NotEnoughItems-1.7.10-1.0.3.44-universal.jar" md5="e89227202a4c6ca7662b2233d6bc5f90" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Allows you to quickly and easily look up recipes and uses for any item in Minecraft included modded items. Also allows easy spawning of items and a range of one click utilities." />
+		<mod name="NotEnoughItems" version="1.0.3.46" url="packs/BevosTechPack/files/1710/NotEnoughItems-1.7.10-1.0.3.46-universal.jar" file="NotEnoughItems-1.7.10-1.0.3.46-universal.jar" md5="1a40eae450adacddcd10cbc4729eaf4a" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Allows you to quickly and easily look up recipes and uses for any item in Minecraft included modded items. Also allows easy spawning of items and a range of one click utilities." />
 
 		<mod name="NEI Addons" version="1.12.0.4" url="packs/BevosTechPack/files/1710/neiaddons-mc1710-1.12.0.4.jar" file="neiaddons-mc1710-1.12.0.4.jar" md5="d3174f39ed0c127f452b612e210ce32b" download="server" type="mods" website="http://www.minecraftforum.net/topic/1803460-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" authors="bdew" description="Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins." />
         
@@ -158,17 +154,17 @@
 
 		<mod name="ObsidiPlates" version="3.0.0.18" url="packs/BevosTechPack/files/1710/ObsidiPlates-1.7.10-universal-3.0.0.18.jar" file="ObsidiPlates-1.7.10-universal-3.0.0.18.jar" md5="20fc7e4fde83c7be83358a19bfffc4b1" download="server" type="mods" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" authors="Myrathi" description="New pressure plates made from blocks of obsidian (that only work when players step on them" />
 		
-		<mod name="OpenBlocks" version="1.7.10-1.3-snapshot-428" url="packs/BevosTechPack/files/1710/OpenBlocks-1.7.10-1.3-snapshot-428.jar" file="OpenBlocks-1.7.10-1.3-snapshot-428.jar" md5="f789f01ffe3c88843995d465472033ca" download="server" type="mods" website="http://www.minecraftforum.net/topic/1941514-" donation="http://www.patreon.com/openmods" authors="Mikee,NeverCast,boq,Lyqyd" description="OpenBlocks is a random collection of ideas - ideas the community have suggested, or ideas we thought &quot;Why hasn&apos;t anyone done that yet?&quot;. There is no theme, it&apos;s quite random. It&apos;s not even just blocks, as the name suggests!" />
+		<mod name="OpenBlocks" version="1.7.10-1.3-snapshot-430" url="packs/BevosTechPack/files/1710/OpenBlocks-1.7.10-1.3-snapshot-430.jar" file="OpenBlocks-1.7.10-1.3-snapshot-430.jar" md5="13fdaa64b4cfef0dd607882081e32760" download="server" type="mods" website="http://www.minecraftforum.net/topic/1941514-" donation="http://www.patreon.com/openmods" authors="Mikee,NeverCast,boq,Lyqyd" description="OpenBlocks is a random collection of ideas - ideas the community have suggested, or ideas we thought &quot;Why hasn&apos;t anyone done that yet?&quot;. There is no theme, it&apos;s quite random. It&apos;s not even just blocks, as the name suggests!" />
 		
 		<mod name="OpenComputers" version="1.3.2.34" url="packs/BevosTechPack/files/1710/OpenComputers-MC1.7.10-1.3.2.34-universal.jar" file="OpenComputers-MC1.7.10-1.3.2.34-universal.jar" md5="3d0de39ac2691f9252c910eed9e761d1" download="server" type="mods" website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar" description="This mod adds programmable, modular and persistent computers to the game." />
 		
-		<mod name="OpenMods Lib" version="1.7.10-0.6-snapshot-222" url="packs/BevosTechPack/files/1710/OpenModsLib-1.7.10-0.6-snapshot-222.jar" file="OpenModsLib-1.7.10-0.6-snapshot-222.jar" md5="d942ee2d2c2403748f68cb21f4f7cfee" download="server" type="mods" website="http://www.openblocks.info/" donation="http://www.patreon.com/openmods" authors="Mikeemoo" description="This is required for all of OpenBlocks mods." />
+		<mod name="OpenMods Lib" version="1.7.10-0.6-snapshot-223" url="packs/BevosTechPack/files/1710/OpenModsLib-1.7.10-0.6-snapshot-223.jar" file="OpenModsLib-1.7.10-0.6-snapshot-223.jar" md5="308fda5440e1e4515f079ff05744b626" download="server" type="mods" website="http://www.openblocks.info/" donation="http://www.patreon.com/openmods" authors="Mikeemoo" description="This is required for all of OpenBlocks mods." />
 		
 		<mod name="PneumaticCraft" version="1.2.5" url="packs/BevosTechPack/files/1710/PneumaticCraft-1.2.5.jar" file="PneumaticCraft-1.2.5.jar" md5="1409a7b119a5f489e2db9b396717249d" download="server" type="mods" website="http://www.minecraftforum.net/topic/1841226-" authors="MineMaarten" description="A technical mod all about pneumatics!" />
 
 		<mod name="Pressure Pipes" version="0.9.2.5" url="packs/BevosTechPack/files/1710/pressure-mc1710-0.9.2.5.jar" file="pressure-mc1710-0.9.2.5.jar" md5="cf2758bf4c2e3fdf8b94317048a6b29e" download="server" type="mods" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" website="http://bdew.net/pressure/" authors="bdew" description="Pressurized Pipes" />
         
-		<mod name="Progressive Automation" version="1.4.1" url="packs/BevosTechPack/files/1710/ProgressiveAutomation-1.7.10-1.4.1.jar" file="ProgressiveAutomation-1.7.10-1.4.1.jar" md5="fa06dab59540be76947d03f759e8d5f5" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation-upgradeable-machines" authors="Vanhal" description="This mod provides low tech automation tools for common tasks. The tools will be upgradable as the player progresses." />
+		<mod name="Progressive Automation" version="1.4.2" url="packs/BevosTechPack/files/1710/ProgressiveAutomation-1.7.10-1.4.2.jar" file="ProgressiveAutomation-1.7.10-1.4.2.jar" md5="91012c9364ea5e5c0a380bc649da25bb" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation-upgradeable-machines" authors="Vanhal" description="This mod provides low tech automation tools for common tasks. The tools will be upgradable as the player progresses." />
 		
 		<mod name="Project Red" version="4.4.5.44" url="packs/BevosTechPack/files/1710/ProjectRed-Base-1.7.10-4.4.5.44.jar" file="ProjectRed-Base-1.7.10-4.4.5.44.jar" md5="8d0a5c286434f77fb20cfa32fff59d48" download="server" donation="http://www.patreon.com/MrTJP" type="mods" authors="MrTJP" website="http://projectredwiki.com/wiki/Version_archive" description="A mod all about redstone tinkering." />
 		
@@ -176,7 +172,7 @@
 		
 		<mod name="Project Red" version="4.4.5.44" url="packs/BevosTechPack/files/1710/ProjectRed-Integration-1.7.10-4.4.5.44.jar" file="ProjectRed-Integration-1.7.10-4.4.5.44.jar" md5="17f076c6b00c38d71304be9ce4deaae8" download="server" donation="http://www.patreon.com/MrTJP" hidden="yes" type="mods" website="http://projectredwiki.com/wiki/Version_archive" authors="MrTJP" description="A mod all about redstone tinkering." />
         
-        <mod name="Railcraft" version="9.1.0.11" url="packs/BevosTechPack/files/1710/Railcraft_1.7.10-9.1.0.11.jar" file="Railcraft_1.7.10-9.1.0.11.jar" md5="392664cb726fc500876b70041b981deb" download="server" type="mods" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" authors="CovertJaguar" description="Redefine your rails" />
+        <mod name="Railcraft" version="9.2.0.0" url="packs/BevosTechPack/files/1710/Railcraft_1.7.10-9.2.0.0.jar" file="Railcraft_1.7.10-9.2.0.0.jar" md5="73966f603ca5a24259c9bbdd48e2771e" download="server" type="mods" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" authors="CovertJaguar" description="Redefine your rails" />
 		
 		<mod name="Redstone Arsenal" version="[1.7.10]1.1.0B3-8" url="packs/BevosTechPack/files/1710/RedstoneArsenal-[1.7.10]1.1.0B3-8.jar" file="RedstoneArsenal-[1.7.10]1.1.0B3-8.jar" md5="7f3ec9be64a640c3679bc77a5c7b65e8" download="server" type="mods" website="http://teamcofh.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="KingLemmingCoFH,Cynycal,Zeldo" description="Redstone Arsenal adds several new items used to create powerful tools." />
 		
@@ -214,7 +210,13 @@
 		
 		<!-- Disabled 1.7.2 Mods
         
-
+        <mod name="Hats" version="4.0.0" url="packs/BevosTechPack/files/Hats-4.0.0.jar" file="Hats-4.0.0.jar" md5="a308703ee962ce45cc1c8cca6c2aba5c" download="server" type="mods" website="http://ichun.us/mods/hats/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Adds a bunch of hats, as wells as the ability to add more, into Minecraft" />
+        
+        <mod name="HatStand" version="4.0.0" url="packs/BevosTechPack/files/HatStand-4.0.0.jar" file="HatStand-4.0.0.jar" md5="6d668669276027a99973b73e0677fc87" download="server" type="mods" website="http://ichun.us/mods/hats/hatstand/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Addon for Hats, a Hat Stand block to display hats." />
+        
+        <mod name="iChunUtil" version="4.0.0" url="packs/BevosTechPack/files/iChunUtil-4.0.0.jar" file="iChunUtil-4.0.0.jar" md5="c035f3695968cad2064259e1613527e6" download="server" type="mods" website="http://www.ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Shared library mod required by several of iChun&apos;s Mods." />
+        
+        <mod name="Morph" version="0.9.0" url="packs/BevosTechPack/files/Morph-Beta-0.9.0.jar" file="Morph-Beta-0.9.0.jar" md5="9f12f42c509df317f16c2bc0b14894e4" download="server" type="mods" website="http://ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="Morph mod, made for ModJam 2. Allows players to acquire the morph skill and turn into other mobs." />
 
  
 -->
