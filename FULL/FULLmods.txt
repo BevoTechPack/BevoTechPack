@@ -30,7 +30,7 @@ enderio-2.0_beta.156.jar
 EnderStorage-1.7.10-1.4.5.17-universal.jar
 extrautilities-1.1.0f.jar
 Factorization-1.7.10-0.8.87.1.jar
-FlaxbeardsSteamPower-1.7.10-0.25.1.jar
+FlaxbeardsSteamPower-1.7.10-0.25.2.jar
 forestry_1.7.10-2.4.2.44.jar
 FULLmods.txt
 gendustry-mc1710-1.3.0.7.jar
