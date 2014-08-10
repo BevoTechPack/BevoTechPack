@@ -25,6 +25,8 @@
         <Power name="secondsPerTick" value="1"/>
         <!--Allow crafting of certain hard-to-obtain items. This de-balances the mod.-->
         <Crafting controllerCrystal="false" coreCrystal="false" name="allowCrafting"/>
+        <!--Can a Stargate connect to a Stargate of another type?-->
+        <Connection enabled="true" name="canGatesCrossTypes"/>
     </Module>
     <Module enabled="true" name="POWER"/>
     <Module enabled="true" name="MACHINE"/>
