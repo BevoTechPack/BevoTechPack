@@ -1,8 +1,10 @@
 {
     "Zinc": {
         "template": "uniform",
-        "block": "Steamcraft:steamcraftOre",
-        "metadata": 1,
+        "block": {
+            "name": "Steamcraft:steamcraftOre",
+            "metadata": 1
+        },
         "clusterSize": 6,
         "numClusters": 6,
         "minHeight": 20,

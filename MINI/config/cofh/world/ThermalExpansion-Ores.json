@@ -1,8 +1,10 @@
 {
     "copper": {
         "template": "uniform",
-        "block": "ThermalFoundation:Ore",
-        "metadata": 0,
+        "block": {
+            "name": "ThermalFoundation:Ore",
+            "metadata": 0
+        },
         "clusterSize": 8,
         "numClusters": 10,
         "minHeight": 40,
@@ -20,8 +22,10 @@
     },
     "tin": {
         "template": "uniform",
-        "block": "ThermalFoundation:Ore",
-        "metadata": 1,
+        "block": {
+            "name": "ThermalFoundation:Ore",
+            "metadata": 1
+        },
         "clusterSize": 8,
         "numClusters": 10,
         "minHeight": 20,
@@ -40,16 +44,16 @@
     "silver": {
         "template": "uniform",
         "block": [
-            "ThermalFoundation:Ore",
-            "ThermalFoundation:Ore"
-        ],
-        "metadata": [
-            2,
-            3
-        ],
-        "weight": [
-            80,
-            20
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 2,
+                "weight": 80
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 3,
+                "weight": 20
+            }
         ],
         "clusterSize": 8,
         "numClusters": 10,
@@ -69,16 +73,16 @@
     "lead": {
         "template": "uniform",
         "block": [
-            "ThermalFoundation:Ore",
-            "ThermalFoundation:Ore"
-        ],
-        "metadata": [
-            3,
-            2
-        ],
-        "weight": [
-            90,
-            10
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 3,
+                "weight": 90
+            },
+            {
+                "name": "ThermalFoundation:Ore",
+                "metadata": 2,
+                "weight": 10
+            }
         ],
         "clusterSize": 8,
         "numClusters": 10,
@@ -97,8 +101,10 @@
     },
     "nickel": {
         "template": "uniform",
-        "block": "ThermalFoundation:Ore",
-        "metadata": 4,
+        "block": {
+            "name": "ThermalFoundation:Ore",
+            "metadata": 4
+        },
         "clusterSize": 4,
         "numClusters": 2,
         "minHeight": 5,
