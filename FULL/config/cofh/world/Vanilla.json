@@ -146,7 +146,7 @@
         "retrogen": "true",
         "biomeRestriction": "whitelist",
         "biomes": [
-            "hell"
+            
         ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
