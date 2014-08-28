@@ -1,7 +1,3 @@
-# Uncrafting Table
-
-recipes.remove(<TwilightForest:tile.TFUncraftingTable>);
-
 recipes.remove(<minecraft:cake>);
 recipes.addShaped(<minecraft:cake>,		[[null, <harvestcraft:freshmilkItem>,null],
 													[<minecraft:sugar>,<minecraft:egg>,<minecraft:sugar>],
