@@ -6,12 +6,6 @@ cd G:\ATLauncher\Instances\FULLDEV\mods
 dir/b >FULLmods.txt
 move FULLmods.txt C:\Users\Bevo\Documents\GitHub\BevoTechPack\FULL\
 C:
-cd C:\Users\Bevo\Documents\GitHub\BevoTechPack\FULL\config\
-del InvTweaks.cfg
-del InvTweaksRules.txt
-del InvTweaksTree.txt
-cd C:\Users\Bevo\Documents\GitHub\BevoTechPack\FULL\config\NEI\
-del client.cfg
 cd C:\Users\Bevo\Documents\GitHub\BevoTechPack\FULL\
 del *.zip
 cd C:\Users\Bevo\Documents\GitHub
@@ -29,12 +23,6 @@ move MINImods.txt C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\
 C:
 cd C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\
 del *.zip
-cd C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\config\
-del InvTweaks.cfg
-del InvTweaksRules.txt
-del InvTweaksTree.txt
-cd C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\config\NEI\
-del client.cfg
 cd C:\Users\Bevo\Documents\GitHub
 7za.exe a config.zip C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\config*
 7za.exe a scripts.zip C:\Users\Bevo\Documents\GitHub\BevoTechPack\MINI\scripts*

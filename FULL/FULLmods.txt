@@ -14,7 +14,7 @@ BiblioWoods[Forestry][v1.5].jar
 BiblioWoods[Natura][v1.2].jar
 BiomesOPlenty-1.7.10-2.1.0.943-universal.jar
 Blood Magic-v1.1.0(1.7.10).jar
-Botania r1.2-107.jar
+Botania r1.2-106.jar
 buildcraft-6.0.17.jar
 Carpenters Blocks v3.2.6 - MC 1.7.10.zip
 carpentersblocks
