@@ -6,10 +6,10 @@
             "metadata": 1
         },
         "clusterSize": 6,
-        "numClusters": 6,
+        "numClusters": 4,
         "minHeight": 20,
         "maxHeight": 55,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"

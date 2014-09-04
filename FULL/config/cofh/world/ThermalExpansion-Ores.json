@@ -55,8 +55,8 @@
                 "weight": 20
             }
         ],
-        "clusterSize": 6,
-        "numClusters": 8,
+        "clusterSize": 5,
+        "numClusters": 3,
         "minHeight": 5,
         "maxHeight": 30,
         "retrogen": "false",
@@ -84,11 +84,11 @@
                 "weight": 10
             }
         ],
-        "clusterSize": 8,
-        "numClusters": 10,
+        "clusterSize": 6,
+        "numClusters": 5,
         "minHeight": 18,
         "maxHeight": 42,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -109,7 +109,7 @@
         "numClusters": 2,
         "minHeight": 5,
         "maxHeight": 20,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"

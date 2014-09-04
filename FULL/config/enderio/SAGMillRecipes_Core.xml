@@ -122,8 +122,7 @@
     </recipe>
 
     <recipe name="IronIngot" energyCost="240">
-      <input>        
-        <itemStack modID="minecraft" itemName="iron_ingot"/>  
+      <input>          
         <itemStack oreDictionary="ingotIron" />
       </input>
       <output>
@@ -144,7 +143,6 @@
 
     <recipe name="GoldIngot" energyCost="240">
       <input>
-        <itemStack modID="minecraft" itemName="gold_ingot"/>
         <itemStack oreDictionary="ingotGold" />
       </input>
       <output>
@@ -1641,7 +1639,14 @@
     
     <excludes>
       <itemStack modID="minecraft" itemName="glowstone" />
-      <itemStack modID="minecraft" itemName="wool" itemMeta="*"/>      
+      <itemStack modID="minecraft" itemName="wool" itemMeta="*"/>   
+      <itemStack modID="minecraft" itemName="quartz_block" itemMeta="*"/>
+      <itemStack modID="minecraft" itemName="quartz_stairs"/>
+      <itemStack modID="minecraft" itemName="stone_slab" itemMeta="7" /> 
+      
+      <itemStack modID="minecraft" itemName="quartz" />         
+      <itemStack oreDictionary="crystalCertusQuartz" />
+      <itemStack oreDictionary="crystalFluix" />   
     </excludes>
     
   </grindingBalls>
