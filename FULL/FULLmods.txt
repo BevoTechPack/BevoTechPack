@@ -1,7 +1,7 @@
 1.7.10
 AdvancedMachines-1.7.10.jar
 AOBD-2.2.4.jar
-appliedenergistics2-rv1-beta-19.jar
+appliedenergistics2-rv1-beta-20.jar
 Aroma1997Core-1.7.10-1.0.2.8.jar
 AromaBackup-1.7.10-0.0.0.3.jar
 AsieLib-1.7.10-0.2.12.jar
@@ -14,9 +14,9 @@ BiblioWoods[Natura][v1.2].jar
 BiomesOPlenty-1.7.10-2.1.0.943-universal.jar
 Blood Magic-v1.1.0(1.7.10).jar
 BluePower-1.7.10-0.1.708-universal.jar
-Botania r1.2-113.jar
+Botania r1.2-112.jar
 buildcraft-6.0.18.jar
-Carpenters Blocks v3.2.7 DEV R3 - MC 1.7.10.zip
+Carpenters Blocks v3.2.7 DEV R4 - MC 1.7.10.zip
 carpentersblocks
 Chisel-1.7.10-1.5.6b.jar
 CodeChickenCore-1.7.10-1.0.3.25-universal.jar
@@ -32,7 +32,7 @@ EnhancedPortals_1.7.10-universal-3.0.6.jar
 extrautilities-1.1.0k.jar
 Factorization-1.7.10-0.8.88.jar
 FlaxbeardsSteamPower-1.7.10-0.26.2.jar
-forestry_1.7.10-3.0.0.92.jar
+forestry_1.7.10-3.0.0.107.jar
 FULLmods.txt
 GalacticraftCore-BETA-1.7-3.0.1.181.jar
 GardenStuff-1.7.10-1.2.1.jar
@@ -94,7 +94,6 @@ resources
 roguelike-1.7.10-1.3.5.jar
 Ruins-1.7.10.jar
 ruins.txt
-ruins_log.txt
 SimplyJetpacks-MC1.7.10-1.1.0.jar
 SpiceOfLife-mc1.7.x-1.1.1.jar
 statues-1.7.10-2.1.3.jar
