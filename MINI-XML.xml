@@ -11,13 +11,6 @@
         
     </pack>
     
-    <messages>
-        
-    	<install><![CDATA[<center>MINI version of BTP designed for lower end computers and to be easier<br>Not compatible with FULL version of BTP</center>]]></install>
-   		<update><![CDATA[<center>MINI version of BTP designed for lower end computers and to be easier<br>Not compatible with FULL version of BTP</center>]]></update>
-        
-	</messages>
-    
     <libraries>
         
         <library url="packs/BevosTechPack/files/libraries/launchwrapper-1.9.jar" file="launchwrapper-1.9.jar" md5="a3da457dd2a94c41d4cb18f833825552" download="server" server="net/minecraft/launchwrapper/1.9/launchwrapper-1.9.jar" />
@@ -50,9 +43,9 @@
         
       	<!-- Resource Packs -->
         
-        <mod name="Bevo Texture and Lang Pack" version="Bevo v1.1.5" url="packs/BevosTechPack/files/resourcepacks/BevoPack-Unity-v1.1.5.zip" file="BevoPack-Unity-v1.1.5.zip" md5="9534c62313e4a725123c68e729b7be01" download="server" type="resourcepack" website="http://minecraft.curseforge.com/texture-packs/222097-unity/" authors="CyanideX, Vexatos" server="no" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains CyanideX's Unity Textures. With this you can play like Bevo does!" />
+        <mod name="Bevo Texture and Lang Pack" version="Bevo v1.1.6" url="packs/BevosTechPack/files/BTP10/BevoPack-lang_only-v1.1.6.zip" file="BevoPack-lang_only-v1.1.6.zip" md5="81740d0006981ec174c3c15391abe241" download="server" type="resourcepack" website="http://minecraft.curseforge.com/texture-packs/222097-unity/" authors="CyanideX, Vexatos" server="no" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains CyanideX's Unity Textures. With this you can play like Bevo does!" />
         
-        <mod name="BevoPack-lang_only" version="Bevo v1.1.5" url="packs/BevosTechPack/files/resourcepacks/BevoPack-lang_only-v1.1.5.zip" file="BevoPack-lang_only-v1.1.5.zip" md5="9be85efe87682ded08a8621a2cd168b0" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" server="no" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any textures" />
+        <mod name="BevoPack-lang_only" version="Bevo v1.1.6" url="packs/BevosTechPack/files/BTP10/BevoPack-Unity-v1.1.6.zip" file="BevoPack-Unity-v1.1.6.zip" md5="36dc693c5ccada2d16f6d494f343465a" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" server="no" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any textures" />
         
         <!-- Others -->
         
@@ -68,7 +61,7 @@
 		
 		<!-- Scripts -->
               
-        <mod name="Scripts" version="MINI" url="packs/BevosTechPack/files/BTP10/scripts10-1M.zip" file="scripts10-1M.zip" md5="1045d42957f08501e4696192c5474551" download="server" type="extract" extractto="root" hidden="yes" website="http:/bevolj.com" description="Minetweaker Scripts" />
+        <mod name="Scripts" version="MINI" url="packs/BevosTechPack/files/BTP10/scripts102M.zip" file="scripts102M.zip" md5="a1ec60a85ffb4ca24d00aba333bd42b4" download="server" type="extract" extractto="root" hidden="yes" website="http:/bevolj.com" description="Minetweaker Scripts" />
 		
 		<!-- Mods -->  
         
@@ -130,7 +123,7 @@
 		
 		<mod name="JABBA" version="1.1.4" url="packs/BevosTechPack/files/1710/Jabba-1.1.4_1.7.10.jar" file="Jabba-1.1.4_1.7.10.jar" md5="3fb08cd3741ae159ebf70ecda3b57593" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/73488-waila" authors="Prof Mobius" donation="http://www.patreon.com/profmobius" description="Just Another Better Berral Attempt" />
 		
-		<mod name="JourneyMap" version="4.0.4" url="http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2210848" file="JourneyMap4.0.4_FairPlay_MC1.7.10.jar" md5="378e79dae608c73a2daeefd6051c34f4" download="direct" type="mods" website="http://www.minecraftforum.net/topic/772071-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE" recommended="no" optional="yes" group="map" server="no" authors="Mark Woodman AKA TechBrew" description="Real-time map in-game or in a web browser as you explore." />
+		<mod name="JourneyMap" version="4.0.4" url="http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2210848/download" file="JourneyMap4.0.4_FairPlay_MC1.7.10.jar" md5="378e79dae608c73a2daeefd6051c34f4" download="direct" type="mods" website="http://www.minecraftforum.net/topic/772071-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE" recommended="no" optional="yes" group="map" server="no" authors="Mark Woodman AKA TechBrew" description="Real-time map in-game or in a web browser as you explore." />
         
         <mod name="LanteaCraft" version="1.7.10-52" url="packs/BevosTechPack/files/1710/LanteaCraft-1.7.10-52.jar" file="LanteaCraft-1.7.10-52.jar" md5="f12786e9a5c31be3617b356a47120c3b" download="server" type="mods" website="http://www.minecraftforum.net/topic/2059956-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=SQPY5LSY5MVQG" authors="Neo,Greg Ewing,AfterLifeLochie" description="Greg&apos;s SGCraft, reloaded!" />
 		
@@ -140,7 +133,7 @@
         
         <mod name="MekanismGenerators" version="1.7.10-7.1.1.100" url="packs/BevosTechPack/files/BTP10/MekanismGenerators-1.7.10-7.1.1.100.jar" file="MekanismGenerators-1.7.10-7.1.1.100.jar" md5="32d5216e46161752df4446577b2d9cda" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" hidden="yes" description="Generators module of Mekanism." />
         
-        <mod name="MekanismTools" version="1.7.10-7.1.1.100" url="packs/BevosTechPack/files/BTP10/MekanismGenerators-1.7.10-7.1.1.100.jar" file="MekanismGenerators-1.7.10-7.1.1.100.jar" md5="32d5216e46161752df4446577b2d9cda" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" hidden="yes" authors="aidancbrady" description="Tools module for Mekanism." /> 
+        <mod name="MekanismTools" version="1.7.10-7.1.1.100" url="packs/BevosTechPack/files/BTP10/MekanismTools-1.7.10-7.1.1.100.jar" file="MekanismTools-1.7.10-7.1.1.100.jar" md5="a295c9b5a8986c83d0432f244b84ba03" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" hidden="yes" authors="aidancbrady" description="Tools module for Mekanism." /> 
 
 		<mod name="MineFactory Reloaded" version="[1.7.10]2.8.0RC3-591" url="packs/BevosTechPack/files/BTP10/MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar" file="MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar" md5="4595dc11752aabce0da9667d7552da61" download="server" type="mods" website="http://www.minecraftforum.net/topic/2016680-" authors="PowerCrystals,TehKrush,AtomicStryker,Feanorith,skyboy026" description="Automate everything!" />
         
@@ -165,8 +158,10 @@
 		<mod name="ObsidiPlates" version="3.0.0.18" url="packs/BevosTechPack/files/1710/ObsidiPlates-1.7.10-universal-3.0.0.18.jar" file="ObsidiPlates-1.7.10-universal-3.0.0.18.jar" md5="20fc7e4fde83c7be83358a19bfffc4b1" download="server" type="mods" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" authors="Myrathi" description="New pressure plates made from blocks of obsidian (that only work when players step on them" />
 		
 		<mod name="OpenBlocks" version="1.7.10-1.3-snapshot-432" url="packs/BevosTechPack/files/1710/OpenBlocks-1.7.10-1.3-snapshot-432.jar" file="OpenBlocks-1.7.10-1.3-snapshot-432.jar" md5="ffa0a76fec6fd5fb1765644776fbff23" download="server" type="mods" website="http://www.minecraftforum.net/topic/1941514-" donation="http://www.patreon.com/openmods" authors="Mikee,NeverCast,boq,Lyqyd" description="OpenBlocks is a random collection of ideas - ideas the community have suggested, or ideas we thought &quot;Why hasn&apos;t anyone done that yet?&quot;. There is no theme, it&apos;s quite random. It&apos;s not even just blocks, as the name suggests!" />
+        
+        <mod name="MobiusCore" version="1.2.3" url="packs/BevosTechPack/files/BTP10/MobiusCore-1.2.3_1.7.10.jar" file="MobiusCore-1.2.3_1.7.10.jar" md5="2f6af16859c7f6b752cbbc9f1cabf5af" download="server" type="mods" optional="yes" authors="ProfMobius" recommended="no" hidden="yes" website="http://minecraft.curseforge.com/mc-mods/76734-mobiuscore" donation="http://www.patreon.com/openmods" description="This is the core mod which is required to run Opis." />
 		
-		<mod name="Opis" version="1.2.3" url="packs/BevosTechPack/files/BTP10/Opis-1.2.3_1.7.10.jar" file="Opis-1.2.3_1.7.10.jar" md5="b6cbb92875c73349b88e597e14b96587" download="server" type="mods" optional="yes" authors="ProfMobius" recommended="no" donation="http://www.patreon.com/profmobius" website="http://minecraft.curseforge.com/mc-mods/73832-opis" description="Opis is a server profiler for Forge server." />
+		<mod name="Opis" version="1.2.3" url="packs/BevosTechPack/files/BTP10/Opis-1.2.3_1.7.10.jar" file="Opis-1.2.3_1.7.10.jar" md5="b6cbb92875c73349b88e597e14b96587" download="server" type="mods" optional="yes" depends="MobiusCore" authors="ProfMobius" recommended="no" donation="http://www.patreon.com/profmobius" website="http://minecraft.curseforge.com/mc-mods/73832-opis" description="Opis is a server profiler for Forge server." />
 		
 		<mod name="OpenComputers" version="1.3.3.54" url="packs/BevosTechPack/files/1710/OpenComputers-MC1.7.10-1.3.3.54-universal.jar" file="OpenComputers-MC1.7.10-1.3.3.54-universal.jar" md5="d8627b9ee3eb0a0572dccd980876a453" download="server" type="mods" website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar" description="This mod adds programmable, modular and persistent computers to the game." />
 		
