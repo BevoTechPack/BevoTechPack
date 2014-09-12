@@ -1,12 +1,6 @@
 furnace.remove(<bluepower:stone_tile>);
-recipes.addShaped(<bluepower:stone_tile>,						[[<ProjRed|Core:projectred.core.part>,null,null],
-																[null,null,null],
-																[null, null,null]]);
-recipes.addShaped(<ProjRed|Core:projectred.core.part>,			[[<bluepower:stone_tile>,null,null],
-																[null,null,null],
-																[null, null,null]]);
+recipes.addShapeless(<bluepower:stone_tile>, [<ProjRed|Core:projectred.core.part>]);
+recipes.addShapeless(<ProjRed|Core:projectred.core.part>, [<bluepower:stone_tile>]);
 
 recipes.remove(<bluepower:screwdriver>);
-recipes.addShaped(<bluepower:screwdriver>,			[[<ore:ingotTin>, null,null],
-													[null,<ore:ingotTin>,null],
-													[null, null,<ore:stickWood>]]);
+recipes.addShaped(<bluepower:screwdriver>,			[[<ore:ingotTin>, null,null],[null,<ore:ingotTin>,null],[null, null,<ore:stickWood>]]);
