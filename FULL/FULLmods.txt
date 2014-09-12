@@ -11,7 +11,7 @@ BiblioCraft[v1.7.5][MC1.7.10]1.jar
 BiblioWoods[BiomesOPlenty][v1.7].jar
 BiblioWoods[Forestry][v1.5].jar
 BiblioWoods[Natura][v1.2].jar
-BiomesOPlenty-1.7.10-2.1.0.943-universal.jar
+BiomesOPlenty-1.7.10-2.1.0.981-universal.jar
 Blood Magic-v1.2.0Beta18(1.7.10).jar
 BluePower-1.7.10-0.1.708-universal.jar
 Botania r1.2-116.jar
@@ -26,7 +26,7 @@ CompactSolars-1.7.10-4.4.37.314-universal.jar
 Computronics-1.7-0.6.4.jar
 DescriptionTags-1.0-1.7.10.jar
 Enchiridion-1.7.X-1.2b.jar
-EnderIO-1.7.10-2.0.6.216.jar
+EnderIO-1.7.10-2.0.7.219.jar
 EnderStorage-1.7.10-1.4.5.24-universal.jar
 EnhancedPortals_1.7.10-universal-3.0.6.jar
 ExtraCells-2.1.11.jar
@@ -54,16 +54,18 @@ INpureCore-[1.7.10]1.0.0B1-1.jar
 InventoryTweaks-1.59-dev-152.jar
 ironchest-1.7.10-6.0.43.730-universal.jar
 Jabba-1.1.4_1.7.10.jar
+JourneyMap4.0.4_FairPlay_MC1.7.10.jar
 LanteaCraft-1.7.10-52.jar
 launchgui-1.7.10-1.2.jar
 Mantle-mc1.7.10-0.3.1.jar
-Mekanism-1.7.10-7.1.1.97.jar
-MekanismGenerators-1.7.10-7.1.1.97.jar
-MekanismTools-1.7.10-7.1.1.97.jar
+Mekanism-1.7.10-7.1.1.100.jar
+MekanismGenerators-1.7.10-7.1.1.100.jar
+MekanismTools-1.7.10-7.1.1.100.jar
 MicdoodleCore-BETA-1.7-3.0.2.185.jar
 MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar
 MineMenu-1.7.X-1.1.7.B38-universal.jar
 MineTweaker3-1.7.10-3.0.8B.jar
+MobiusCore-1.2.3_1.7.10.jar
 ModTweaker-1.7.X-0.6-16.jar
 Morpheus-1.7.10-1.5.18.jar
 natura-1.7.10-2.2.0-b1.jar
@@ -76,6 +78,7 @@ OpenComponents-MC1.7.10-0.2.0.15-universal.jar
 OpenComputers-MC1.7.10-1.3.3.54-universal.jar
 OpenEye-0.6-1.7.10.jar
 OpenModsLib-1.7.10-0.6-snapshot-224.jar
+Opis-1.2.3_1.7.10.jar
 Pams HarvestCraft 1.7.10a.zip
 PneumaticCraft-1.2.6.jar
 pressure-mc1710-0.9.2.12.jar
@@ -95,6 +98,7 @@ resources
 roguelike-1.7.10-1.3.5.jar
 Ruins-1.7.10.jar
 ruins.txt
+ruins_log.txt
 SimplyJetpacks-MC1.7.10-1.1.0.jar
 SpiceOfLife-mc1.7.x-1.1.1.jar
 statues-1.7.10-2.1.3.jar
@@ -110,9 +114,7 @@ TMechworks_mc1.7.10_0.2.8.jar
 Translocator-1.7.10-1.1.1.12-universal.jar
 twilightforest-1.7.2-2.2.3.jar
 UpdateCheckerMod-1.7.10.jar
-voxelmapNoRadar-1.7.10-1.0.jar
-VoxelMods
-Waila-1.5.3a_1.7.10.jar
+Waila-1.5.4_1.7.10.jar
 WailaHarvestability-mc1.7.x-1.1.0.jar
 warpbook-2.0.34.jar
 whatsthispack-1.7.2-1.0.jar

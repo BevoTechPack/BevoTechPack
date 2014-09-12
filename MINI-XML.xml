@@ -2,7 +2,7 @@
     
 	<pack>
         
-		<version>BTP-10.1-MINI</version>
+		<version>BTP-10.2-MINI</version>
 		<minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -98,7 +98,7 @@
         
         <mod name="Computronics" version="0.6.4" url="packs/BevosTechPack/files/1710/Computronics-1.7-0.6.4.jar" file="Computronics-1.7-0.6.4.jar" md5="fc083e8dbdb5b9a9404c2e85032f4bcb" download="server" type="mods" website="http://mc.shinonome.ch/doku.php" authors="Asie" description="Computronics is a Minecraft mod that adds a set of computer peripherals. It is compatible with both ComputerCraft, NedoComputers and OpenComputers" />
 		
-		<mod name="Ender IO" version="2.0.6.216" url="packs/BevosTechPack/files/BTP10/EnderIO-1.7.10-2.0.6.216.jar" file="EnderIO-1.7.10-2.0.6.216.jar" md5="8ebc03e36a2ee1d4334201b9f289402e" download="server" type="mods" authors="CrazyPants" website="http://enderio.com/" donation="http://www.hypersomniaresearch.org/ " description="A mod which adds compact liquid conduits, energy conduits and redstone conduits, power generation, machinery, remote area access (enderIO), transceivers and more" />
+		<mod name="Ender IO" version="2.0.7.219" url="packs/BevosTechPack/files/BTP10/EnderIO-1.7.10-2.0.7.219.jar" file="EnderIO-1.7.10-2.0.7.219.jar" md5="4be88040a52991813c50afe4cc6d72bf" download="server" type="mods" authors="CrazyPants" website="http://enderio.com/" donation="http://www.hypersomniaresearch.org/ " description="A mod which adds compact liquid conduits, energy conduits and redstone conduits, power generation, machinery, remote area access (enderIO), transceivers and more" />
 		
 		<mod name="Ender Storage" version="1.4.5.24" url="packs/BevosTechPack/files/BTP10/EnderStorage-1.7.10-1.4.5.24-universal.jar" file="EnderStorage-1.7.10-1.4.5.24-universal.jar" md5="3fdd6eaa4170d251563e3fd1e6d64535" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions)." />
         
@@ -129,16 +129,18 @@
 		<mod name="Iron Chest" version="6.0.41.730" url="packs/BevosTechPack/files/1710/ironchest-1.7.10-6.0.43.730-universal.jar" file="ironchest-1.7.10-6.0.43.730-universal.jar" md5="5955a66bce9d96067e4eb22c3a8175af" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0" authors="CPW" description="IronChests 5.0, formerly an IC2 addon mod, now completely IC2 independent" />
 		
 		<mod name="JABBA" version="1.1.4" url="packs/BevosTechPack/files/1710/Jabba-1.1.4_1.7.10.jar" file="Jabba-1.1.4_1.7.10.jar" md5="3fb08cd3741ae159ebf70ecda3b57593" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/73488-waila" authors="Prof Mobius" donation="http://www.patreon.com/profmobius" description="Just Another Better Berral Attempt" />
+		
+		<mod name="JourneyMap" version="4.0.4" url="http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2210848" file="JourneyMap4.0.4_FairPlay_MC1.7.10.jar" md5="378e79dae608c73a2daeefd6051c34f4" download="direct" type="mods" website="http://www.minecraftforum.net/topic/772071-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE" recommended="no" optional="yes" group="map" server="no" authors="Mark Woodman AKA TechBrew" description="Real-time map in-game or in a web browser as you explore." />
         
         <mod name="LanteaCraft" version="1.7.10-52" url="packs/BevosTechPack/files/1710/LanteaCraft-1.7.10-52.jar" file="LanteaCraft-1.7.10-52.jar" md5="f12786e9a5c31be3617b356a47120c3b" download="server" type="mods" website="http://www.minecraftforum.net/topic/2059956-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=SQPY5LSY5MVQG" authors="Neo,Greg Ewing,AfterLifeLochie" description="Greg&apos;s SGCraft, reloaded!" />
 		
 		<mod name="Mantle" version="0.3.1" url="packs/BevosTechPack/files/1710/Mantle-mc1.7.10-0.3.1.jar" file="Mantle-mc1.7.10-0.3.1.jar" md5="bf878ab7fb408df99e197393ce6a009e" download="server" type="mods" hidden="yes" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287648-tinkers-construct" authors="mDiyo" description="Core for TCon" />
         
-        <mod name="Mekanism" version="1.7.10-7.1.1.97" url="packs/BevosTechPack/files/BTP10/Mekanism-1.7.10-7.1.1.97.jar" file="Mekanism-1.7.10-7.1.1.97.jar" md5="f36871db43b2b8a8190bb2a27cb41fc9" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" description="Energy, Armor, Tools, Weapons, Machines, Magic." />
+        <mod name="Mekanism" version="1.7.10-7.1.1.100" url="packs/BevosTechPack/files/BTP10/Mekanism-1.7.10-7.1.1.100.jar" file="Mekanism-1.7.10-7.1.1.100.jar" md5="759cb2a856da14dd31b909f72aee2d57" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" description="Energy, Armor, Tools, Weapons, Machines, Magic." />
         
-        <mod name="MekanismGenerators" version="1.7.10-7.1.1.97" url="packs/BevosTechPack/files/BTP10/MekanismGenerators-1.7.10-7.1.1.97.jar" file="MekanismGenerators-1.7.10-7.1.1.97.jar" md5="eabe7ee119a69ce8384e3d98fd5ef127" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" hidden="yes" description="Generators module of Mekanism." />
+        <mod name="MekanismGenerators" version="1.7.10-7.1.1.100" url="packs/BevosTechPack/files/BTP10/MekanismGenerators-1.7.10-7.1.1.100.jar" file="MekanismGenerators-1.7.10-7.1.1.100.jar" md5="32d5216e46161752df4446577b2d9cda" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" hidden="yes" description="Generators module of Mekanism." />
         
-        <mod name="MekanismTools" version="1.7.10-7.1.1.97" url="packs/BevosTechPack/files/BTP10/MekanismTools-1.7.10-7.1.1.97.jar" file="MekanismTools-1.7.10-7.1.1.97.jar" md5="407faee8a7fee7da80a31e7866b70152" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" hidden="yes" authors="aidancbrady" description="Tools module for Mekanism." /> 
+        <mod name="MekanismTools" version="1.7.10-7.1.1.100" url="packs/BevosTechPack/files/BTP10/MekanismGenerators-1.7.10-7.1.1.100.jar" file="MekanismGenerators-1.7.10-7.1.1.100.jar" md5="32d5216e46161752df4446577b2d9cda" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" hidden="yes" authors="aidancbrady" description="Tools module for Mekanism." /> 
 
 		<mod name="MineFactory Reloaded" version="[1.7.10]2.8.0RC3-591" url="packs/BevosTechPack/files/BTP10/MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar" file="MineFactoryReloaded-[1.7.10]2.8.0RC3-591.jar" md5="4595dc11752aabce0da9667d7552da61" download="server" type="mods" website="http://www.minecraftforum.net/topic/2016680-" authors="PowerCrystals,TehKrush,AtomicStryker,Feanorith,skyboy026" description="Automate everything!" />
         
@@ -163,6 +165,8 @@
 		<mod name="ObsidiPlates" version="3.0.0.18" url="packs/BevosTechPack/files/1710/ObsidiPlates-1.7.10-universal-3.0.0.18.jar" file="ObsidiPlates-1.7.10-universal-3.0.0.18.jar" md5="20fc7e4fde83c7be83358a19bfffc4b1" download="server" type="mods" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" authors="Myrathi" description="New pressure plates made from blocks of obsidian (that only work when players step on them" />
 		
 		<mod name="OpenBlocks" version="1.7.10-1.3-snapshot-432" url="packs/BevosTechPack/files/1710/OpenBlocks-1.7.10-1.3-snapshot-432.jar" file="OpenBlocks-1.7.10-1.3-snapshot-432.jar" md5="ffa0a76fec6fd5fb1765644776fbff23" download="server" type="mods" website="http://www.minecraftforum.net/topic/1941514-" donation="http://www.patreon.com/openmods" authors="Mikee,NeverCast,boq,Lyqyd" description="OpenBlocks is a random collection of ideas - ideas the community have suggested, or ideas we thought &quot;Why hasn&apos;t anyone done that yet?&quot;. There is no theme, it&apos;s quite random. It&apos;s not even just blocks, as the name suggests!" />
+		
+		<mod name="Opis" version="1.2.3" url="packs/BevosTechPack/files/BTP10/Opis-1.2.3_1.7.10.jar" file="Opis-1.2.3_1.7.10.jar" md5="b6cbb92875c73349b88e597e14b96587" download="server" type="mods" optional="yes" authors="ProfMobius" recommended="no" donation="http://www.patreon.com/profmobius" website="http://minecraft.curseforge.com/mc-mods/73832-opis" description="Opis is a server profiler for Forge server." />
 		
 		<mod name="OpenComputers" version="1.3.3.54" url="packs/BevosTechPack/files/1710/OpenComputers-MC1.7.10-1.3.3.54-universal.jar" file="OpenComputers-MC1.7.10-1.3.3.54-universal.jar" md5="d8627b9ee3eb0a0572dccd980876a453" download="server" type="mods" website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar" description="This mod adds programmable, modular and persistent computers to the game." />
 		
@@ -208,9 +212,9 @@
         
         <mod name="Translocator" version="1.1.1.12" url="packs/BevosTechPack/files/BTP10/Translocator-1.7.10-1.1.1.12-universal.jar" file="Translocator-1.7.10-1.1.1.12-universal.jar" md5="1b224e8bc19d54d3264182e34a9a2476" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Translocates stuff!" />
         
-        <mod name="Voxel Map NoRadar" version="1.0" url="packs/BevosTechPack/files/1710/voxelmapNoRadar-1.7.10-1.0.jar" file="voxelmapNoRadar-1.7.10-1.0.jar" md5="addbca29618476109bdff9131c477872" download="server" type="mods" server="no" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282353-1-6-4-1-6-2-mamiyaotarus-mods-voxelmap" description="Minecraft Map" />
+        <mod name="Voxel Map NoRadar" version="1.0" url="packs/BevosTechPack/files/1710/voxelmapNoRadar-1.7.10-1.0.jar" file="voxelmapNoRadar-1.7.10-1.0.jar" md5="addbca29618476109bdff9131c477872" download="server" type="mods" optional="yes" recommended="no" group="map" server="no" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282353-1-6-4-1-6-2-mamiyaotarus-mods-voxelmap" description="Minecraft Map" />
 		
-		<mod name="WAILA" version="1.5.3a" url="packs/BevosTechPack/files/1710/Waila-1.5.3a_1.7.10.jar" file="Waila-1.5.3a_1.7.10.jar" md5="c1fa13b7ac44172c5d77bce1b0ef4448" download="server" type="mods" server="no" website="http://minecraft.curseforge.com/mc-mods/73488-waila" authors="Prof Mobius" donation="http://www.patreon.com/profmobius" description="What Am I Looking At" />
+		<mod name="WAILA" version="1.5.4" url="packs/BevosTechPack/files/BTP10/Waila-1.5.4_1.7.10.jar" file="Waila-1.5.4_1.7.10.jar" md5="1b7b7e80139b37a839929bfa76e35c00" download="server" type="mods" server="no" website="http://minecraft.curseforge.com/mc-mods/73488-waila" authors="Prof Mobius" donation="http://www.patreon.com/profmobius" description="What Am I Looking At" />
 		
 		<mod name="Waila Harvestability" version="1.1.0" url="packs/BevosTechPack/files/BTP10/WailaHarvestability-mc1.7.x-1.1.0.jar" file="WailaHarvestability-mc1.7.x-1.1.0.jar" md5="46e5e97d5763402239abb8eb1b62e7f2" download="server" type="mods" donation="http://www.patreon.com/squeek502" website="http://www.curse.com/mc-mods/minecraft/waila-harvestability" authors="Squeek502" description="A client-side add-on for Waila that adds information about the harvestability of what you are looking at." />
  
@@ -220,6 +224,13 @@
 		
 		<!-- Disabled 1.7.2 Mods
 
+    
+    <messages>
+        
+    	<install><![CDATA[<center>MINI version of BTP designed for lower end computers and to be easier<br>Not compatible with FULL version of BTP</center>]]></install>
+   		<update><![CDATA[<center>MINI version of BTP designed for lower end computers and to be easier<br>Not compatible with FULL version of BTP</center>]]></update>
+        
+	</messages>
  
 		-->
     
