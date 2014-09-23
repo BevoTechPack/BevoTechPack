@@ -2,7 +2,7 @@
     
 	<pack>
         
-		<version>BTP-10.4-MINI</version>
+		<version>BTP-10.4a-MINI</version>
 		<minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -101,7 +101,7 @@
 		
 		<mod name="Flaxbeards Steam Power" version="0.26.2" url="packs/BevosTechPack/files/BTP10/FlaxbeardsSteamPower-1.7.10-0.26.2.jar" file="FlaxbeardsSteamPower-1.7.10-0.26.2.jar" md5="316fe11d6a215111914976ed8b723f52" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995-professor-flaxbeards-wondrous-steam-power-mod-beta" authors="Prof Flaxbeard" description="A tech mod based on steam power" />
         
-        <mod name="Forestry" version="3.0.0.174" url="packs/BevosTechPack/files/BTP10/forestry_1.7.10-3.0.0.174.jar" file="forestry_1.7.10-3.0.0.174.jar" md5="1209cade90e9abde5c2969be7e56328f" download="server" type="mods" website="http://forestry.sengir.net/wiki.new/doku.php" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" authors="SirSengir" description="Bee and Tree Breeding, farms, backpacks, mail system, and power production" />
+        <mod name="Forestry" version="3.0.0.170" url="packs/BevosTechPack/files/BTP10/forestry_1.7.10-3.0.0.170.jar" file="forestry_1.7.10-3.0.0.170.jar" md5="1db2b263ac1a3bd19f74a42bf7addbf4" download="server" type="mods" website="http://forestry.sengir.net/wiki.new/doku.php" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" authors="SirSengir" description="Bee and Tree Breeding, farms, backpacks, mail system, and power production" />
 		
 		<mod name="Galacticraft" version="3.0.2.198" url="packs/BevosTechPack/files/BTP10/GalacticraftCore-BETA-1.7-3.0.2.198.jar" file="GalacticraftCore-BETA-1.7-3.0.2.198.jar" md5="b65311782c2fb909d0da856445912aa0" download="server" type="mods" authors="micdoodle8" depends="MicdoodleCore" donation="http://www.patreon.com/micdoodle8" website="http://micdoodle8.com/mods/galacticraft" description="Galacticraft allows you to explore the solar system in your own spaceship." />
 		

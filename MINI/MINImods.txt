@@ -17,7 +17,7 @@ EnhancedPortals_1.7.10-universal-3.0.6.jar
 extrautilities-1.1.0k.jar
 Factorization-1.7.10-0.8.88.1.jar
 FlaxbeardsSteamPower-1.7.10-0.26.2.jar
-forestry_1.7.10-3.0.0.174.jar
+forestry_1.7.10-3.0.0.170.jar
 GalacticraftCore-BETA-1.7-3.0.2.198.jar
 gendustry-mc1710-1.3.2.18.jar
 GraviSuite-1.7.10-2.0.1.jar
