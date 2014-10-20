@@ -25,29 +25,13 @@ iron=0.7
 food=0.35
 sand/cobble/wood=0.1
 
-
-Recipes can also be added using forge IMC messages. For example, in the init method of a mod:
-
-String recipe = 
-       "<recipeGroup name=\"cheaty\">" +
-         "<recipe name=\"foo\" energyCost=\"2400\">" +
-           "<input>" +
-            "<itemStack modID=\"minecraft\" itemName=\"dirt\"/>" +
-           "</input>" +
-           "<output>" +
-            "<itemStack modID=\"minecraft\" itemName=\"diamond\"/>" +
-           "</output>" +
-          "</recipe>" +
-        "</recipeGroup>";
-FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe); 
-
 -->
 
 <AlloySmelterRecipes>
   
   <recipeGroup name="EnderIO"> <!-- Required for EnderIO to function correctly. -->
     
-    <recipe name="Electrical Steel" energyCost="10000">
+    <recipe name="Electrical Steel" energyCost="1000">
       <input>
         <itemStack modID="minecraft" itemName="iron_ingot"/>      
         <itemStack oreDictionary="dustCoal" />  
@@ -58,7 +42,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Energetic Alloy" energyCost="10000">
+    <recipe name="Energetic Alloy" energyCost="1000">
       <input>
         <itemStack modID="minecraft" itemName="redstone"/>
         <itemStack modID="minecraft" itemName="gold_ingot"/>
@@ -69,7 +53,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Vibrant Alloy" energyCost="10000">
+    <recipe name="Vibrant Alloy" energyCost="1000">
       <input>
         <itemStack modID="EnderIO" itemName="itemAlloy" itemMeta="1"/> <!-- Energetic Alloy -->
         <itemStack modID="minecraft" itemName="ender_pearl"/>
@@ -79,7 +63,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Redstone Alloy" energyCost="10000">
+    <recipe name="Redstone Alloy" energyCost="1000">
       <input>
         <itemStack modID="minecraft" itemName="redstone"/>
         <itemStack modID="EnderIO" itemName="itemMaterial" itemMeta="0" /> <!-- Silicon -->
@@ -89,7 +73,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Conductive Iron" energyCost="10000">
+    <recipe name="Conductive Iron" energyCost="1000">
       <input>
         <itemStack modID="minecraft" itemName="redstone"/>
         <itemStack modID="minecraft" itemName="iron_ingot"/>
@@ -99,7 +83,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Pulsating Iron" energyCost="10000">
+    <recipe name="Pulsating Iron" energyCost="1000">
       <input>
       <itemStack modID="minecraft" itemName="iron_ingot"/>
       <itemStack modID="minecraft" itemName="ender_pearl"/>
@@ -109,7 +93,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Dark Steel" energyCost="20000">
+    <recipe name="Dark Steel" energyCost="2000">
       <input>
         <itemStack modID="minecraft" itemName="iron_ingot"/>         
         <itemStack oreDictionary="dustCoal" />
@@ -120,7 +104,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Soularium" energyCost="10000">
+    <recipe name="Soularium" energyCost="1000">
       <input>
         <itemStack modID="minecraft" itemName="soul_sand"/>
         <itemStack modID="minecraft" itemName="gold_ingot"/>     
@@ -130,7 +114,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Fused Quartz" energyCost="5000">
+    <recipe name="Fused Quartz" energyCost="500">
       <input>        
         <itemStack modID="minecraft" itemName="quartz" number="4"/>
       </input>            
@@ -139,7 +123,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Fused Glass" energyCost="2500">
+    <recipe name="Fused Glass" energyCost="250">
       <input>
         <itemStack oreDictionary="sand" />
       </input>            
@@ -148,29 +132,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Fused Glass 2 Slots" energyCost="5000">
-      <input>
-        <itemStack oreDictionary="sand" />
-        <itemStack oreDictionary="sand" />
-      </input>            
-      <output>
-        <itemStack modID="EnderIO" itemName="blockFusedQuartz" itemMeta="1" exp="0.2" number="2"/> 
-      </output>
-    </recipe>
-    
-    <recipe name="Fused Glass 3 Slots" energyCost="7500">
-      <input>
-        <itemStack oreDictionary="sand" />
-        <itemStack oreDictionary="sand" />
-        <itemStack oreDictionary="sand" />
-      </input>            
-      <output>
-        <itemStack modID="EnderIO" itemName="blockFusedQuartz" itemMeta="1" exp="0.2" number="3"/> 
-      </output>
-    </recipe>
-    
-    
-    <recipe name="Enlightened Fused Quartz" energyCost="5000">
+    <recipe name="Enlightened Fused Quartz" energyCost="500">
       <input>        
         <itemStack modID="minecraft" itemName="quartz" number="4"/>
         <itemStack modID="minecraft" itemName="glowstone_dust" number="4"/>
@@ -180,7 +142,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Enlightened Fused Quartz 2" energyCost="5000">
+    <recipe name="Enlightened Fused Quartz 2" energyCost="500">
       <input>        
         <itemStack modID="EnderIO" itemName="blockFusedQuartz" itemMeta="0"/>
         <itemStack modID="minecraft" itemName="glowstone_dust" number="4"/>
@@ -190,7 +152,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
        
-    <recipe name="Enlightened Fused Glass" energyCost="2500">
+    <recipe name="Enlightened Fused Glass" energyCost="250">
       <input>
         <itemStack oreDictionary="sand" />
         <itemStack modID="minecraft" itemName="glowstone_dust" number="4"/>
@@ -200,7 +162,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Enlightened Fused Glass 2" energyCost="2500">
+    <recipe name="Enlightened Fused Glass 2" energyCost="250">
       <input>
         <itemStack modID="EnderIO" itemName="blockFusedQuartz" itemMeta="1"/> 
         <itemStack modID="minecraft" itemName="glowstone_dust" number="4"/>
@@ -210,61 +172,13 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
   
-   <recipe name="Fused Quartz from Block" energyCost="500">
-        <input>        
-            <itemStack modID="minecraft" itemName="quartz_block" number="1"/>
-        </input>
-        <output>
-            <itemStack modID="EnderIO" itemName="blockFusedQuartz" itemMeta="0" exp="0.5"/> 
-        </output>
-    </recipe>
-
-    <recipe name="Enlightened Fused Quartz from Block" energyCost="500">
-        <input>
-            <itemStack modID="minecraft" itemName="quartz_block" number="1"/>
-            <itemStack modID="minecraft" itemName="glowstone_dust" number="4"/>
-        </input>
-        <output>
-            <itemStack modID="EnderIO" itemName="blockFusedQuartz" itemMeta="2" exp="0.5"/>
-        </output>
-    </recipe>
-
-    <recipe name="Enlightened Fused Quartz from Block 2" energyCost="500">
-        <input>
-            <itemStack modID="minecraft" itemName="quartz_block" number="1"/>
-            <itemStack modID="minecraft" itemName="glowstone" number="1"/>
-        </input>
-        <output>
-            <itemStack modID="EnderIO" itemName="blockFusedQuartz" itemMeta="2" exp="0.5"/>
-        </output>
-    </recipe>
-
-    <recipe name="Enlightened Fused Quartz from Block 3" energyCost="500">
-        <input>
-            <itemStack modID="minecraft" itemName="quartz" number="4"/>
-            <itemStack modID="minecraft" itemName="glowstone" number="1"/>
-        </input>
-        <output>
-            <itemStack modID="EnderIO" itemName="blockFusedQuartz" itemMeta="2" exp="0.5"/>
-        </output>
-    </recipe>
-
-    <recipe name="Enlightened Fused Quartz from Block 4" energyCost="500">
-        <input>
-            <itemStack modID="EnderIO" itemName="blockFusedQuartz" itemMeta="0"/>
-            <itemStack modID="minecraft" itemName="glowstone" number="1"/>
-        </input>
-        <output>
-            <itemStack modID="EnderIO" itemName="blockFusedQuartz" itemMeta="2" exp="0.5"/>
-        </output>
-    </recipe>
    
   </recipeGroup>
   
   
   <recipeGroup name="Thermal Expansion">  
   
-    <recipe name="Electrum Ingot" energyCost="5000">
+    <recipe name="Electrum Ingot" energyCost="500">
       <input>
         <itemStack oreDictionary="ingotGold"/>
         <itemStack oreDictionary="ingotSilver"/>
@@ -274,7 +188,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Invar Ingot" energyCost="7500">      
+    <recipe name="Invar Ingot" energyCost="750">      
       <input>
         <itemStack oreDictionary="ingotNickel" />     
         <itemStack oreDictionary="ingotIron" number="2"/>
@@ -284,7 +198,7 @@ FMLInterModComms.sendMessage("EnderIO", "recipe:alloysmelter", recipe);
       </output>
     </recipe>
     
-    <recipe name="Hardened Glass" energyCost="4000">                      
+    <recipe name="Hardened Glass" energyCost="400">                      
       <input>       
         <itemStack oreDictionary="dustObsidian" number="8"/>
         <itemStack oreDictionary="ingotLead" />
