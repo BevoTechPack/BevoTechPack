@@ -4,6 +4,12 @@
   "costMultiplier": {
   },
   
-  "_comment": "Adding a blackList section will complete replace the one in the core file. Make sure you add a comma at the end of this line if adding a blacklist"
-
+  "_comment": "Adding a blackList section will complete replace the one in the core file. Make sure you add a comma at the end of this line if adding a blacklist",
+  
+  "blackList": [
+    "VillagerGolem",
+    "Villager"
+	"OpenBlocks.Luggage",
+	"TwilightForest.Questing Ram",
+  ]
 }
