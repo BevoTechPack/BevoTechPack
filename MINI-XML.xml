@@ -2,7 +2,7 @@
     
 	<pack>
         
-		<version>BTP-10.7-MINI</version>
+		<version>BTP-10.7a-MINI</version>
 		<minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -195,7 +195,7 @@
 		
 		<mod name="Thermal Expansion" version="[1.7.10]4.0.0B6-16" url="packs/BevosTechPack/files/BTP10/107/update1/ThermalExpansion-[1.7.10]4.0.0B6-16.jar" file="ThermalExpansion-[1.7.10]4.0.0B6-16.jar" md5="b393d09b78e1fc313f371cd4a5054f77" download="server" type="mods" website="http://thermalexpansion.wikispaces.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="KingLemmingCoFH,Cynycal,ZeldoKavira" description="Expanding Minecraft thermally - provides new options for automation and processing!" />
 		
-		<mod name="Thermal Expansion" version="4.0.0B5-13" url="packs/BevosTechPack/files/1710/ThermalExpansion-[1.7.10]4.0.0B5-13.jar" file="ThermalExpansion-[1.7.10]4.0.0B5-13.jar" md5="c1e68d4036575889f69b5c33e9d89904" download="server" type="mods" website="http://thermalexpansion.wikispaces.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="KingLemmingCoFH,Cynycal,ZeldoKavira" description="Expanding Minecraft thermally - provides new options for automation and processing!" />
+		<mod name="Thermal Foundation" version="1.0.0B3-8" url="packs/BevosTechPack/files/1710/ThermalFoundation-[1.7.10]1.0.0B3-8.jar" file="ThermalFoundation-[1.7.10]1.0.0B3-8.jar" md5="cf5c6cf79ecf9748504a46e91c8383d8" download="server" type="mods" website="http://thermalexpansion.wikispaces.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="KingLemmingCoFH,Cynycal,ZeldoKavira" description="The Foundation of a Thermally Expanding World!" />
 		
 		<mod name="Tinkers&apos; Construct" version="1.7.1c" url="packs/BevosTechPack/files/BTP10/107/TConstruct-1.7.10-1.7.1c.jar" file="TConstruct-1.7.10-1.7.1c.jar" md5="f26230022eb7318395d493719fca5fc4" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=TinkersConstruct&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" authors="mDiyo,fuj1n,ProgWML6,Sunstrike" description="A little of this, a little of that, a lot of tinkering, and a lot of tools" />
         
