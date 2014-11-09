@@ -2,7 +2,7 @@
     
 	<pack>
         
-		<version>BTP-10.7b-FULL</version>
+		<version>BTP-10.8-FULL</version>
 		<minecraft>1.7.10</minecraft>
         <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
         <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
