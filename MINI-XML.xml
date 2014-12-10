@@ -11,13 +11,6 @@
         
     </pack>
 	
-    <messages>
-        
-    	<install><![CDATA[<center>Beta version of BTP 11. May contain bugs, so please report those bugs to my Github from the support button on Launcher</center>]]></install>
-		<update><![CDATA[<center>Beta version of BTP 11. May contain bugs, so please report those bugs to my Github from the support button on Launcher</center>]]></update>
-        
-	</messages>  
-
 
     <libraries>
         
