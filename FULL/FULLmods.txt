@@ -2,7 +2,7 @@
 AdvancedMachinesAS-1.7.10.jar
 AOBD-2.3.1.jar
 AppleCore-mc1.7.10-1.0.1.jar
-appliedenergistics2-rv2-alpha-25.jar
+appliedenergistics2-rv2-alpha-29.jar
 Aroma1997Core-1.7.10-1.0.2.13.jar
 Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar
 AromaBackup-1.7.10-0.0.0.5.jar
@@ -16,9 +16,8 @@ BiblioWoods[Natura][v1.5].jar
 BigReactors-0.4.0A.jar
 BiomesOPlenty-1.7.10-2.1.0.1004-universal.jar
 BloodMagic-1.7.10-1.2.1a-1.jar
-Botania r1.3-138.jar
-buildcraft-6.1.8.jar
-BuildcraftAdditions-1.7.10-1.8.1.jar
+Botania r1.3-141.jar
+buildcraft-6.2.3.jar
 Carpenters Blocks v3.3.2 - MC 1.7.10.jar
 carpentersblocks
 ChickenChunks-1.7.10-1.3.4.14-universal.jar
@@ -30,20 +29,20 @@ CompactSolars-1.7.10-4.4.39.315-universal.jar
 Computronics-1.7.10-1.3.2.jar
 DescriptionTags-1.0-1.7.10.jar
 Enchiridion-1.7.X-1.2b.jar
-EnderIO-1.7.10-2.2.1.276.jar
+EnderIO-1.7.10-2.2.2.285.jar
 EnderStorage-1.7.10-1.4.5.26-universal.jar
-EnderZoo-1.7.10-1.0.4.12_beta.jar
-EnhancedPortals_1.7.10-universal-3.0.7.jar
-ExtraCells-1.7.10-2.2.4b12.jar
+EnderZoo-1.7.10-1.0.6.15.jar
+EnhancedPortals_1.7.10-universal-3.0.9.jar
+ExtraCells-1.7.10-2.2.8b21.jar
 extrautilities-1.1.0k.jar
 Factorization-1.7.10-0.8.88.7.jar
 FlaxbeardsSteamPower-1.7.10-0.27.2.jar
 forestry_1.7.10-3.2.0.5.jar
 FULLmods.txt
-Galacticraft-Planets-BETA-1.7-3.0.6.231.jar
-GalacticraftCore-BETA-1.7-3.0.6.231.jar
+Galacticraft-Planets-1.7-3.0.6.245.jar
+GalacticraftCore-1.7-3.0.6.245.jar
 GardenStuff-1.7.10-1.2.1.jar
-gendustry-mc1710-1.4.1.43.jar
+gendustry-mc1710-1.4.2.46.jar
 GraviSuite-1.7.10-2.0.3.jar
 growthcraft-apples-1.7.10-2.1.0.jar
 growthcraft-bamboo-1.7.10-2.1.0.jar
@@ -62,14 +61,14 @@ ironchest-1.7.10-6.0.43.730-universal.jar
 Jabba-1.1.4_1.7.10.jar
 JourneyMap5.0.0_FairPlay_MC1.7.10.jar
 launchgui-1.7.10-1.2.jar
-logisticspipes-0.8.2.82.jar
+logisticspipes-0.8.2.83.jar
 malisiscore-1.7.10-0.10.2.jar
 malisisdoors-1.7.10-1.3.1.jar
 Mantle-1.7.10-0.3.2.jar
 Mekanism-1.7.10-7.1.1.133.jar
 MekanismGenerators-1.7.10-7.1.1.133.jar
 MekanismTools-1.7.10-7.1.1.133.jar
-MicdoodleCore-BETA-1.7-3.0.6.231.jar
+MicdoodleCore-1.7-3.0.6.245.jar
 MineFactoryReloaded-[1.7.10]2.8.0RC5-694.jar
 MineMenu-1.7.10-1.2.0.B44-universal.jar
 MineTweaker3-1.7.10-3.0.8B.jar
@@ -78,15 +77,15 @@ Morpheus-1.7.10-1.5.24.jar
 natura-1.7.10-2.2.0.1.jar
 neiaddons-mc1710-1.12.3.11.jar
 NEIIntegration-MC1.7.10-1.0.1.jar
-NotEnoughItems-1.7.10-1.0.3.68-universal.jar
+NotEnoughItems-1.7.10-1.0.3.73-universal.jar
 ObsidiPlates-1.7.10-universal-3.0.0.18.jar
 OpenBlocks-1.7.10-1.3-snapshot-500.jar
-OpenComputers-MC1.7.10-1.4.0.7-rc.1-universal.jar
+OpenComputers-MC1.7.10-1.4.1.14-universal.jar
 OpenModsLib-1.7.10-0.6-snapshot-263.jar
 Pams HarvestCraft 1.7.10c.jar
-PneumaticCraft-1.7.10-1.4.1-38-universal.jar
+PneumaticCraft-1.7.10-1.4.3-40-universal.jar
 pressure-mc1710-1.0.0.44.jar
-ProgressiveAutomation-1.7.10-1.5.2.jar
+ProgressiveAutomation-1.7.10-1.5.6.jar
 ProjectRed-Base-1.7.10-4.5.1.51.jar
 ProjectRed-Compat-1.7.10-4.5.1.51.jar
 ProjectRed-Integration-1.7.10-4.5.1.51.jar
