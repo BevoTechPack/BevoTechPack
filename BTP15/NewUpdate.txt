@@ -1,0 +1,18 @@
+Work notes for BTP 15
+
+Major update of all mods
+Very likely to break old worlds and the mod version jump is huge for the vast majority of mods.
+Some mods no longer supported but still appear to function, testing needed to ensure they don't break anything.
+
+After testing existing 1 for 1 upgrade between old and updated pack, need to decide on new additions.
+
+Immersive Engineering fits this pack very well and I think it is a must.
+Bevo loves space, so more planets needed and a use for those planets.
+Replacement for SFM since it has always been broken, looks like there's an updated version forked by another modder (question over permissions)
+
+Ideas over HQM quests
+Ideas on mod progression
+
+Quest over pack optionals
+
+Need test jockies
