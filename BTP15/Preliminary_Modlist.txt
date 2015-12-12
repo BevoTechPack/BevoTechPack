@@ -25,7 +25,7 @@ CoFHLib-[1.7.10]1.0.4B1-176.jar
 CompactSolars-1.7.10-4.4.39.315-universal.jar
 Computronics-1.7.10-1.5.9.jar
 DescriptionTags-1.0-1.7.10.jar
-Enchiridion 2-1.7.10-2.0c.jar
+Enchiridion 2-1.7.10-2.0.2a.jar
 EnderCore-1.7.10-0.2.0.31_beta.jar
 EnderIO-1.7.10-2.3.0.421_beta.jar
 EnderStorage-1.7.10-1.4.7.36-universal.jar
