@@ -37,8 +37,8 @@ Factorization-1.7.10-0.8.99d.jar
 fastcraft-1.21.jar
 Flaxbeard'sSteamPower-1.7.10-0.28.12.jar
 forestry_1.7.10-4.2.0.47.jar
-Galacticraft-Planets-1.7-3.0.12.375.jar
-GalacticraftCore-1.7-3.0.12.375.jar
+Galacticraft-Planets-1.7-3.0.12.404.jar
+GalacticraftCore-1.7-3.0.12.404.jar
 GardenStuff-1.7.10-1.6.8.jar
 gendustry-1.6.2.127-mc1.7.10.jar
 GraviSuite-1.7.10-2.0.3.jar
@@ -46,6 +46,7 @@ growthcraft-1.7.10-2.3.1-complete.jar
 Guide-API-1.7.10-1.0.1-20.jar
 HQM-The Journey-4.4.3a.jar
 IGW-Mod-1.7.10-1.1.11-32-universal.jar
+ImmersiveEngineering-0.6.4.jar
 industrialcraft-2-2.2.799-experimental.jar
 INpureCore-[1.7.10]1.0.0B9-54.jar
 InventoryTweaks-1.59-dev-152.jar
@@ -60,11 +61,13 @@ Mantle-1.7.10-0.3.2b.jar
 Mekanism-1.7.10-8.1.7.252.jar
 MekanismGenerators-1.7.10-8.1.7.252.jar
 MekanismTools-1.7.10-8.1.7.252.jar
-MicdoodleCore-1.7-3.0.12.375.jar
+MicdoodleCore-1.7-3.0.12.404.jar
 MineFactoryReloaded-[1.7.10]2.8.1B1-131.jar
 MineMenu-1.7.10-1.2.0.B44-universal.jar
 MineTweaker3-1.7.10-3.0.10B.jar
 ModTweaker2-0.9.4.jar
+More-Planets-1.7.10-1.3.0-Pre-6.jar
+More-Planets-ASM-1.7.10.jar
 Morpheus-1.7.10-1.6.18.jar
 natura-1.7.10-2.2.0.1.jar
 neiaddons-1.12.13.38-mc1.7.10.jar
