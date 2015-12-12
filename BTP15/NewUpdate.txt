@@ -6,12 +6,12 @@ Some mods no longer supported but still appear to function, testing needed to en
 
 After testing existing 1 for 1 upgrade between old and updated pack, need to decide on new additions.
 
-Immersive Engineering fits this pack very well and I think it is a must.
-Bevo loves space, so more planets needed and a use for those planets.
+Immersive Engineering added.
+Bevo loves space, so more planets added.
 Replacement for SFM since it has always been broken, looks like there's an updated version forked by another modder (question over permissions)
 
-Ideas over HQM quests
-Ideas on mod progression
+Ideas over HQM quests - 4 chapters done
+Ideas on mod progression - tweaks made, more to do
 
 Quest over pack optionals
 
