@@ -108,5 +108,5 @@ Translocator-1.7.10-1.1.2.15-universal.jar
 twilightforest-1.7.10-2.3.7.jar
 Waila-1.5.10_1.7.10.jar
 WailaHarvestability-mc1.7.10-1.1.5.jar
-WAILAPlugins-MC1.7.10-0.1.2-21.jar
+WAILAPlugins-MC1.7.10-0.2.0-23.jar
 whatsthispack-1.7.2-1.0.jar
