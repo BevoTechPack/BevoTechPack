@@ -13,10 +13,11 @@ BiblioWoods[Forestry][v1.7].jar
 BiblioWoods[Natura][v1.5].jar
 BigReactors-0.4.3A.jar
 BloodMagic-1.7.10-1.3.3-17.jar
-Botania r1.7-237.jar
+Botania r1.8-243.jar
 buildcraft-7.1.14.jar
 buildcraft-compat-7.1.3.jar
 Carpenter's Blocks v3.3.7 - MC 1.7.10.jar
+catwalks-2.0.3.jar
 ChickenChunks-1.7.10-1.3.4.17-universal.jar
 Chisel2-2.5.1.44.jar
 CodeChickenCore-1.7.10-1.0.7.47-universal.jar
@@ -94,6 +95,7 @@ RandomThings-2.2.4.jar
 RedstoneArsenal-[1.7.10]1.1.1-89.jar
 RFDrills-1.7.10-1.7.2.jar
 roguelike-1.7.10-1.3.6.3.jar
+RouterReborn-1.7.10-1.2.0.35-universal.jar
 Ruins-1.7.10.zip
 SimplyJetpacks-MC1.7.10-1.5.2.jar
 StevesCarts2.0.0.b18.jar
@@ -113,4 +115,5 @@ twilightforest-1.7.10-2.3.7.jar
 Waila-1.5.10_1.7.10.jar
 WailaHarvestability-mc1.7.10-1.1.5.jar
 WAILAPlugins-MC1.7.10-0.2.0-23.jar
+Wawla-1.3.2-1.7.10.jar
 whatsthispack-1.7.2-1.0.jar
