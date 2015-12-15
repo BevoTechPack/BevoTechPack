@@ -1,7 +1,7 @@
 Work notes for BTP 15
 
 Major update of all mods
-Very likely to break old worlds and the mod version jump is huge for the vast majority of mods.
+This release will not be compatible from older versions of BTP, perhaps a new name is needed.
 Some mods no longer supported but still appear to function, testing needed to ensure they don't break anything.
 
 After testing existing 1 for 1 upgrade between old and updated pack, need to decide on new additions.
@@ -10,9 +10,10 @@ Immersive Engineering added.
 Bevo loves space, so more planets added.
 Replacement for SFM since it has always been broken, looks like there's an updated version forked by another modder (question over permissions)
 
-Ideas over HQM quests - 4 chapters done
-Ideas on mod progression - Done, base TE/EIO/MFR/Bot changed to steel
+Ideas over HQM quests - 6 chapters done, need to go over the dimensions in the HQM book as I had to jig a few around
+Ideas on mod progression - Done, base TE/EIO/MFR/Bot changed to steel, add new steel recipes.
 
 Question over pack optionals
 
 Need test jockies
+Tested various planet dimensions as I've problems with a lot of crashing, now hopefully resolved.
