@@ -10,10 +10,12 @@ Immersive Engineering added.
 Bevo loves space, so more planets added.
 Replacement for SFM since it has always been broken, looks like there's an updated version forked by another modder (question over permissions)
 
-Ideas over HQM quests - 6 chapters done, need to go over the dimensions in the HQM book as I had to jig a few around
-Ideas on mod progression - Done, base TE/EIO/MFR/Bot changed to steel, add new steel recipes.
+Ideas over HQM quests - 6 chapters done.
+Ideas on mod progression - Done, base TE/EIO/MFR/Bot changed to steel, need to add new steel recipes.
 
 Question over pack optionals
 
 Need test jockies
 Tested various planet dimensions as I've problems with a lot of crashing, now hopefully resolved.
+
+Need Bevo's picture
