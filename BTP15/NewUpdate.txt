@@ -21,3 +21,8 @@ Need test jockies
 Tested various planet dimensions as I've problems with a lot of crashing, now hopefully resolved.
 
 Need Bevo's picture
+
+
+Issues
+
+Currently plagued by id -31 (asteroids) not unregistering when quitting SSP and have to reload the entire game to get back into SSP world
