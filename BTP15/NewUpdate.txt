@@ -1,5 +1,7 @@
 Work notes for BTP 15
 
+Requires Forge 10.13.4.1566 minimum
+
 Major update of all mods
 This release will not be compatible from older versions of BTP, perhaps a new name is needed.
 Some mods no longer supported but still appear to function, testing needed to ensure they don't break anything.
