@@ -32,6 +32,9 @@ Thermal Expansion
 - Removed easy steel recipe from Induction Smelter
 - Machine Frame requires Steel
 
+Matter Overdrive
+- Matter Replicator recipe hardened
+
 Misc
 - Removed all steel things from dungeon chests
 - Where possible harder recipes chosen in mod configs
