@@ -8,10 +8,8 @@ Some mods no longer supported but still appear to function, testing needed to en
 
 After testing existing 1 for 1 upgrade between old and updated pack, need to decide on new additions.
 
-Immersive Engineering added.
 Bevo loves space, so more planets added.
-Replacement for SFM since it has always been broken, looks like there's an updated version forked by another modder (question over permissions)
-
+Replaced big Reactors with Nuclearcraft for something slightly different from the norm.
 Ideas over HQM quests - 6 chapters done.
 Ideas on mod progression - Done, base TE/EIO/MFR/Bot changed to steel, need to add new steel recipes.
 
