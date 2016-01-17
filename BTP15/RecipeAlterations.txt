@@ -8,10 +8,6 @@ BuildCraft
 Botania
 - Manasteel requires steel ingots
 
-Big Reactors
-- Add Mek PRC recipe to turn yellorite ingots into cyanite ingots
-- Reactor casing requires steel
-
 Ender IO
 - Harder recipes enabled
 - Added conduit upgrade recipes
@@ -38,3 +34,6 @@ Matter Overdrive
 Misc
 - Removed all steel things from dungeon chests
 - Where possible harder recipes chosen in mod configs
+
+Refined Relocation
+- portal base uses wither diamonds (from progressive automation) instead of normal diamonds
