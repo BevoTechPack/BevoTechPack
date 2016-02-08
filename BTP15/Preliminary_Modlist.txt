@@ -68,7 +68,7 @@ MineMenu-1.7.10-1.2.0.B44-universal.jar
 MineTweaker3-1.7.10-3.0.10B.jar
 MineTweakerRecipeMaker-1.7.10-1.1.0.11
 ModTweaker2-0.9.4.jar
-Morpheus-1.7.10-1.6.18.jar
+Morpheus-1.7.10-1.6.21.jar
 natura-1.7.10-2.2.0.1.jar
 neiaddons-1.12.13.38-mc1.7.10.jar
 NEIIntegration-MC1.7.10-1.1.1.jar
@@ -96,7 +96,7 @@ RedstoneArsenal-[1.7.10]1.1.1-92.jar
 RefinedRelocation-mc1.7.10-1.1.12.jar
 RFDrills-1.7.10-1.7.2.jar
 rftools-4.21.jar
-roguelike-1.7.10-1.3.6.3.jar
+roguelike-1.7.10-1.4.4.jar
 Ruins-1.7.10.zip
 ScottsTweaks-1.7.10-1.3.1.jar
 SimplyJetpacks-MC1.7.10-1.5.2.jar
