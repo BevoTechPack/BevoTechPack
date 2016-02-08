@@ -1,6 +1,5 @@
 AdvancedMachinesAS-1.7.10.jar
 AOBD-2.8.4.jar
-AppleCore-mc1.7.10-1.1.0.jar
 appliedenergistics2-rv3-beta-5.jar
 AsieLib-1.7.10-0.4.4.jar
 backpack-2.0.1-1.7.x.jar
