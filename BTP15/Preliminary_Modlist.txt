@@ -17,7 +17,6 @@ ChickenChunks-1.7.10-1.3.4.17-universal.jar
 Chisel2-2.5.1.44.jar
 CodeChickenCore-1.7.10-1.0.7.47-universal.jar
 CoFHCore-[1.7.10]3.1.1-324.jar
-CoFHLib-[1.7.10]1.1.0-180.jar
 CompactSolars-1.7.10-4.4.39.315-universal.jar
 Computronics-1.7.10-1.5.9.jar
 Craftingtweaks-mc1.7.10-1.0.62.jar
