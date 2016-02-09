@@ -1,7 +1,7 @@
 AdvancedMachinesAS-1.7.10.jar
 AOBD-2.8.4.jar
 appliedenergistics2-rv3-beta-5.jar
-AsieLib-1.7.10-0.4.4.jar
+AsieLib-1.7.10-0.4.5.jar
 backpack-2.0.1-1.7.x.jar
 bdlib-1.9.4.109-mc1.7.10.jar
 BiblioCraft[v1.11.4][MC1.7.10].jar
@@ -18,7 +18,7 @@ Chisel2-2.5.1.44.jar
 CodeChickenCore-1.7.10-1.0.7.47-universal.jar
 CoFHCore-[1.7.10]3.1.1-324.jar
 CompactSolars-1.7.10-4.4.39.315-universal.jar
-Computronics-1.7.10-1.5.9.jar
+Computronics-1.7.10-1.6.0.jar
 Craftingtweaks-mc1.7.10-1.0.62.jar
 DescriptionTags-1.0-1.7.10.jar
 Enchiridion 2-1.7.10-2.0.2a.jar
