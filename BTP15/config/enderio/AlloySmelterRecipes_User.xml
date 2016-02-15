@@ -1,0 +1,93 @@
+<!-- 
+Custom recipes that will not be over written by Ender IO are added here.
+Examples of recipes can be found in AlloySmelterRecipes_Core.xml and general format
+documentation in SAGMillRecipes_Core/User.
+
+As well as adding custom recipes the operation of the Alloy Smelter as a vanilla furnace 
+can be controlled. It can be disabled completely by simply adding this line:
+
+  <vanillaFurnaceRecipes enabled="false"/>    
+
+It is also possible to selectively disable vanilla furnace recipes.
+The following example disables the smelting of iron ingots, ender pearls and any form of iron ore registered in the
+ore dictionary.
+
+  <vanillaFurnaceRecipes>    
+    <exclude>
+      <itemStack itemID="265" /> 
+      <itemStack itemID="368" /> 
+      <itemStack oreDictionary="oreIron" />  
+    </exclude>
+
+  </vanillaFurnaceRecipes>
+  
+  Add this line to disbale the creation of TE alloys using the Alloy Smelter.
+  <recipeGroup name="Thermal Expansion" enabled="false"/>
+-->
+<AlloySmelterRecipes>
+  <recipeGroup name="SteelIngots" >
+
+	
+	<recipe name="Steel3" energyCost="8000" >
+      <input>
+		<itemStack oreDictionary="ingotMeteoricIron" number="1" />
+        <itemStack oreDictionary="dustCoal" number="1" />
+        <itemStack oreDictionary="dustObsidian" number="2" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotSteel" number="1" />
+      </output>
+    </recipe>
+	<recipe name="Steel4" energyCost="8000" >
+      <input>
+		<itemStack oreDictionary="ingotAdamantite" number="1" />
+        <itemStack oreDictionary="dustCoal" number="1" />
+        <itemStack oreDictionary="dustObsidian" number="2" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotSteel" number="2" />
+      </output>
+    </recipe>
+	<recipe name="Steel5" energyCost="8000" >
+      <input>
+		<itemStack oreDictionary="ingotCobaltum" number="1" />
+        <itemStack oreDictionary="dustCoal" number="1" />
+        <itemStack oreDictionary="dustObsidian" number="2" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotSteel" number="2" />
+      </output>
+    </recipe>	
+	<recipe name="Steel6" energyCost="8000" >
+      <input>
+		<itemStack oreDictionary="ingotMithril" number="1" />
+        <itemStack oreDictionary="dustCoal" number="1" />
+        <itemStack oreDictionary="dustObsidian" number="2" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotSteel" number="1" />
+      </output>
+    </recipe>	
+	<recipe name="Steel7" energyCost="8000" >
+      <input>
+		<itemStack oreDictionary="ingotOriharukon" number="1" />
+        <itemStack oreDictionary="dustCoal" number="1" />
+        <itemStack oreDictionary="dustObsidian" number="2" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotSteel" number="2" />
+      </output>
+    </recipe>	
+	<recipe name="Steel8" energyCost="8000" >
+      <input>
+		<itemStack oreDictionary="ingotWolframium" number="1" />
+        <itemStack oreDictionary="dustCoal" number="1" />
+        <itemStack oreDictionary="dustObsidian" number="2" />
+      </input>
+      <output>
+        <itemStack oreDictionary="ingotSteel" number="2" />
+      </output>
+    </recipe>	
+	
+</recipeGroup>
+</AlloySmelterRecipes>
