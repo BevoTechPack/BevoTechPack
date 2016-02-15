@@ -1,0 +1,8 @@
+<SpawnConfig>
+
+<!-- As an example, enabling this will prevent slimes from spawning
+  <entry id="Slime" mobName="Slime" creatureType="monster" rate="80" remove="true">
+    <biomeType name="BASE_LAND_TYPES" />
+  </entry>
+ -->
+</SpawnConfig>

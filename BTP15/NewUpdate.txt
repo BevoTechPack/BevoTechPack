@@ -1,0 +1,44 @@
+Work notes for BTP 15
+
+Requires Forge 10.13.4.1566 minimum
+
+Major update of all mods
+This release will not be compatible from older versions of BTP, perhaps a new name is needed.
+Some mods no longer supported but still appear to function, testing needed to ensure they don't break anything.
+
+Java V8 Required
+
+THIS PACK IS NOT COMPATIBLE WITH OLDER VERSIONS OF BEVO'S TECH PACK, YOU SHOULD NOT UPDATE FROM A PREVIOUS VERSION TO THIS NEW VERSION. If you attempt to do so then you do at your own risk.
+
+Changes from Older versions of BTP:
+
+Added HQM Quests
+Added Magneticraft
+Added Immersive Engineering
+Added Galaxy Space
+Added NuclearCraft
+Added Crafting Tweaks
+Added Matter Overdrive
+Added Scotts Tweaks
+Added BetterBoats
+Added RFTools
+Added CatWalks
+Added RFDrills
+Added NoMoreRecipeConflict
+Added Refined Relocation
+Added Thermal Dynamics
+
+Removed Big Reactors - replaced with NuclearCraft
+Removed Aroma Backup\Dimensional World - problems with too many dimension managers
+Removed IC2 Nuclear Control - not compatible
+Removed Statues - mod conflict
+Removed Warp Book - There's so many ways to teleport in the pack
+
+Updated - Everything
+
+
+Added 7 chapters into HQM (space based and given it a storyline - Bevo is Lost in Space), added a 7th chapter which is a complete tutorial for Magneticraft. I would like to do the same with Nuclearcraft unfortunately I don't know the mod well enough.
+
+Tiered mods through harder recipes and steel.
+
+CURRENT STATE OF PACK - Everything complete, one last run through mod updates and last recheck HQM didn't break..

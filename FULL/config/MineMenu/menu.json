@@ -1,0 +1,25 @@
+{
+  "0": {},
+  "main": {
+    "0": {
+      "title": "Minetweaker Hand",
+      "icon": {
+        "name": "minecraft:glass",
+        "damage": 0
+      },
+      "action": {
+        "command": "/mt hand"
+      }
+    },
+    "1": {
+      "title": "ClearBlocks",
+      "icon": {
+        "name": "minecraft:tnt",
+        "damage": 0
+      },
+      "action": {
+        "command": "/cofh clearblocks BevoLJ 100 200 100 lava water stone dirt gravel netherrack grass snow sand"
+      }
+    }
+  }
+}

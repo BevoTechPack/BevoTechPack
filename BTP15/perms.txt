@@ -1,0 +1,85 @@
+https://docs.google.com/spreadsheets/d/14iP5aE-lpLXxw3171OYwOmWbjMxVP4wringR23AV9uc
+
+Perms Needed:
+None all got
+
+Have Perms:
+AOBD - http://minecraft.curseforge.com/mc-mods/221863-another-one-bites-the-dust
+AdvancedMachinesAS - http://puu.sh/aa7aB/0bd256aa9a.png
+Appliedenergistics2 - http://ae2.ae-mod.info/Frequently-Asked-Questions/
+AsieLib - http://mc.shinonome.ch/doku.php
+backpack - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286124-1-6-x-1-7-x-backpacks-v-2-0-0
+Baubles-princess - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2132152-baubles-princess-edition-1-0-0-18p-last-updated-7
+bdlib (inc Gendustry & pressure pipes) https://bdew.net/gendustry/
+BiblioCraft - http://www.bibliocraftmod.com/copyright/#modpacks
+BiblioWoods - http://www.bibliocraftmod.com/copyright/#modpacks
+Blood Magic - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-1-0-updated-jul-13?comment=3 (Note this is on 3rd post, not the thread OP)
+Botania - http://vazkii.us/mod/Botania/faq.php
+Buildcraft - http://www.mod-buildcraft.com/pages/faq.html
+Buildcraft Compat - http://www.curse.com/mc-mods/minecraft/233140-buildcraft-compat
+Carpenters Blocks - http://www.carpentersblocks.com/index.html
+Catwalks - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2531592-catwalks-2
+Chisel - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288400-1-6-4-smp-forge-chisel
+CodeChickenCore - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+COFHcore & all related TeamCOFH mods - http://teamcofh.com/permissions/
+CompactSolars - http://forum.industrial-craft.net/index.php?page=Thread&postID=42234
+Computronics - http://wiki.vex.tty.sh/wiki:computronics
+Crafting Tweaks - http://www.curse.com/mc-mods/minecraft/233071-crafting-tweaks
+dimensional-anchor - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers
+eirairc - http://minecraft.curseforge.com/mc-mods/68420-eirairc
+enderio (inc enderCore & Enderzoo) - http://enderio.com/ 
+EnderStorage - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+extrautilities - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0c
+Factorization - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284592-factorization-0-8-86 
+FlaxbeardsSteamPower - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995-professor-flaxbeards-wondrous-steam-power-mod-beta
+Forestry - http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#license
+Galacticraft (core/planets/micdoodlecore) - http://micdoodle8.com/
+GardenStuff - http://www.curse.com/mc-mods/minecraft/225903-garden-stuff
+Gravisuite - http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915
+Growthcraft - https://github.com/GrowthcraftCE/Growthcraft-1.7/issues/203
+HQM - http://minecraft.curseforge.com/projects/hardcore-questing-mode
+Immersive Engineering - http://minecraft.curseforge.com/projects/immersive-engineering
+industrialcraft - http://forum.industrial-craft.net/index.php?page=Thread&threadID=7994
+Inpurecore - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-1-7-10-inpure-projects-denoflions-mods
+InventoryTweaks - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288184-inventory-tweaks-1-57-march-14#Sup
+ironchest - http://www.curse.com/mc-mods/minecraft/228756-iron-chests
+Jabba - http://mobiusstrip.eu/wiki/Jabba
+journeymap - http://journeymap.info/Modpack_FAQ
+Koresample (Scott's Tweaks) - https://github.com/MinecraftModArchive/ScottsTweaks/blob/master/README.md
+Logisticspipes - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289546-buildcraft-logistics-pipes
+Magneticraft - http://minecraft.curseforge.com/projects/magneticraft
+Malisisdoors - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076338-malisisdoors-1-8-2-3-0-1-7-10-1-13-0-16-01-2016
+Mantle - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287648-tinkers-construct
+Matter Overdrive - http://simeon.co.vu/Mods/MatterOverdrive/category/faq/
+Mekanism - http://aidancbrady.com/copyright/
+MineTweaker3 - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your
+Morpheus - http://puu.sh/aaal6/5e8f1ebe1f.png
+natura - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura
+NotEnoughItems - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279956-chickenbones-mods
+NoMoreRecipeConflict - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1440404-1-1-smp-ssp-no-more-recipe-conflicts-0-3
+Nuclear Craft - http://minecraft.curseforge.com/projects/nuclearcraft-mod
+OpenBlocks - http://www.curse.com/mc-mods/minecraft/228816-openblocks
+OpenComputers - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293018-opencomputers-v1-3-0
+Pams Harvestcraft - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413-pams-mods-jan-23rd-2016-1-7-10-mod-pams-need-moar#entry29809669
+PneumaticCraft - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289696-1-7-2-forge-ssp-smp-techmod-pneumaticcraft
+ProgressiveAutomation - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation-upgradeable-machines
+ProjectRed - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred-v4-4-5-44-7-8-2014
+Railcraft - http://puu.sh/aaldj/b4b2397d92.png http://www.railcraft.info/forum/?mingleforumaction=viewtopic&t=584.0#postid-2414
+Random Things - http://minecraft.curseforge.com/projects/random-things
+RefinedRelocation - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293062-refined-relocation-1-0-5-solves-your
+RDDrills - http://minecraft.curseforge.com/projects/rfdrills
+roguelike - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290238-roguelike-dungeons-v1-3-4
+Ruins - http://puu.sh/aa7aB/0bd256aa9a.png
+Simply Jetpacks - http://minecraft.curseforge.com/projects/simply-jetpacks
+Steve's Carts 2 - http://www.curse.com/mc-mods/minecraft/228625-steves-carts-2
+Steve's Factory Manager - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager
+Steve's Workshop - http://minecraft.curseforge.com/projects/steves-workshop
+Storage Drawers - http://minecraft.curseforge.com/projects/storage-drawers
+Thaumcraft - http://minecraft.curseforge.com/projects/thaumcraft
+TConstruct - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287648-tinkers-construct
+TiC-Tooltips - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool
+Translocator - http://www.curse.com/mc-mods/minecraft/229318-translocators
+twilightforest - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258-the-twilight-forest-v2-2-1-domain-of-the-alpha
+Waila - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289765-waila-1-5-2
+WailaHarvestability - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1295067-waila-harvestability-how-can-i-harvest-what-im
+ZZZZZ Custom Configs - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293069-zzzzz-custom-configs-v1-3-1-create-your-own?comment=3 (Note: he gives permissions on post 3 not the thead op)

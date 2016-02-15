@@ -1,0 +1,345 @@
+<version>
+    
+	<pack>
+        
+		<version>BTP-12-Full</version>
+		<minecraft>1.7.10</minecraft>
+        <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
+        <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
+        <memory>1048</memory>
+        <permgen>128</permgen>
+		
+	</pack>
+	
+	
+    
+
+    <libraries>
+        <library url="packs/BevosTechPack/files/1291/launchwrapper-1.11.jar" download="server" file="launchwrapper-1.11.jar" md5="189acaecbe31eeb4366bca7ba17d7496" server="net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar" />
+        <library url="packs/BevosTechPack/files/1291/asm-all-5.0.3.jar" download="server" file="asm-all-5.0.3.jar" md5="c5cc4613bbdfba3ccf5f0ab85390d0b8" server="org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar" />
+        <library url="packs/BevosTechPack/files/1291/akka-actor_2.11-2.3.3.jar" download="server" file="akka-actor_2.11-2.3.3.jar" md5="2a3d8946f684f928c48a2dd298c5cd29" server="com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar" />
+        <library url="packs/BevosTechPack/files/1291/config-1.2.1.jar" download="server" file="config-1.2.1.jar" md5="a88c2f8be90a5c41b87155cdff21e0db" server="com/typesafe/config/1.2.1/config-1.2.1.jar" />
+        <library url="packs/BevosTechPack/files/1291/scala-actors-migration_2.11-1.1.0.jar" download="server" file="scala-actors-migration_2.11-1.1.0.jar" md5="f5e79398daa1806f8b17311a3c782723" server="org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar" />
+        <library url="packs/BevosTechPack/files/1291/scala-compiler-2.11.1.jar" download="server" file="scala-compiler-2.11.1.jar" md5="06030143bf86ca896fb6ccfd679b5760" server="org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar" />
+        <library url="packs/BevosTechPack/files/1291/scala-continuations-library_2.11-1.0.2.jar" download="server" file="scala-continuations-library_2.11-1.0.2.jar" md5="c7d01e5a88182df7f22b7418abb51085" server="org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar" />
+        <library url="packs/BevosTechPack/files/1291/scala-continuations-plugin_2.11.1-1.0.2.jar" download="server" file="scala-continuations-plugin_2.11.1-1.0.2.jar" md5="daecef8fab296b764a8fb41fc07f2428" server="org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar" />
+        <library url="packs/BevosTechPack/files/1291/scala-library-2.11.1.jar" download="server" file="scala-library-2.11.1.jar" md5="1d88f665219e6006c5dd82d71c525c0f" server="org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar" />
+        <library url="packs/BevosTechPack/files/1291/scala-parser-combinators_2.11-1.0.1.jar" download="server" file="scala-parser-combinators_2.11-1.0.1.jar" md5="4e694499c965af4a02599c99d4f0b196" server="org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar" />
+        <library url="packs/BevosTechPack/files/1291/scala-reflect-2.11.1.jar" download="server" file="scala-reflect-2.11.1.jar" md5="7878fac044e4e4b576bb35a77ccc34fc" server="org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar" />
+        <library url="packs/BevosTechPack/files/1291/scala-swing_2.11-1.0.1.jar" download="server" file="scala-swing_2.11-1.0.1.jar" md5="1009d69e4948045383f2a7a334348af5" server="org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar" />
+        <library url="packs/BevosTechPack/files/1291/scala-xml_2.11-1.0.2.jar" download="server" file="scala-xml_2.11-1.0.2.jar" md5="c2d7e66495afe14545c31b21e99879ef" server="org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar" />
+        <library url="packs/BevosTechPack/files/1291/jopt-simple-4.5.jar" download="server" file="jopt-simple-4.5.jar" md5="1372bd4823bb1ef61e7db6724f601150" server="net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar" />
+        <library url="packs/BevosTechPack/files/1291/lzma-0.0.1.jar" download="server" file="lzma-0.0.1.jar" md5="a3e3c3186e41c4a1a3027ba2bb23cdc6" server="lzma/lzma/0.0.1/lzma-0.0.1.jar" />
+        <library url="packs/BevosTechPack/files/1291/guava-16.0.jar" download="server" file="guava-16.0.jar" md5="5286e2b8c38ff1ca83fb51e30af71f5a" />
+        <library url="packs/BevosTechPack/files/1291/commons-lang3-3.2.1.jar" download="server" file="commons-lang3-3.2.1.jar" md5="7fc4221e7e3a05d8052d3fbb34fb0a5a" />
+    </libraries>
+    
+    <mods>
+        
+        <!-- Forge -->
+		
+		<mod name="Minecraft Forge" version="10.13.2.1291" url="packs/BevosTechPack/files/BTP11/BTP11Beta/forge-1.7.10-10.13.2.1291-universal.jar" file="forge-1.7.10-10.13.2.1291-universal.jar" md5="e71e88c744588fdad48d3b3beb4935fc" download="server" type="forge" website="http://www.minecraftforge.net/forum/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" authors="Eloraam,FlowerChild,Hawkye,MALfunction84,Scokeev9,SpaceToad,LexManos,cpw" description="Minecraft Forge is a modding API used by alot of mods." />        
+		
+		<!-- Mods -->  
+        
+        <mod name="Advanced Machines" version="1.7.10" url="packs/BevosTechPack/files/BTP11/BTP11Beta/AdvancedMachinesAS-1.7.10-2.jar" file="AdvancedMachinesAS-1.7.10-2.jar" md5="6fdf181914caca8b83c4fd8fa49f6e07" download="server" type="mods" donation="http://www.patreon.com/user?u=82605" authors="AtomicStriker" website="http://www.atomicstryker.net/" description="Extension for IC2 Machines" />
+		
+		<mod name="Another Ore Bites the Dust" version="2.4.0" url="packs/BevosTechPack/files/BTP11/BTP11Beta/AOBD-2.4.0.jar" file="AOBD-2.4.0.jar" md5="f6c5130730e30f9b06d745ea56ea2311" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/221863-another-one-bites-the-dust" donation="http://www.patreon.com/ganymedes01" description="Automaticly detects ores for dust" />
+		
+		<mod name="AppleCore" version="1.0.1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/AppleCore-mc1.7.10-1.0.1.jar" file="AppleCore-mc1.7.10-1.0.1.jar" md5="215ff0f15ee74d01c8f306f1e262c427" download="server" type="mods" website="http://www.curse.com/mc-mods/minecraft/224472-applecore" description="An API for modifying the food and hunger mechanics of Minecraft." />
+		
+		<mod name="Spice Of Life" version="1.2.2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/SpiceOfLife-mc1.7.10-1.2.2.jar" file="SpiceOfLife-mc1.7.10-1.2.2.jar" md5="be19e3c1d04a0af577b22738ca7ef3b8" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety" donation="http://www.patreon.com/squeek502" optional="yes" authors="Squeek502" description="A mod that encourages dietary variety through diminishing returns." />
+		
+		<mod name="Applied Energistics 2" version="rv2-beta-8" url="packs/BevosTechPack/files/BTP11/BTP11Beta/appliedenergistics2-rv2-beta-8.jar" file="appliedenergistics2-rv2-beta-8.jar" md5="0208d8e92085e0cec7e43ac8665733a2" download="server" type="mods" website="http://ae2.ae-mod.info/Downloads/" donation="http://www.patreon.com/algorithmx2" authors="AlgorithmX2" description="Applied Energistics is a Minecraft Mod with advanced storage systems called ME that lets you store items compactly and in the way you want." />
+		
+		<mod name="Aroma1997Core" version="1.0.2.13" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Aroma1997Core-1.7.10-1.0.2.13.jar" file="Aroma1997Core-1.7.10-1.0.2.13.jar" md5="caebe8e2f840ad8abe8003009b2597a9" download="server" type="mods" hidden="yes" website="http://www.minecraftforum.net/topic/1679684-" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=JUN8L67CPHTRC&amp;item_name=Aroma1997s+Mods&amp;cmd=_s-xclick" authors="Aroma1997,Schillaa" description="This is basically a library used by most my other mods." />
+
+		<mod name="Aroma Mining World" version="1.1.0.1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar" file="Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar" md5="756e446bbcb0e045ed1907d7f56c91ae" download="server" type="mods" website="http://www.minecraftforum.net/topic/1679684-" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=JUN8L67CPHTRC&amp;item_name=Aroma1997s+Mods&amp;cmd=_s-xclick" authors="Aroma1997" description="Mining Diminsion" />
+
+		<mod name="Aroma Backup" version="0.0.0.5" url="packs/BevosTechPack/files/BTP11/BTP11Beta/AromaBackup-1.7.10-0.0.0.5.jar" file="AromaBackup-1.7.10-0.0.0.5.jar" md5="1ec939c9f7f768b01624fbe27155a8d3" download="server" type="mods" website="http://www.minecraftforum.net/topic/1679684-" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=JUN8L67CPHTRC&amp;item_name=Aroma1997s+Mods&amp;cmd=_s-xclick" authors="Aroma1997" description="Automatic Backups" />
+			
+		<mod name="AsieLib" version="0.3.4" url="packs/BevosTechPack/files/BTP11/BTP11Beta/AsieLib-1.7.10-0.3.4.jar" file="AsieLib-1.7.10-0.3.4.jar" md5="8d16f5cc8cf42c2d22ea9f156eb0418f" download="server" type="mods" hidden="yes" website="http://mc.shinonome.ch/doku.php" authors="Asie" description="a library required for all of my current mods" />
+        
+        <mod name="Backpack" version="2.0.1-1.7.x" url="packs/BevosTechPack/files/BTP11/BTP11Beta/backpack-2.0.1-1.7.x.jar" file="backpack-2.0.1-1.7.x.jar" md5="22f976e9c4af7c5400ac11f59c87f592" download="server" type="mods" website="http://www.minecraftforum.net/topic/1492661-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CCEHF29WUSQVJ" authors="Eydamos" description="Provides the player with multiple, colored backpacks, which each has the space of a normal chest." />
+		
+		<mod name="Baubles" version="1.0.1.10" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Baubles-1.7.10-1.0.1.10.jar" file="Baubles-1.7.10-1.0.1.10.jar" md5="0e711d6535970f62d4964edaa26f4623" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-2-updated-28-7-2014" donation="http://www.patreon.com/azanor" authors="Azanor" description="A small addon mod and api that is intended to be used by other mods to add additional inventory slots to a character." />
+        
+        <mod name="BdLib" version="1.6.3.48" url="packs/BevosTechPack/files/BTP11/BTP11Beta/bdlib-mc1710-1.6.3.48.jar" file="bdlib-mc1710-1.6.3.48.jar" md5="2b2f2fe9ec279c7fa7ebe93faed613cc" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/bdlib/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" hidden="yes" authors="bdew" description="This is a collection of generic code used by bdew&apos;s other mods" />
+		
+		<mod name="BiblioCraft" version="1.9.2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/BiblioCraft[v1.9.2][MC1.7.10].jar" file="BiblioCraft[v1.9.2][MC1.7.10].jar" md5="b450840b9ef5d1417773e9bfafc29e69" download="server" type="mods" website="http://www.bibliocraftmod.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NLK9SWM3U77XS" authors="Joseph &apos;Nuchaz&apos; Sinclair" description="BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware! New in 1.3: Fancy lamps and golden lanterns. Also Tables and enchanted plates!" />
+        
+        <mod name="BiblioWoods Biomes O&apos;Plenty Edition" version="v1.9" url="packs/BevosTechPack/files/BTP11/BTP11Beta/BiblioWoods[BiomesOPlenty][v1.9].jar" file="BiblioWoods[BiomesOPlenty][v1.9].jar" md5="2554960687b369309ee256f30d348207" download="server" type="mods" website="http://www.bibliocraftmod.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NLK9SWM3U77XS" optional="yes" library="yes" depends="Biomes O&apos; Plenty"  authors="Joseph &apos;Nuchaz&apos; Sinclair" description="Adds support for 16 varietys of wood from Biomes O&apos;Plenty for 8 of the wooden block in BiblioCraft." />
+        
+        <mod name="BiblioWoods Forestry Edition" version="v1.7" url="packs/BevosTechPack/files/BTP11/BTP11Beta/BiblioWoods[Forestry][v1.7].jar" file="BiblioWoods[Forestry][v1.7].jar" md5="c7f7b06fc31a90fced96ee7e667d8ad7" download="server" type="mods" website="http://www.bibliocraftmod.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NLK9SWM3U77XS" hidden="yes" authors="Joseph &apos;Nuchaz&apos; Sinclair" description="Adds support for 24 varietys of wood from Forestry for 8 of the wooden block in BiblioCraft." />
+        
+        <mod name="BiblioWoods Natura Edition" version="v1.5" url="packs/BevosTechPack/files/BTP11/BTP11Beta/BiblioWoods[Natura][v1.5].jar" file="BiblioWoods[Natura][v1.5].jar" md5="9f8e1ae378c60af46bcd0e88c59445fa" download="server" type="mods" website="http://www.bibliocraftmod.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NLK9SWM3U77XS" hidden="yes" authors="Joseph &apos;Nuchaz&apos; Sinclair" description="Adds support for 13 varietys of wood from Natura for 8 of the wooden block in BiblioCraft." />
+
+		<mod name="Big Reactors" version="0.4.1A2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/BigReactors-0.4.1A2.jar" file="BigReactors-0.4.1A2.jar" md5="d48b3a2e261bc01b407edf4330bbe7e4" download="server" type="mods" website="http://www.big-reactors.com" authors="ErogenousBeef" description="Adds large, multiblock power generation machines to Minecraft. Compatible with Redstone Flux (RF) power.  Special thanks: powercrystals, skyboy, King_Lemming, &amp; Calclavia for example code." />
+
+		<mod name="Biomes O&apos; Plenty" version="2.1.0.1004" url="packs/BevosTechPack/files/BTP11/BTP11Beta/BiomesOPlenty-1.7.10-2.1.0.1004-universal.jar" file="BiomesOPlenty-1.7.10-2.1.0.1004-universal.jar" md5="1f39743ab122013245e6ac796d2732dd" download="server" type="mods" website="http://www.minecraftforum.net/topic/1495041-" optional="yes" depends="BiblioWoods Biomes O&apos;Plenty Edition"  donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" authors="Forstride,Adubbz,Amnet,ted80" description="Adds 87 new, unique biomes!" />
+			
+		<mod name="Blood Magic" version="v1.3.0Beta(1.7.10)" url="packs/BevosTechPack/files/BTP11/BTP11Beta/BloodMagic-1.7.10-1.3.0b-3.jar" file="BloodMagic-1.7.10-1.3.0b-3.jar" md5="bd8f686cb9c0a4c09ec107d57ca6a41c" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-0-1g-updated-jun-27" donation="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290532-1-7-10-2-1-6-4-blood-magic-v1-0-1g-updated-jun-27" optional="yes" authors="Way of Time" description="Blood Magic is an arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood." />
+		
+		<mod name="Botania" version="r1.5-163" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Botania r1.5-163.jar" file="Botania r1.5-163.jar" md5="0edacb357c3fda61067c0b7f5e80913b" download="server" donation="http://www.patreon.com/Vazkii" type="mods" website="http://vazkii.us/mod/Botania/index.php" authors="Vazkii" description="Botania is a magic tech mod based on nature." />
+        
+        <mod name="Buildcraft" version="6.3.6" url="packs/BevosTechPack/files/BTP11/BTP11Beta/buildcraft-6.3.6.jar" file="buildcraft-6.3.6.jar" md5="ba2522ea98535bf9f96e88cee78964a1" download="server" type="mods" donation="http://www.patreon.com/SpaceToad" website="http://www.mod-buildcraft.com/" authors="SpaceToad" description="Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!" />
+	
+        <mod name="BuildCraft Compat" version="1.0.0" url="packs/BevosTechPack/files/BTP11/BTP11Beta/buildcraft-compat-6.3.1.jar" file="buildcraft-compat-6.3.1.jar" md5="c01b9f29242e02b9a8e2d40d644f80a3" download="server" type="mods" donation="http://www.patreon.com/SpaceToad" website="http://www.mod-buildcraft.com/" authors="asie,BuildCraft Team" description="Compatibility add-on for BuildCraft" />
+	
+        <mod name="Carpenter&apos;s Blocks" version="3.3.5" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Carpenters Blocks v3.3.5 - MC 1.7.10.jar" file="Carpenters Blocks v3.3.5 - MC 1.7.10.jar" md5="928e4eb67f4fb7c355832e71c8e80319" download="server" type="mods" website="http://www.minecraftforum.net/topic/1790919-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" authors="Mineshopper" description="Adds slopes and a variety of vanilla-inspired blocks that support covers, side covers, overlays, dyes and chiseled patterns." />
+		
+		<mod name="Chisel" version="2.3.7.34" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Chisel2-2.3.7.34.jar" file="Chisel2-2.3.7.34.jar" md5="b8f5d93e4bfd5e5f605dcfa2fe793d11" download="server" type="mods" website="http://www.minecraftforum.net/topic/1749374-" authors="AUTOMATIC_MAIDEN" description="Adds a chisel item that lets you carve blocks like cobblestone or sandstone. Adds two new blocks to world generation: marble and limestone, which can be be carved and crafted into many various building materials." />
+		
+        <mod name="CompactSolars" version="4.4.36.315" url="packs/BevosTechPack/files/BTP11/BTP11Beta/CompactSolars-1.7.10-4.4.39.315-universal.jar" file="CompactSolars-1.7.10-4.4.39.315-universal.jar" md5="a119946b82dfa6ee565b83acb080c50e" download="server" type="mods" authors="CPW" website="http://forum.industrial-craft.net/index.php?page=Thread&amp;postID=42234" description="Compact Advanced Solors for IC2" />
+        
+        <mod name="Computronics" version="1.3.2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Computronics-1.7.10-1.3.2.jar" file="Computronics-1.7.10-1.3.2.jar" md5="05723bd090f8e8887c9fd2312658c2e2" download="server" type="mods" website="http://mc.shinonome.ch/doku.php" authors="Asie" description="Computronics is a Minecraft mod that adds a set of computer peripherals. It is compatible with both ComputerCraft, NedoComputers and OpenComputers" />
+        
+        <mod name="DescriptionTags" version="1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/DescriptionTags-1.0-1.7.10.jar" file="DescriptionTags-1.0-1.7.10.jar" md5="0f99f49631a7dd7a44414aeebc3a4f3a" download="server" type="mods" website="http://www.curse.com/mc-mods/minecraft/221990-description-tags" authors="Dawn_1006" description="adds four simple items to the game: The Lore Tag, the Description Tag, the Warrior Tag and the Butcher Tag" />
+		
+		<mod name="EiraIRC" version="v1.7.43" url="packs/BevosTechPack/files/BTP11/BTP11Beta/eirairc-mc1.7.10-v1.7.43.jar" file="eirairc-mc1.7.10-v1.7.43.jar" md5="9e48045c887aed9fa014a81d11e5c1dd" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/68420-eirairc" authors="Blay" optional="yes" server="no" recommended="no" description="This is an IRC connector that works on both client and server independently." />
+
+		<mod name="Enchiridion" version="2.0c" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Enchiridion 2-1.7.10-2.0c.jar" file="Enchiridion 2-1.7.10-2.0c.jar" md5="27d4ecda75d0565d8cd79c22293fec5b" download="server" type="mods" website="http://www.curse.com/mc-mods/minecraft/enchiridion" donation="https://www.paypal.com/cgi-bin/webscr?business=joshjackwildman%40gmail.com&amp;bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&amp;lc=US&amp;item_name=Enchiridion&amp;cmd=_donations&amp;rm=1&amp;no_shipping=1&amp;currency_code=USD" authors="joshiejack" description="This is a mod that started off as part of Mariculture, allowing for loading of custom books from zip files in the configs, handy for modpack creators or people who just want to let people know what&apos;s going on, with a mod." />
+		
+		<mod name="Ender IO" version="1.7.10-2.2.8.349" url="packs/BevosTechPack/files/BTP11/BTP11Beta/EnderIO-1.7.10-2.2.8.349.jar" file="EnderIO-1.7.10-2.2.8.349.jar" md5="1b64b4be1570077c5b3bec480cfa7f58" download="server" type="mods" authors="CrazyPants" website="http://enderio.com/" donation="http://www.hypersomniaresearch.org/ " description="A mod which adds compact liquid conduits, energy conduits and redstone conduits, power generation, machinery, remote area access (enderIO), transceivers and more" />
+		
+		<mod name="EnderZoo" version="1.7.10-1.0.9.18" url="packs/BevosTechPack/files/BTP11/BTP11Beta/EnderZoo-1.7.10-1.0.9.18.jar" file="EnderZoo-1.7.10-1.0.9.18.jar" md5="060564e736cfc0fbc034d74faf39d5d3" download="server" type="mods" authors="CrazyPants" website="http://enderio.com/" donation="http://www.hypersomniaresearch.org/ " description="A mod which adds compact liquid conduits, energy conduits and redstone conduits, power generation, machinery, remote area access (enderIO), transceivers and more" />
+        
+        <mod name="EnhancedPortals 3" version="3.0.9" url="packs/BevosTechPack/files/BTP11/BTP11Beta/EnhancedPortals_1.7.10-universal-3.0.10.jar" file="EnhancedPortals_1.7.10-universal-3.0.10.jar" md5="fbedbfc8cfe80a48092edf5e8d8fb773" download="server" type="mods" website="http://www.minecraftforum.net/topic/2143651-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=S4C57PNZZ6XYU" authors="Alz454" description="EnhancedPortals started out as a mod designed to give you a bit more customization for your Nether portals. You could increase the size, shape, or change it&apos;s colour. EnhancedPortals 3 takes this even further by leaving behind the focus of being a fully functional, boring, Nether portal." />
+
+		<mod name="ExtraCells" version="2.2.55" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ExtraCells-1.7.10-2.2.55b85.jar" file="ExtraCells-1.7.10-2.2.55b85.jar" md5="a858822335c15fa4da8be677ca0eb9fa" download="server" type="mods" website="http://www.minecraftforum.net/topic/1801643-" authors="M3gaFr3ak" description="A Mod that adds 4 new ME Storage Cells and some other cool stuff to AE." />
+
+		<mod name="Extra Utilities" version="1.2.1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/extrautilities-1.2.1.jar" file="extrautilities-1.2.1.jar" md5="497fcba9260b6a8440fda7045ca98b4a" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1443963-extra-utilities-v1-1-0c" donation="http://www.patreon.com/rwtema" authors="RWTema" description="Just a bunch of fairly useful things" />
+				
+		<mod name="Factorization" version="1.7.10-0.8.88.7" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Factorization-1.7.10-0.8.88.7.jar" file="Factorization-1.7.10-0.8.88.7.jar" md5="1fac400f6e062124955c7bf613133fc8" download="server" type="mods" website="http://minecraftforum.net/topic/1351802-" authors="neptunepink" description="Auto-crafting, ore processing, barrels, and other toys" />
+		
+		<mod name="FastCraft" version="1.17" url="packs/BevosTechPack/files/BTP11/BTP11Beta/fastcraft-1.19.jar" file="fastcraft-1.19.jar" md5="4b503355f86d17406ce658f506eb1407" download="server" type="mods" website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10820" authors="Player" description="FastCraft optimizes MineCraft in various ways, visit the homepage for further details and support." />
+		
+		<mod name="Steamcraft" version="0.27.5" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Steamcraft-0.27.5.jar" file="Steamcraft-0.27.5.jar" md5="9ef9406691629b629fabeeab9044187a" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091995-professor-flaxbeards-wondrous-steam-power-mod-beta" authors="Prof Flaxbeard" description="A tech mod based on steam power" />
+        
+        <mod name="Forestry" version="3.4.0.7" url="packs/BevosTechPack/files/BTP11/BTP11Beta/forestry_1.7.10-3.4.0.7.jar" file="forestry_1.7.10-3.4.0.7.jar" md5="33eb57891e8cb693bcde54d00676c15f" download="server" type="mods" website="http://forestry.sengir.net/wiki.new/doku.php" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" authors="SirSengir" description="Bee and Tree Breeding, farms, backpacks, mail system, and power production" />
+				
+		<mod name="Galacticraft Mars" version="3.0.8" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Galacticraft-Planets-1.7-3.0.8.266.jar" file="Galacticraft-Planets-1.7-3.0.8.266.jar" md5="1618c1e2ded0af9114a901b9dd7d95f5" download="server" type="mods" website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8" description="Mars addon for Galacticraft." />
+		
+		<mod name="Galacticraft" version="3.0.8" url="packs/BevosTechPack/files/BTP11/BTP11Beta/GalacticraftCore-1.7-3.0.8.266.jar" file="GalacticraftCore-1.7-3.0.8.266.jar" md5="2f1bbb4b5eaa890eb6477ee433dd789d" download="server" type="mods" authors="micdoodle8" depends="MicdoodleCore" donation="http://www.patreon.com/micdoodle8" website="http://micdoodle8.com/mods/galacticraft" description="Galacticraft allows you to explore the solar system in your own spaceship." />
+
+		<mod name="MicdoodleCore" version="3.0.8.266" url="packs/BevosTechPack/files/BTP11/BTP11Beta/MicdoodleCore-1.7-3.0.8.266.jar" file="MicdoodleCore-1.7-3.0.8.266.jar" md5="081e7ca02278686184aca5a5f31871fb" download="server" type="mods" authors="micdoodle8" donation="http://www.patreon.com/micdoodle8" website="http://micdoodle8.com/mods/galacticraft" description="Galacticraft allows you to explore the solar system in your own spaceship." />
+		
+		<mod name="GardenStuff" version="1.2.5" url="packs/BevosTechPack/files/BTP11/BTP11Beta/GardenStuff-1.7.10-1.2.7.jar" file="GardenStuff-1.7.10-1.2.7.jar" md5="a78a0d9e0659c1d63f2fbda9a08c4a43" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14" authors="jaquadro" description="collection of garden-related mods" />
+        
+        <mod name="Gendustry" version="1.4.6.62" url="packs/BevosTechPack/files/BTP11/BTP11Beta/gendustry-mc1710-1.4.6.62.jar" file="gendustry-mc1710-1.4.6.62.jar" md5="47dbf26aa0a93379f060fd7747508a14" download="server" type="mods" website="http://www.minecraftforum.net/topic/2160265-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" authors="bdew" description="Gendustry" />
+        
+        <mod name="GraviSuite" version="2.0.3" url="packs/BevosTechPack/files/BTP11/BTP11Beta/GraviSuite-1.7.10-2.0.3.jar" file="GraviSuite-1.7.10-2.0.3.jar" md5="06b8f12110da8dcac38597458c8dfe24" download="server" type="mods" website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" authors="SeNtiMeL" description="IC2 Gear!" />
+        
+        <mod name="Hardcore Questing Mode" version="4.2.1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/HQM-The Journey (4.2.1).jar" file="HQM-The Journey (4.2.1).jar" md5="8eb6134c00a35bea91679ca548839d7a" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/77027-hardcore-questing-mode" description="Hardcore Questing Mode introduces a possibility to play a life based hardcore mode, but with more than only 1 life before your world gets deleted or you get banned from a server. Furthermore, you can complete quests to gain rewards, the rewards might be cool items or even extra lives." />
+        
+        <mod name="IC2 Nuclear Control 2" version="2.0.8c" url="packs/BevosTechPack/files/BTP11/BTP11Beta/IC2NuclearControl-2.0.8c.jar" file="IC2NuclearControl-2.0.8c.jar" md5="6306c672d7c8b1450657a97b999668bc" download="server"  type="mods" website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=10649" description="efficient monitoring and control systems for IndustrialCraft 2 Nuclear Reactors" />
+
+        <mod name="IndustrialCraft 2" version="2.2.681" url="packs/BevosTechPack/files/BTP11/BTP11Beta/industrialcraft-2-2.2.681-experimental.jar" file="industrialcraft-2-2.2.681-experimental.jar" md5="3ecf762e7b2bed8ffc6d6099a88b8973" download="server" type="mods" website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44" description="Industrial age themed expansion for Minecraft." />
+		
+        <mod name="INpureCore" version="1.0" url="packs/BevosTechPack/files/BTP11/BTP11Beta/INpureCore-[1.7.10]1.0.0B9-54.jar" file="INpureCore-[1.7.10]1.0.0B9-54.jar" md5="ca4b6475269d69074063d85bc3814a57" download="server" authors="denoflions" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2196459-1-7-10-inpure-projects-denoflions-mods" description="NEI culling" />
+		
+		<mod name="Inventory Tweaks" version="1.59-dev-152" url="packs/BevosTechPack/files/BTP11/BTP11Beta/InventoryTweaks-1.59-dev-152.jar" file="InventoryTweaks-1.59-dev-152.jar" md5="83f7ddcd5f5fd8d640aa15dc62acc6bf" download="server" type="mods" server="no" website="http://www.minecraftforum.net/topic/1720872-" authors="Jimeo Wan,Kobata" description="Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items." />
+		
+		<mod name="Iron Chest" version="6.0.41.730" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ironchest-1.7.10-6.0.43.730-universal.jar" file="ironchest-1.7.10-6.0.43.730-universal.jar" md5="5955a66bce9d96067e4eb22c3a8175af" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0" authors="CPW" description="IronChests 5.0, formerly an IC2 addon mod, now completely IC2 independent" />
+		
+		<mod name="JABBA" version="1.7.10" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Jabba-1.2.1_1.7.10.jar" file="Jabba-1.2.1_1.7.10.jar" md5="9d8788d8cfac57caf07be3eb74eae34c" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/73488-waila" authors="Prof Mobius" donation="http://www.patreon.com/profmobius" description="Just Another Better Berral Attempt" />
+		
+		<mod name="JourneyMap" version="5.0.0" url="http://minecraft.curseforge.com/mc-mods/32274-journeymap-32274/files/2219482/download" file="JourneyMap5.0.0_FairPlay_MC1.7.10.jar" md5="67d93dd4c415acba45330171a5e264ba" download="direct" type="mods" website="http://www.minecraftforum.net/topic/772071-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE" server="no" authors="Mark Woodman AKA TechBrew" description="Real-time map in-game or in a web browser as you explore." />
+        
+        <mod name="LaunchGUI" version="1.2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/launchgui-1.7.10-1.2.jar" file="launchgui-1.7.10-1.2.jar" md5="a9da13be47e81d05557537168a85b782" download="server" authors="TehNut" type="mods" website="https://github.com/TehNut/LaunchGui" description="Creates a menu with a single button and up to 10 lines of text right before the main menu. It will disable itself once the button is pressed" />
+		
+		<mod name="LogisticsPipes" version="8.3.100" url="packs/BevosTechPack/files/BTP11/BTP11Beta/logisticspipes-0.8.3.100.jar" file="logisticspipes-0.8.3.100.jar" md5="97277f429136ed1b292b7a15e9e3dcac" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289546-buildcraft-logistics-pipes" description="Overhaul of the Buildcraft pipe system. It allows for better distribution of items via pipes, more organised stockkeeping and easier automated crafting" />
+		
+		<mod name="Malisis Core" version="1.7.10-0.10.5-b0" url="packs/BevosTechPack/files/BTP11/BTP11Beta/malisiscore-1.7.10-0.10.5.jar" file="malisiscore-1.7.10-0.10.5.jar" md5="40fdd8c27c2837344e3dd4f56a64a48e" download="server" type="mods" hidden="yes" authors="Ordinastie" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076338-1-7-2-1-7-10-forge-malisisdoors-1-7-10-1-1-4-01" description="Better Doors" />
+
+		<mod name="Malisis Doors" version="1.7.10-1.4.3" url="packs/BevosTechPack/files/BTP11/BTP11Beta/malisisdoors-1.7.10-1.4.3.jar" file="malisisdoors-1.7.10-1.4.3.jar" md5="9da5ac14c2db77b785dfdae5bfdc1b8a" download="server" type="mods" authors="Ordinastie" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076338-1-7-2-1-7-10-forge-malisisdoors-1-7-10-1-1-4-01" description="Better Doors" />
+		
+		<mod name="Mantle" version="0.3.2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Mantle-1.7.10-0.3.2.jar" file="Mantle-1.7.10-0.3.2.jar" md5="3f360f0fb92cfb252235fe99ddfc7495" download="server" type="mods" hidden="yes" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1287648-tinkers-construct" authors="mDiyo" description="Core for TCon" />
+        
+        <mod name="Mekanism" version="7.1.2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Mekanism-1.7.10-7.1.2.177.jar" file="Mekanism-1.7.10-7.1.2.177.jar" md5="47f47a38a3106bd40f1d65b442f4dcde" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" description="Energy, Armor, Tools, Weapons, Machines, Magic." />
+        
+        <mod name="MekanismGenerators" version="7.1.2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/MekanismGenerators-1.7.10-7.1.2.177.jar" file="MekanismGenerators-1.7.10-7.1.2.177.jar" md5="f61eb2535938840b53913daf8c47553f" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" authors="aidancbrady" hidden="yes" description="Generators module of Mekanism." />
+        
+        <mod name="MekanismTools" version="7.1.2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/MekanismTools-1.7.10-7.1.2.177.jar" file="MekanismTools-1.7.10-7.1.2.177.jar" md5="f11f713eb1004a7e348862ea3923cd4e" download="server" type="mods" website="http://aidancbrady.com/mekanism/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=PQH6NGL2C4QWY" hidden="yes" authors="aidancbrady" description="Tools module for Mekanism." /> 
+        
+        <mod name="MineMenu" version="1.1.7.B44" url="packs/BevosTechPack/files/BTP11/BTP11Beta/MineMenu-1.7.10-1.2.0.B44-universal.jar" file="MineMenu-1.7.10-1.2.0.B44-universal.jar" md5="d18b9a019f07784c7dba20ca7d0903f2" download="server" type="mods" server="no" website="http://www.curse.com/mc-mods/minecraft/222378-minemenu#t1:description" authors="dmillerw" description="this fancy new radial menu, you put the power of 10 keys…that’s right, 10! Into the comfort of only one." />
+		
+		<mod name="MineTweaker" version="3.0.8B" url="packs/BevosTechPack/files/BTP11/BTP11Beta/MineTweaker3-1.7.10-3.0.8B.jar" file="MineTweaker3-1.7.10-3.0.8B.jar" md5="72aeee21b9714f772e1a8aa2451667cd" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your" authors="StanH" hidden="yes" description="MineTweaker is a mod that enables players and server admins to alter recipes (both crafting recipes, furnace recipes and now also some mod machine recipes) as well as changing some small things such as item names, fuel burning times, ... For all these functions, MineTweaker uses a fully scripted language, making it easy to understand and offering a lot of functionality." />
+        
+        <mod name="ModTweaker" version="0.6-16" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ModTweaker-1.7.X-0.6-16.jar" file="ModTweaker-1.7.X-0.6-16.jar" md5="272cf51893e214809f4fae2f6e3430a9" download="server" type="mods" donation="http://www.patreon.com/joshiejack" hidden="yes" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2093121-1-7-x-modtweaker-0-4-minetweaker-addon" authors="Joshie" description="Addon for MineTweaker 3" />
+		
+		<mod name="Morpheus" version="1.5.24" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Morpheus-1.7.10-1.5.24.jar" file="Morpheus-1.7.10-1.5.24.jar" md5="c0719e67585bdf4dcbe1de643cdef463" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/69118-morpheus" donation="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=5AH8F9SRGY8HA&amp;item_name=Morpheus+%28from+CurseForge.com%29&amp;cmd=_s-xclick" authors="quetzi" description="Morpheus is a server-only mod that adds sleep voting to a forge based server. When a player sleeps, all other players in the same dimension are notified so it is easier to coordinate." />
+		
+		<mod name="Natura" version="2.2.0.1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/natura-1.7.10-2.2.0.1.jar" file="natura-1.7.10-2.2.0.1.jar" md5="ed9a7044d963b7e5ce7ca52ec628bd11" download="server" donation="http://www.patreon.com/progwml6" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294968-natura" authors="ProgwmI6" description="Natura is a mod that aims to spice up the world with interesting worldgen." />
+        
+		<mod name="ObsidiPlates" version="3.0.0.18" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ObsidiPlates-1.7.10-universal-3.0.0.18.jar" file="ObsidiPlates-1.7.10-universal-3.0.0.18.jar" md5="20fc7e4fde83c7be83358a19bfffc4b1" download="server" type="mods" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" authors="Myrathi" description="New pressure plates made from blocks of obsidian (that only work when players step on them" />
+				
+		<mod name="OpenBlocks" version="1.3" url="packs/BevosTechPack/files/BTP11/BTP11Beta/OpenBlocks-1.7.10-1.3-snapshot-566.jar" file="OpenBlocks-1.7.10-1.3-snapshot-566.jar" md5="ed2c341c3ace6ba588063d6609d1ac38" download="server" type="mods" website="http://www.minecraftforum.net/topic/1941514-" donation="http://www.patreon.com/openmods" authors="Mikee,NeverCast,boq,Lyqyd" description="OpenBlocks is a random collection of ideas - ideas the community have suggested, or ideas we thought &quot;Why hasn&apos;t anyone done that yet?&quot;. There is no theme, it&apos;s quite random. It&apos;s not even just blocks, as the name suggests!" />
+		
+		<mod name="OpenMods Lib" version="0.6" url="packs/BevosTechPack/files/BTP11/BTP11Beta/OpenModsLib-1.7.10-0.6-snapshot-315.jar" file="OpenModsLib-1.7.10-0.6-snapshot-315.jar" md5="c95711db931942db74ddb3a554d84148" download="server" type="mods" website="http://www.openblocks.info/" donation="http://www.patreon.com/openmods" authors="Mikeemoo" description="This is required for all of OpenBlocks mods." />
+		
+		<mod name="OpenComputers" version="1.5.0.6" url="packs/BevosTechPack/files/BTP11/BTP11Beta/OpenComputers-MC1.7.10-1.5.0.6-universal.jar" file="OpenComputers-MC1.7.10-1.5.0.6-universal.jar" md5="ee7f6a0a45d36590c3ee1c7baab049b6" download="server" type="mods" website="http://www.minecraftforum.net/topic/2201440-" authors="Sangar" description="This mod adds programmable, modular and persistent computers to the game." />
+        
+        <mod name="Pam&apos;s Harvestcraft" version="1.7.10d" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Pams HarvestCraft 1.7.10f.jar" file="Pams HarvestCraft 1.7.10f.jar" md5="677bf59550f658cbbda9b058c0cf2ad0" download="server" type="mods" website="http://www.minecraftforum.net/topic/402069-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=UMVYJNMULKL2W&amp;lc=US&amp;item_name=Pam%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" authors="MatrexsVigil" description="Expanded food system including tons of new crops!" />
+		
+		<mod name="PneumaticCraft" version="1.6.1-62" url="packs/BevosTechPack/files/BTP11/BTP11Beta/PneumaticCraft-1.7.10-1.6.1-62-universal.jar" file="PneumaticCraft-1.7.10-1.6.1-62-universal.jar" md5="efd355663e848dafbf3413921b531b1a" download="server" type="mods" website="http://www.minecraftforum.net/topic/1841226-" authors="MineMaarten" description="A technical mod all about pneumatics!" />
+
+		<mod name="Pressure Pipes" version="1.0.5.58" url="packs/BevosTechPack/files/BTP11/BTP11Beta/pressure-mc1710-1.0.5.58.jar" file="pressure-mc1710-1.0.5.58.jar" md5="b421e50e7d64401eacd4a74545069690" download="server" type="mods" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" website="http://bdew.net/pressure/" authors="bdew" description="Pressurized Pipes" />
+        
+		<mod name="Progressive Automation" version="1.5.23" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ProgressiveAutomation-1.7.10-1.5.23.jar" file="ProgressiveAutomation-1.7.10-1.5.23.jar" md5="f16756e297a4552cedca4b2d83e578f0" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2076388-progressive-automation-upgradeable-machines" authors="Vanhal" description="This mod provides low tech automation tools for common tasks. The tools will be upgradable as the player progresses." />
+        
+        <mod name="Railcraft" version="9.5.0.0" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Railcraft_1.7.10-9.5.0.0.jar" file="Railcraft_1.7.10-9.5.0.0.jar" md5="074e753f5db0b65fc1f07c6e21dd71ba" download="server" type="mods" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" authors="CovertJaguar" description="Redefine your rails" />
+		
+		<mod name="RandomThings" version="2.2.4" url="packs/BevosTechPack/files/BTP11/BTP11Beta/RandomThings-2.2.4.jar" file="RandomThings-2.2.4.jar" md5="45c948a0954aa78bb5c23801aa5d9eb7" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/59816-random-things" authors="Lumien" description="compilation of different blocks" />
+        
+        <mod name="Roguelike Dungeons Mod" version="1.3.5" url="packs/BevosTechPack/files/BTP11/BTP11Beta/roguelike-1.7.10-1.3.5.jar" file="roguelike-1.7.10-1.3.5.jar" md5="837aa33c8a44ac5d2af12a469aed889f" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290238-roguelike-dungeons-v1-3-4" authors="Greymerk" description="A mod that adds random dungeon complexes to the world" />
+        
+        <mod name="Ruins" version="1.7.10" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Ruins31.zip" file="Ruins31.zip" md5="439f5094a3648e104426f0d093833627" download="server" type="extract" extractto="mods" extractfolder="mods" donation="http://www.patreon.com/user?u=82605" website="http://www.atomicstryker.net/" description="Randomly Generated Structures" />
+		
+		<mod name="Simply Jetpacks" version="1.4.1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/SimplyJetpacks-MC1.7.10-1.4.1.jar" file="SimplyJetpacks-MC1.7.10-1.4.1.jar" md5="fbe4e1c060af92cb22345e3a7929a01a" download="server" type="mods" website="http://www.minecraftforum.net/topic/2548594-" authors="tonius11" description="This is a small mod that adds Redstone Flux-powered jetpacks to the game" />
+		
+		<mod name="Statues" version="2.1.4" url="packs/BevosTechPack/files/BTP11/BTP11Beta/statues-1.7.10-2.1.4.jar" file="statues-1.7.10-2.1.4.jar" md5="083a94e77bd69a0ac454771becb4c7e0" download="server" type="mods" website="http://www.minecraftforum.net/topic/2115090-" authors="AUTOMATIC_MAIDEN" description="Create statues out of various blocks" />
+
+		<mod name="Steve&apos;s Carts 2" version="b18" url="packs/BevosTechPack/files/BTP11/BTP11Beta/StevesCarts2.0.0.b18.jar" file="StevesCarts2.0.0.b18.jar" md5="0beb610ca0d65a1419fffabe7feb9dc2" download="server" type="mods" website="http://www.minecraftforum.net/topic/680276-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z7NBL3BRBCNFC" authors="Vswe" description="Steve&apos;s Carts 2 introduces a modular system where you can build a huge amount of carts(hundreds of millions) by combining the parts you want." />
+
+		<mod name="Steve&apos;s Factory Manager" version="A93" url="packs/BevosTechPack/files/BTP11/BTP11Beta/StevesFactoryManagerA93.jar" file="StevesFactoryManagerA93.jar" md5="825819de2d82cf7e9118353c0fc821b6" download="server" type="mods" website="http://www.minecraftforum.net/topic/2211439-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z7NBL3BRBCNFC" authors="vswe" description="This mod allows you to move items between different inventories (machines and storage blocks) by specifying it using commands in a flow chart like way." />
+
+		<mod name="Steve&apos;s Workshop" version="0.5.1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/StevesWorkshop-0.5.1.jar" file="StevesWorkshop-0.5.1.jar" md5="466afe4bd2f08913d45a181e0635235a" download="server" type="mods" website="http://www.curse.com/mc-mods/minecraft/223173-steves-workshop" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z7NBL3BRBCNFC" authors="vswe" description="This mod adds a production table that contains multiple modular crafting tables and/or furnaces." />
+		
+		<mod name="Storage Drawers" version="1.1.7" url="packs/BevosTechPack/files/BTP11/BTP11Beta/StorageDrawers-1.7.10-1.1.7.jar" file="StorageDrawers-1.7.10-1.1.7.jar" md5="c3c83476228f185fdd6a2fe237eb7079" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-v1-1-1-updated-sep-15-14?page=5" authors="Jaquadro" description="Adds new storage solutions to your workshops that resembles a mix of Jabba Barrels and Bibliocraft Item Shelves over traditional storage containers." />
+		
+		<mod name="Thaumcraft" version="1.7.10-4.2.3.5" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Thaumcraft-1.7.10-4.2.3.5.jar" file="Thaumcraft-1.7.10-4.2.3.5.jar" md5="17f2e60dabd4961c9a3a2dad3ad6528a" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292130-thaumcraft-4-2-0-1-updated-27-8-2014" optional="yes" description="Thaumaturgy is the capability of a magician to work miracles. A practitioner of thaumaturgy is a thaumaturge, thaumaturgist or miracle worker" />
+		
+		<mod name="Tinkers&apos; Construct" version="1.8.2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/TConstruct-1.7.10-1.8.2a.jar" file="TConstruct-1.7.10-1.8.2a.jar" md5="3b7fab1c5c1fecffb0ed520534c2f722" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=TinkersConstruct&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" authors="mDiyo,fuj1n,ProgWML6,Sunstrike" description="A little of this, a little of that, a lot of tinkering, and a lot of tools" />
+        
+        <mod name="Tinkers&apos; Mechworks" version="0.2.13.96" url="packs/BevosTechPack/files/BTP11/BTP11Beta/TMechworks-1.7.10-0.2.13.96.jar" file="TMechworks-1.7.10-0.2.13.96.jar" md5="8b72139476eacc9828eccc58de00f995" download="server" type="mods" website="http://www.minecraftforum.net/topic/1659892-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=TinkersConstruct&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" authors="mDiyo,fuj1n,ProgWML6,Sunstrike,Pillbox" description="Addon for Tinkers Construct" />
+		
+		<mod name="TiC Tooltips" version="1.2.3" url="packs/BevosTechPack/files/BTP11/BTP11Beta/TiCTooltips-mc1.7.10-1.2.3.jar" file="TiCTooltips-mc1.7.10-1.2.3.jar" md5="c7ac55fcd934f21449b89c6ed8fa6a51" download="server" type="mods" website="http://www.curse.com/mc-mods/minecraft/tic-tooltips" donation="http://www.patreon.com/squeek502" authors="Squeek502" description="A simple client-side add-on for Tinkers' Construct that adds relevant stats to all tool and tool part tooltips." />
+		
+		<mod name="The Twilight Forest" version="2.3.3" url="packs/BevosTechPack/files/BTP11/BTP11Beta/twilightforest-1.7.10-2.3.3.jar" file="twilightforest-1.7.10-2.3.3.jar" md5="bc461b1af4db2af096bf4b76d24bb5e7" download="server" type="mods" website="http://www.minecraftforum.net/topic/561673-" authors="Benimatic (Ben Mazur)" description="An enchanted forest dimension." />
+
+		<mod name="WAILA" version="1.5.9_1.7.10" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Waila-1.5.9_1.7.10.jar" file="Waila-1.5.9_1.7.10.jar" md5="c469c01c60182e4a0ccd558c84bafed5" download="server" type="mods" server="no" website="http://minecraft.curseforge.com/mc-mods/73488-waila" authors="Prof Mobius" donation="http://www.patreon.com/profmobius" description="What Am I Looking At" />
+		
+		<mod name="Waila Harvestability" version="1.1.2" url="packs/BevosTechPack/files/BTP11/BTP11Beta/WailaHarvestability-mc1.7.x-1.1.2.jar" file="WailaHarvestability-mc1.7.x-1.1.2.jar" md5="44f3356029a6a17e4bf3bd9313e9cbe4" download="server" type="mods" donation="http://www.patreon.com/squeek502" website="http://www.curse.com/mc-mods/minecraft/waila-harvestability" authors="Squeek502" description="A client-side add-on for Waila that adds information about the harvestability of what you are looking at." />
+ 
+        <mod name="warp-book" version="2.0.36" url="packs/BevosTechPack/files/BTP11/BTP11Beta/warpbook-1.7.10_2.0.36.jar" file="warpbook-1.7.10_2.0.36.jar" md5="f5367d40f373afdded4f989a5f810386" download="server" type="mods" website="http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293310-teleportation-warp-book" description="teleportation between given points." />
+        
+        <mod name="Whats This Pack" version="1.0" url="packs/BevosTechPack/files/BTP11/BTP11Beta/whatsthispack-1.7.2-1.0.jar" file="whatsthispack-1.7.2-1.0.jar" md5="149b79293a545040b6ac70f623c4e49c" download="server" server="no" hidden="yes" type="mods" website="http://minecraft.curseforge.com/mc-mods/221658-wtp-whats-this-pack" description="What's This Pack, is a simple modpack identifier for those of you who make modpacks and would like your users to have that extra bit of pizzazz in their pack. " />
+		
+		
+		
+		<!-- 	COFH 	-->
+		
+		<mod name="CoFH Core" version="3.0.0B9" url="packs/BevosTechPack/files/BTP11/BTP11Beta/CoFHCore-[1.7.10]3.0.0B9-173.jar" file="CoFHCore-[1.7.10]3.0.0B9-173.jar" md5="4c58e2768c781c0acfe8ab9f562ab157" download="server" type="mods" website="http://teamcofh.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="KingLemmingCoFH,Cynycal,Zeldo" description="Library/API required by all CoFH mods. It's also meant as a resource for other modders!" /> 
+
+		<mod name="CoFH Lib" version="1.0.0B8-110" url="packs/BevosTechPack/files/BTP11/BTP11Beta/CoFHLib-[1.7.10]1.0.0B9-110.jar" file="CoFHLib-[1.7.10]1.0.0B9-110.jar" md5="601a5369444811a1fbd35f08d91ba89d" download="server" type="mods" website="http://teamcofh.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="KingLemmingCoFH,Cynycal,Zeldo" description="Lib required for all Team CoFH mods." />
+	
+		<mod name="MineFactory Reloaded" version="[1.7.10]2.8.0RC6-60" url="packs/BevosTechPack/files/BTP11/BTP11Beta/MineFactoryReloaded-[1.7.10]2.8.0RC6-60.jar" file="MineFactoryReloaded-[1.7.10]2.8.0RC6-60.jar" md5="d2b7ac559721d8bab3277cce23d99fd0" download="server" type="mods" website="http://www.minecraftforum.net/topic/2016680-" authors="PowerCrystals,TehKrush,AtomicStryker,Feanorith,skyboy026" description="Automate everything!" />
+	
+		<mod name="Redstone Arsenal" version="1.1.0RC1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/RedstoneArsenal-[1.7.10]1.1.0RC1-42.jar" file="RedstoneArsenal-[1.7.10]1.1.0RC1-42.jar" md5="e7e8fc445f699408158401e5c2076e7e" download="server" type="mods" website="http://teamcofh.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="KingLemmingCoFH,Cynycal,Zeldo" description="Redstone Arsenal adds several new items used to create powerful tools." />
+
+		<mod name="Thermal Expansion" version="4.0.0B9" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ThermalExpansion-[1.7.10]4.0.0B9-116.jar" file="ThermalExpansion-[1.7.10]4.0.0B9-116.jar" md5="c58f04562e2b79d821b4a3cf026ce111" download="server" type="mods" website="http://thermalexpansion.wikispaces.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="KingLemmingCoFH,Cynycal,ZeldoKavira" description="Expanding Minecraft thermally - provides new options for automation and processing!" />
+
+		<mod name="Thermal Foundation" version="1.0.0RC1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ThermalFoundation-[1.7.10]1.0.0RC1-52.jar" file="ThermalFoundation-[1.7.10]1.0.0RC1-52.jar" md5="dade595c6754b4bd30a8033a07dee038" download="server" type="mods" website="http://thermalexpansion.wikispaces.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3M6YK5LMC4GT6" authors="KingLemmingCoFH,Cynycal,ZeldoKavira" description="The Foundation of a Thermally Expanding World!" />
+
+		
+		<!-- 	Chicken Bones 	-->
+		
+		<mod name="ChickenChunks" version="1.3.4.17" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ChickenChunks-1.7.10-1.3.4.17-universal.jar" file="ChickenChunks-1.7.10-1.3.4.17-universal.jar" md5="512572cb9f60468ac9d6ec51b73e44ee" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Advanced chunkloading management" />
+		
+		<mod name="CodeChickenCore" version="1.0.4.35" url="packs/BevosTechPack/files/BTP11/BTP11Beta/CodeChickenCore-1.7.10-1.0.4.35-universal.jar" file="CodeChickenCore-1.7.10-1.0.4.35-universal.jar" md5="0f82aedf717fe0f580b4fd3a6514a6ff" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" hidden="yes" authors="ChickenBones" description="Core library for all ChickenBones mods" />
+		
+		<mod name="Ender Storage" version="1.4.5.27" url="packs/BevosTechPack/files/BTP11/BTP11Beta/EnderStorage-1.7.10-1.4.5.27-universal.jar" file="EnderStorage-1.7.10-1.4.5.27-universal.jar" md5="f0f25409643db8045a5fb36a3ab7387c" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time.  All EnderStorage makes use of the magic of colors to link storage with its little piece of The END.  Any EnderStorage with the same color code share inventory (even across dimensions)." />
+		
+		<mod name="NotEnoughItems" version="1.0.4.83" url="packs/BevosTechPack/files/BTP11/BTP11Beta/NotEnoughItems-1.7.10-1.0.4.83-universal.jar" file="NotEnoughItems-1.7.10-1.0.4.83-universal.jar" md5="8988420f4c4781580df6d05130920f10" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Allows you to quickly and easily look up recipes and uses for any item in Minecraft included modded items. Also allows easy spawning of items and a range of one click utilities." />
+        
+		<mod name="Translocator" version="1.1.1.14" url="packs/BevosTechPack/files/BTP11/BTP11Beta/Translocator-1.7.10-1.1.1.14-universal.jar" file="Translocator-1.7.10-1.1.1.14-universal.jar" md5="7e2e7e14dbc050e94f9faec84e142288" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Translocates stuff!" />
+		
+		<mod name="WR-CBE Core" version="1.4.1.9" url="packs/BevosTechPack/files/BTP11/BTP11Beta/WR-CBE-1.7.10-1.4.1.9-universal.jar" file="WR-CBE-1.7.10-1.4.1.9-universal.jar" md5="c3477cd84ce90a85cce8ba8bb7b93809" download="server" type="mods" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Redstone Ether with some component items" />
+
+		<mod name="NEI Addons" version="1.12.4.16" url="packs/BevosTechPack/files/BTP11/BTP11Beta/neiaddons-mc1710-1.12.4.16.jar" file="neiaddons-mc1710-1.12.4.16.jar" md5="3ad906dba9ba5635fb6e53488f5a1ab8" download="server" type="mods" website="http://www.minecraftforum.net/topic/1803460-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=TV8GLNVZJGGG4" authors="bdew" description="Adds in mod integration into NEI by showing bee breeding information as well as other helpful mod plugins." />
+
+		<mod name="NEIIntegration" version="1.0.7" url="packs/BevosTechPack/files/BTP11/BTP11Beta/NEIIntegration-MC1.7.10-1.0.7.jar" file="NEIIntegration-MC1.7.10-1.0.7.jar" md5="341d75b8a9038a525189417c6fa9c89c" download="server" type="mods" website="https://bitbucket.org/mistaqur/nei_plugins/wiki" authors="mistaqur" description="Adds mod integration into NEI" />
+		
+		
+		<!-- 	Project Red 	-->
+		
+		<mod name="Project Red" version="4.5.12.64" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ProjectRed-1.7.10-4.5.12.64-Base.jar" file="ProjectRed-1.7.10-4.5.12.64-Base.jar" md5="341732b44e1b4cf1a9aa6d639dfded85" download="server" donation="http://www.patreon.com/MrTJP" type="mods" authors="MrTJP" website="http://projectredwiki.com/wiki/Version_archive" description="A mod all about redstone tinkering." />
+		
+		<mod name="Project Red" version="4.5.12.64" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ProjectRed-1.7.10-4.5.12.64-Compat.jar" file="ProjectRed-1.7.10-4.5.12.64-Compat.jar" md5="85d507aa061ab2cc6525337fe63598a8" download="server" donation="http://www.patreon.com/MrTJP" type="mods" hidden="yes" authors="MrTJP" website="http://projectredwiki.com/wiki/Version_archive" description="A mod all about redstone tinkering." />
+		
+		<mod name="Project Red" version="4.5.12.64" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ProjectRed-1.7.10-4.5.12.64-Integration.jar" file="ProjectRed-1.7.10-4.5.12.64-Integration.jar" md5="dd712e1f4307cd27bcb1ce2db297c877" download="server" donation="http://www.patreon.com/MrTJP" hidden="yes" type="mods" website="http://projectredwiki.com/wiki/Version_archive" authors="MrTJP" description="A mod all about redstone tinkering." />
+		
+		<mod name="Project Red" version="4.5.12.64" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ProjectRed-1.7.10-4.5.12.64-Lighting.jar" file="ProjectRed-1.7.10-4.5.12.64-Lighting.jar" md5="4430907c2250c9f391acd4f06ea2b857" download="server" donation="http://www.patreon.com/MrTJP" hidden="yes" type="mods" website="http://projectredwiki.com/wiki/Version_archive" authors="MrTJP" description="A mod all about redstone tinkering." />
+		
+		<mod name="Project Red" version="4.5.12.64" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ProjectRed-1.7.10-4.5.12.64-Mechanical_beta.jar" file="ProjectRed-1.7.10-4.5.12.64-Mechanical_beta.jar" md5="ca97333550e05d973a5ec2adb39b70db" download="server" donation="http://www.patreon.com/MrTJP" hidden="yes" type="mods" website="http://projectredwiki.com/wiki/Version_archive" authors="MrTJP" description="A mod all about redstone tinkering." />
+		
+		<mod name="Project Red" version="4.5.12.64" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ProjectRed-1.7.10-4.5.12.64-World.jar" file="ProjectRed-1.7.10-4.5.12.64-World.jar" md5="c0810623149880ff7226338c1749221d" download="server" donation="http://www.patreon.com/MrTJP" type="mods" hidden="yes" website="http://projectredwiki.com/wiki/Version_archive" authors="MrTJP" description="A mod all about redstone tinkering." />
+		
+		<!-- 	Growth Craft 	-->
+
+		<mod name="GrowthCraft" version="2.1.0a" url="packs/BevosTechPack/files/BTP11/BTP11Beta/growthcraft-core-1.7.10-2.1.0a.jar" file="growthcraft-core-1.7.10-2.1.0a.jar" md5="05d64d9f59b3ccd2f6464b8797024639" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Shared files within GrowthCraft" />
+
+		<mod name="GrowthCraft Apples" version="2.1.0a" url="packs/BevosTechPack/files/BTP11/BTP11Beta/growthcraft-apples-1.7.10-2.1.0.jar" file="growthcraft-apples-1.7.10-2.1.0.jar" md5="9d07164344883e4c0bf500531fabebfd" download="server" type="mods" hidden="yes" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Improves the way of farming apples and addition of Apple Ciders." />
+
+		<mod name="GrowthCraft Bamboo" version="2.1.0a" url="packs/BevosTechPack/files/BTP11/BTP11Beta/growthcraft-bamboo-1.7.10-2.1.0.jar" file="growthcraft-bamboo-1.7.10-2.1.0.jar" md5="e1a09f4fe76a80621f48042ea967b8db" download="server" type="mods" hidden="yes" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Adds bamboos which can be crafted to fresh looking aesthetics" />
+
+		<mod name="GrowthCraft Core: Cellar" version="2.1.0a" url="packs/BevosTechPack/files/BTP11/BTP11Beta/growthcraft-cellar-1.7.10-2.1.0a.jar" file="growthcraft-cellar-1.7.10-2.1.0a.jar" md5="4a6f42229072eecdea2829957ec964af" download="server" type="mods" hidden="yes" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Shared files within GrowthCraft" />
+
+		<mod name="GrowthCraft Grapes" version="2.1.0a" url="packs/BevosTechPack/files/BTP11/BTP11Beta/growthcraft-grapes-1.7.10-2.1.0.jar" file="growthcraft-grapes-1.7.10-2.1.0.jar" md5="8618e01c4efd64d2c6ab9ac5d8f84f6f" download="server" type="mods" hidden="yes" website="http://www.minecraftforum.net/topic/1510394-" authors="Gwafu" description="Adds Grapes which can be brewed into Grape Wine." />
+
+		<mod name="GrowthCraft Hops" version="2.1.0a" url="packs/BevosTechPack/files/BTP11/BTP11Beta/growthcraft-hops-1.7.10-2.1.0.jar" file="growthcraft-hops-1.7.10-2.1.0.jar" md5="ae73f9c73ca2249e84bdad038cc2daf2" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" hidden="yes" authors="Gwafu" description="Adds Hops which can be brewed into Ale." />
+
+		<mod name="GrowthCraft Rice" version="2.1.0a" url="packs/BevosTechPack/files/BTP11/BTP11Beta/growthcraft-rice-1.7.10-2.1.0a.jar" file="growthcraft-rice-1.7.10-2.1.0a.jar" md5="43d71a38543c8d7202e0c4ba2c33ac8c" download="server" type="mods" website="http://www.minecraftforum.net/topic/1510394-" hidden="yes" authors="Gwafu" description="Adds rice which can be crafted to rice balls and brewed into rice wine" />
+		
+		<!-- World Downloads -->
+        
+      	<!-- Resource Pack -->
+        
+        <mod name="Bevo Texture and Lang Pack" version="Bevo v1.1.6" url="packs/BevosTechPack/files/BTP11/BTP11Beta/BevoPack-lang_only-v1.1.6.zip" file="BevoPack-lang_only-v1.1.6.zip" md5="81740d0006981ec174c3c15391abe241" download="server" type="resourcepack" website="http://minecraft.curseforge.com/texture-packs/222097-unity/" authors="CyanideX, Vexatos" server="no" description="This Resource Packs adds the Bevonian Language to Minecraft. It contains CyanideX's Unity Textures. With this you can play like Bevo does!" />
+        
+        <mod name="BevoPack-lang_only" version="Bevo v1.1.6" url="packs/BevosTechPack/files/BTP11/BTP11Beta/BevoPack-Unity-v1.1.6.zip" file="BevoPack-Unity-v1.1.6.zip" md5="36dc693c5ccada2d16f6d494f343465a" download="server" type="resourcepack" website="https://github.com/Vexatos/BevoPack/" hidden="yes" server="no" authors="Vexatos" description="This Resource Packs adds the Bevonian Language to Minecraft. It does not contain any textures" />
+        
+        <!-- Others -->
+        
+        <mod name="ejml" version="0.23" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ejml-0.23.jar" file="ejml-0.23.jar" md5="2773bb49335358b2d042ac50690ea5d7" download="server" type="ic2lib" hidden="yes" website="http://www.industrial-craft.net" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q" authors="Alblaka,Player,RichardG,Thunderdark,GregoriusT,alexthesax,Drashian,Elementalist,Feanturi,Lurch1985,SirusKing,tahu44" description="IC2 Libary." />
+		
+		<mod name="CodeChickenLib" version="1.1.1.110" url="packs/BevosTechPack/files/BTP11/BTP11Beta/CodeChickenLib-1.7.10-1.1.1.110-universal.jar" file="CodeChickenLib-1.7.10-1.1.1.110-universal.jar" md5="1f67c18bbbf49dc54169ffa0ad1d6a15" download="server" type="dependency" hidden="yes" website="http://www.minecraftforum.net/topic/909223-" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones" description="Needed for ChickenBones mods" />
+		
+		<mod name="Forge Multipart" version="1.1.1.320" url="packs/BevosTechPack/files/BTP11/BTP11Beta/ForgeMultipart-1.7.10-1.1.1.320-universal.jar" file="ForgeMultipart-1.7.10-1.1.1.320-universal.jar" md5="36a41356f863659268242084b0e1caf8" download="server" type="dependency" website="http://files.minecraftforge.net/ForgeMultipart/" authors="ChickenBones" description="An API for dynamically handling different functional parts in the one block space." />
+		
+		<mod name="commons-codec" version="1.9" url="packs/BevosTechPack/files/BTP11/BTP11Beta/commons-codec-1.9.jar" file="commons-codec-1.9.jar" md5="75615356605c8128013da9e3ac62a249" download="server" type="dependency" website="http://commons.apache.org/proper/commons-compress/" description="lib" />
+		
+		<mod name="commons-compress" version="1.8.1" url="packs/BevosTechPack/files/BTP11/BTP11Beta/commons-compress-1.8.1.jar" file="commons-compress-1.8.1.jar" md5="d862e30ff6b5d78264677dcd6507abb8" download="server" type="dependency" website="http://commons.apache.org/proper/commons-compress/" description="lib" />
+		
+		<mod name="MrTJPCore" version="1.0.5.11" url="packs/BevosTechPack/files/BTP11/BTP11Beta/MrTJPCore-1.7.10-1.0.5.11-universal.jar" file="MrTJPCore-1.7.10-1.0.5.11-universal.jar" md5="a506307ea5275a0a6694c847eca01243" download="server" type="mods" website="http://projectredwiki.com/wiki/Version_archive" authors="MrTJP" description="Core libs and utilities" />
+		
+		
+		<!-- Scripts -->
+              
+        <mod name="Scripts" version="FULL" url="packs/BevosTechPack/files/BTP11/BTP11Beta/scripts107f.zip" file="scripts107f.zip" md5="6c894c019dbcc8e6471e5dd1971b554b" download="server" type="extract" extractto="root" hidden="yes" website="http://bevolj.com" description="Minetweaker Scripts" />
+		
+		<!-- Disabled 1.7.2 Mods />
+		
+	<messages>
+        
+    	<install><![CDATA[<center>Beta version of BTP 11. May contain bugs, so please report those bugs to my Github from the support button on Launcher</center>]]></install>
+		<update><![CDATA[<center>Beta version of BTP 11. May contain bugs, so please report those bugs to my Github from the support button on Launcher</center>]]></update>
+        
+	</messages>  
+
+    
+    <messages>
+	
+	
+        
+    	<install><![CDATA[<center>Full version of BTP designed for better computers and to be more difficult</center>]]></install>
+   		<update><![CDATA[<center>Full version of BTP designed for better computers and to be more difficult</center>]]></update>
+        
+	</messages>
+
+ 
+		-->
+    
+    </mods>
+</version>

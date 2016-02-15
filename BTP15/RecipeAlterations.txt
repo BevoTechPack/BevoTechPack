@@ -1,0 +1,39 @@
+Mekanism
+- Harder Disassembler recipe
+- Harder Steel recipe (requires 50 liq diamond per steel ingot)
+
+BuildCraft
+- Removed Quarry
+
+Botania
+- Manasteel requires steel ingots
+
+Ender IO
+- Harder recipes enabled
+- Added conduit upgrade recipes
+- Added new steel making recipes to alloy furnace
+
+Minefactory Reloaded
+- disabled vanilla recipes, enabled both TE and EIO recipes
+- range upgrades require previous upgrade item
+- safari net requires portaspawner
+
+Railcraft
+- Disabled World Anchors
+
+Random Things
+- Practically all recipes changed
+
+Thermal Expansion
+- Removed easy steel recipe from Induction Smelter
+- Machine Frame requires Steel
+
+Matter Overdrive
+- Matter Replicator recipe hardened
+
+Misc
+- Removed all steel things from dungeon chests
+- Where possible harder recipes chosen in mod configs
+
+Refined Relocation
+- portal base uses wither diamonds (from progressive automation) instead of normal diamonds
