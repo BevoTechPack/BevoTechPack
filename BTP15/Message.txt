@@ -1,1 +1,1 @@
-Welcome to Bevo's Tech Pack Reborn
+Welcome %name% to Bevo's Tech Pack Reborn
