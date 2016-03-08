@@ -23,44 +23,44 @@ val bloodstone = <RandomThings:bloodStone>;
 #Player Core
 recipes.remove(playercore);
 recipes.addShaped(playercore,				[[null, lapisblock, null],
-											[lapisblock, transformcore, lapisblock],
-											[null, lapisblock, null]]);
+							[lapisblock, transformcore, lapisblock],
+							[null, lapisblock, null]]);
 
 
 #Transformation Core 
 recipes.remove(transformcore);
 recipes.addShaped(transformcore,			[[ectoplasm, ectoplasm, ectoplasm],
-											[ectoplasm, netherstar, ectoplasm],
-											[ectoplasm, ectoplasm, ectoplasm]]);
+							[ectoplasm, netherstar, ectoplasm],
+							[ectoplasm, ectoplasm, ectoplasm]]);
 
 
 #Specter Ingot
 <RandomThings:ingredient:4>.displayName = "Specter Steel";
 recipes.remove(specteriron);
 recipes.addShaped(specteriron,				[[ectoplasm, ectoplasm, ectoplasm],
-											[ectoplasm, steel, ectoplasm],
-											[ectoplasm, ectoplasm, ectoplasm]]);
+							[ectoplasm, steel, ectoplasm],
+							[ectoplasm, ectoplasm, ectoplasm]]);
 
 
 #Ender Diamond
 recipes.remove(enderdiamond);
-recipes.addShaped(enderdiamond,			[[ectoplasm, enderpearl, ectoplasm],
-											[enderpearl, diamond, enderpearl],
-											[ectoplasm, enderpearl, ectoplasm]]);
+recipes.addShaped(enderdiamond,				[[ectoplasm, enderpearl, ectoplasm],
+							[enderpearl, diamond, enderpearl],
+							[ectoplasm, enderpearl, ectoplasm]]);
 
 
 #Energy Distributor 
 recipes.remove(energydistributor);
-recipes.addShaped(energydistributor,		[[steelblock, repeater, steelblock],
-											[redstoneblock, energywater, redstoneblock],
-											[steelblock, repeater, steelblock]]);
+recipes.addShaped(energydistributor,			[[steelblock, repeater, steelblock],
+							[redstoneblock, energywater, redstoneblock],
+							[steelblock, repeater, steelblock]]);
 
 
 #Ender Endergy Distributor
 recipes.remove(enderdistributor);
 recipes.addShaped(enderdistributor,			[[specteriron, enderdiamond, specteriron],
-											[enderdiamond, energydistributor, enderdiamond],
-											[specteriron, enderdiamond, specteriron]]);
+							[enderdiamond, energydistributor, enderdiamond],
+							[specteriron, enderdiamond, specteriron]]);
 
 
 #Bloodstone
