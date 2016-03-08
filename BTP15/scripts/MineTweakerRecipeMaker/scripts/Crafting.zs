@@ -13,7 +13,6 @@
 // ================================================================================
 //#MARKER REMOVE
 recipes.remove(<RefinedRelocation:relocationController>);
-recipes.remove(<mo:replicator>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
@@ -30,5 +29,5 @@ recipes.remove(<mo:replicator>);
 // ================================================================================
 //#MARKER ADD SHAPED
 recipes.addShaped(<RefinedRelocation:relocationController>, [[<progressiveautomation:WitherDiamond>, <ore:pearlEnderEye>, <progressiveautomation:WitherDiamond>], [<ore:pearlEnderEye>, <minecraft:compass>, <ore:pearlEnderEye>], [<progressiveautomation:WitherDiamond>, <ore:pearlEnderEye>, <progressiveautomation:WitherDiamond>]]);
-recipes.addShaped(<mo:replicator>, [[<mo:pattern_drive>, <mo:isolinear_circuit:2>, <mo:network_flash_drive>], [<ore:ingotTritanium>, <RandomThings:spiritBinder>, <ore:ingotTritanium>], [<mo:h_compensator>, <mo:tritanium_plate>, <mo:me_conversion_matrix>]]);
+
 
