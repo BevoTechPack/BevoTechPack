@@ -1,6 +1,6 @@
 # Malisis' Doors
 
-# Strip Curtain recipes as they clash with Black Curtains from EIO
+# Strip Curtain recipes as they clash with Black Curtains from XU
 recipes.remove(<malisisdoors:item.curtain_black>);
 recipes.remove(<malisisdoors:item.curtain_red>);
 recipes.remove(<malisisdoors:item.curtain_green>);
