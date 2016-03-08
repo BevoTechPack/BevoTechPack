@@ -64,4 +64,4 @@ recipes.addShaped(enderdistributor,			[[specteriron, enderdiamond, specteriron],
 
 
 #Bloodstone
-mods.bloodmagic.Altar.addRecipe(bloodstone, whitestone,
+mods.bloodmagic.Altar.addRecipe(bloodstone, whitestone, 3, 5000, 20, 20);
