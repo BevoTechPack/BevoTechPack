@@ -12,7 +12,6 @@
 
 // ================================================================================
 //#MARKER REMOVE
-recipes.remove(<RefinedRelocation:relocationController>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
@@ -28,6 +27,5 @@ recipes.remove(<RefinedRelocation:relocationController>);
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<RefinedRelocation:relocationController>, [[<progressiveautomation:WitherDiamond>, <ore:pearlEnderEye>, <progressiveautomation:WitherDiamond>], [<ore:pearlEnderEye>, <minecraft:compass>, <ore:pearlEnderEye>], [<progressiveautomation:WitherDiamond>, <ore:pearlEnderEye>, <progressiveautomation:WitherDiamond>]]);
 
 
