@@ -18,3 +18,8 @@ recipes.remove(<Mekanism:BasicBlock2:4>);
 recipes.remove(<Mekanism:BasicBlock2:3>);
 recipes.addShaped(<Mekanism:BasicBlock2:4>, [[<Mekanism:OtherDust:4>, <ore:circuitBasic>, <Mekanism:OtherDust:4>], [<ore:circuitBasic>, <Mekanism:EnergyCube:100>, <ore:circuitBasic>], [<Mekanism:OtherDust:4>, <ore:circuitBasic>, <Mekanism:OtherDust:4>]]);
 recipes.addShaped(<Mekanism:BasicBlock2:3>, [[<Mekanism:OtherDust:4>, <ore:battery>, <Mekanism:OtherDust:4>], [<ore:battery>, <Mekanism:EnergyCube:100>, <ore:battery>], [<Mekanism:OtherDust:4>, <ore:battery>, <Mekanism:OtherDust:4>]]);
+
+//Chemical Oxidizer
+//Remove basic lithium dust oxidizing into lithium, have to go brine - solar plant route
+mods.mekanism.chemical.Oxidizer.removeRecipe(<gas:lithium>, <ore:dustLithium>);
+mods.mekanism.chemical.Oxidizer.addRecipe(<Mekanism:OtherDust:4>, <gas:lithium>);
