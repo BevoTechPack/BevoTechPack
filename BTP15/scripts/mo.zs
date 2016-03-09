@@ -7,3 +7,7 @@ mods.tconstruct.Casting.addTableRecipe(<mo:tritanium_ingot>, <liquid:molten_trit
 // Matter Replicator 
 recipes.remove(<mo:replicator>);
 recipes.addShaped(<mo:replicator>, [[<mo:pattern_drive>, <mo:isolinear_circuit:2>, <mo:network_flash_drive>], [<ore:ingotTritanium>, <RandomThings:spiritBinder>, <ore:ingotTritanium>], [<mo:h_compensator>, <mo:tritanium_plate>, <mo:me_conversion_matrix>]]);
+
+// Add in missing Tritanium ingots & blocks recipe
+recipes.addShaped(<mo:tritanium_ingot> * 9, [[<ore:blockTritanium>]]);
+recipes.addShaped(<mo:tritanium_block>, [[<ore:ingotTritanium>, <ore:ingotTritanium>, <ore:ingotTritanium>], [<ore:ingotTritanium>, <ore:ingotTritanium>, <ore:ingotTritanium>], [<ore:ingotTritanium>, <ore:ingotTritanium>, <ore:ingotTritanium>]]);
