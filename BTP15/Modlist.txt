@@ -1,4 +1,5 @@
 AdvancedMachinesAS-1.7.10.jar
+ae2stuff-rv3-0.5.1.9-mc1.7.10.jar
 AOBD-2.8.4.jar
 appliedenergistics2-rv3-beta-5.jar
 AsieLib-1.7.10-0.4.5.jar
@@ -8,8 +9,8 @@ BiblioCraft[v1.11.4][MC1.7.10].jar
 BiblioWoods[Natura][v1.5].jar
 BloodMagic-1.7.10-1.3.3-17.jar
 Botania r1.8-249.jar
-buildcraft-7.1.14.jar
-buildcraft-compat-7.1.3.jar
+buildcraft-7.1.16.jar
+buildcraft-compat-7.1.4.jar
 Carpenters Blocks v3.3.7 - MC 1.7.10.jar
 catwalks-2.0.3.jar
 ChickenChunks-1.7.10-1.3.4.17-universal.jar
@@ -28,12 +29,12 @@ EnderZoo-1.7.10-1.0.15.32.jar
 EnhancedPortals_1.7.10-universal-3.0.12.jar
 ExtraCells-1.7.10-2.3.9b188.jar
 extrautilities-1.2.12.jar
-Factorization-1.7.10-0.8.99d.jar
+Factorization-1.7.10-0.8.107.jar
 FlaxbeardsSteamPower-1.7.10-0.28.12.jar
-forestry_1.7.10-4.2.9.57.jar
-Galacticraft-Planets-1.7-3.0.12.444.jar
-GalacticraftCore-1.7-3.0.12.444.jar
-GalaxySpace-1.0.7STABLE.jar
+forestry_1.7.10-4.2.11.59.jar
+Galacticraft-Planets-1.7-3.0.12.451.jar
+GalacticraftCore-1.7-3.0.12.451.jar
+GalaxySpace-1.0.8STABLE.jar
 GardenStuff-1.7.10-1.6.8.jar
 gendustry-1.6.4.133-mc1.7.10.jar
 GraviSuite-1.7.10-2.0.3.jar
@@ -41,8 +42,8 @@ growthcraft-1.7.10-2.4.1-complete.jar
 Guide-API-1.7.10-1.0.1-20.jar
 HQM-The Journey-4.4.4.jar
 IGW-Mod-1.7.10-1.1.11-32-universal.jar
-ImmersiveEngineering-0.7.3.jar
-immersiveintegration-0.6.7.jar
+ImmersiveEngineering-0.7.4.jar
+immersiveintegration-0.6.8.jar
 industrialcraft-2-2.2.810-experimental.jar
 INpureCore-[1.7.10]1.0.0B9-54.jar
 InventoryTweaks-1.59-dev-152.jar
@@ -57,15 +58,14 @@ malisiscore-1.7.10-0.14.3.jar
 malisisdoors-1.7.10-1.13.2.jar
 Mantle-1.7.10-0.3.2b.jar
 MatterOverdrive-1.7.10-0.4.1.jar
+Mekanism-1.7.10-8.1.9.265.jar
+MekanismGenerators-1.7.10-8.1.9.265.jar
+MekanismTools-1.7.10-8.1.9.265.jar
 mcjtylib-1.8.1.jar
-Mekanism-1.7.10-8.1.8.258.jar
-MekanismGenerators-1.7.10-8.1.8.258.jar
-MekanismTools-1.7.10-8.1.8.258.jar
-MicdoodleCore-1.7-3.0.12.444.jar
-MineFactoryReloaded-[1.7.10]2.8.1-174.jar
+MicdoodleCore-1.7-3.0.12.451.jar
+MineFactoryReloaded-[1.7.10]2.8.2B1-177.jar
 MineMenu-1.7.10-1.2.0.B44-universal.jar
 MineTweaker3-1.7.10-3.0.10B.jar
-MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar
 ModTweaker2-0.9.4.jar
 natura-1.7.10-2.2.0.1.jar
 neiaddons-1.12.13.38-mc1.7.10.jar
@@ -73,14 +73,15 @@ NEIIntegration-MC1.7.10-1.1.2.jar
 NoMoreRecipeConflict-0.3(1.7.10).jar
 NotEnoughItems-1.7.10-1.0.5.118-universal.jar
 NotEnoughResources-1.7.10-0.1.0-122.jar
-NuclearCraft-1.6d--1.7.10.jar
+NuclearCraft-1.7e-dev-1.7.10.jar
 ObsidiPlates-1.7.10-universal-3.0.0.18.jar
 OpenBlocks-1.7.10-1.5.1.jar
 OpenComputers-MC1.7.10-1.5.22.46-universal.jar
 OpenModsLib-1.7.10-0.9.1.jar
 Pams HarvestCraft 1.7.10k.jar
+PlayerAPI-1.7.10-1.4.jar
 PneumaticCraft-1.7.10-1.12.6-149-universal.jar
-pressure-1.3.0.130-mc1.7.10.jar
+pressure-1.3.0.131-mc1.7.10.jar
 ProgressiveAutomation-1.7.10-1.6.32.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
@@ -88,11 +89,11 @@ ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
 ProjectRed-1.7.10-4.7.0pre12.95-World.jar
-Railcraft_1.7.10-9.8.0.0.jar
+Railcraft_1.7.10-9.10.0.0.jar
 RandomThings-2.2.4.jar
 RedstoneArsenal-[1.7.10]1.1.2-92.jar
-RefinedRelocation-mc1.7.10-1.1.21.jar
-RFDrills-1.7.10-1.7.2.jar
+RefinedRelocation-mc1.7.10-1.1.25.jar
+RFDrills-1.7.10-1.7.3.jar
 rftools-4.22.jar
 roguelike-1.7.10-1.4.4.jar
 Ruins-1.7.10.jar
@@ -102,10 +103,12 @@ StevesCarts2.0.0.b18.jar
 StevesFactoryManagerA93.jar
 StevesWorkshop-0.5.1.jar
 StorageDrawers-1.7.10-1.9.4.jar
-StorageDrawers-Misc-1.7.10-1.0.1.jar
+StorageDrawers-Misc-1.7.10-1.1.2.jar
+tcnodetracker-1.7.10-1.1.2.jar
 TConstruct-1.7.10-1.8.8.jar
 Thaumcraft-1.7.10-4.2.3.5.jar
-ThermalDynamics-[1.7.10]1.1.0-161.jar
+thaumcraftneiplugin-1.7.10-1.7a.jar
+ThermalDynamics-[1.7.10]1.2.0B2-169.jar
 ThermalExpansion-[1.7.10]4.1.2-240.jar
 ThermalFoundation-[1.7.10]1.2.3-112.jar
 TiCTooltips-mc1.7.10-1.2.5.jar
