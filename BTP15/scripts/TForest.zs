@@ -1,9 +1,9 @@
 # Uncrafting Table
+import mods.mfr.AutoSpawner;
 
 recipes.remove(<TwilightForest:tile.TFUncraftingTable>);
 
 //MFR auto spawner blacklist moved to TForest.zs so it will stop scripts from aborting when servers remove TF
-import mods.mfr.AutoSpawner;
 
 AutoSpawner.addBlacklist("twilightforest.entity.passive.EntityTFQuestRam");
 AutoSpawner.addBlacklist("twilightforest.entity.boss.EntityTFNaga");
