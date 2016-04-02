@@ -14,3 +14,7 @@ recipes.addShaped(<mo:replicator>, [[<mo:pattern_drive>, <mo:isolinear_circuit:2
 // Add in missing Tritanium ingots & blocks recipe
 recipes.addShaped(<mo:tritanium_ingot> * 9, [[<ore:blockTritanium>]]);
 recipes.addShaped(<mo:tritanium_block>, [[<ore:ingotTritanium>, <ore:ingotTritanium>, <ore:ingotTritanium>], [<ore:ingotTritanium>, <ore:ingotTritanium>, <ore:ingotTritanium>], [<ore:ingotTritanium>, <ore:ingotTritanium>, <ore:ingotTritanium>]]);
+
+// Fix Sniper Scope Recipe
+recipes.remove(<mo:sniper_scope>);
+recipes.addShaped(<mo:sniper_scope>, [[<ore:ingotIron>, <ore:ingotIron>, <mo:isolinear_circuit:1>], [<ore:paneGlassColorless>, <mo:forcefield_emitter>, <ore:paneGlassColorless>], [<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]]);
