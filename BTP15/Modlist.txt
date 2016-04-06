@@ -33,8 +33,8 @@ Factorization-1.7.10-0.8.107.jar
 Fastcraft-1.23.jar
 FlaxbeardsSteamPower-1.7.10-0.28.12.jar
 forestry_1.7.10-4.2.11.59.jar
-Galacticraft-Planets-1.7-3.0.12.451.jar
-GalacticraftCore-1.7-3.0.12.451.jar
+Galacticraft-Planets-1.7-3.0.12.454.jar
+GalacticraftCore-1.7-3.0.12.454.jar
 GalaxySpace-1.0.8STABLE.jar
 GardenStuff-1.7.10-1.6.8.jar
 gendustry-1.6.4.133-mc1.7.10.jar
@@ -63,7 +63,7 @@ Mekanism-1.7.10-8.1.9.265.jar
 MekanismGenerators-1.7.10-8.1.9.265.jar
 MekanismTools-1.7.10-8.1.9.265.jar
 mcjtylib-1.8.1.jar
-MicdoodleCore-1.7-3.0.12.451.jar
+MicdoodleCore-1.7-3.0.12.454.jar
 MineFactoryReloaded-[1.7.10]2.8.2B1-177.jar
 MineMenu-1.7.10-1.2.0.B44-universal.jar
 MineTweaker3-1.7.10-3.0.10B.jar
