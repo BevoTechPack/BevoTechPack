@@ -85,7 +85,7 @@ OpenModsLib-1.7.10-0.9.1.jar
 Pam's HarvestCraft 1.7.10Lb.jar
 PlayerAPI-1.7.10-1.4.jar
 PneumaticCraft-1.7.10-1.12.6-149-universal.jar
-Practical-Logistics-1.7.10-0.1.9.jar
+Practical-Logistics-1.7.10-0.2.0.jar
 pressure-1.3.0.131-mc1.7.10.jar
 ProgressiveAutomation-1.7.10-1.6.32.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
