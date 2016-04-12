@@ -39,7 +39,7 @@ mods.railcraft.Rolling.addShaped(aluminumPlate, [[<ore:ingotAluminum>, <ore:ingo
 mods.railcraft.Rolling.addShaped(bronzePlate, [[<ore:ingotBronze>, <ore:ingotBronze>]]);
 mods.railcraft.Rolling.addShaped(steelPlate, [[<ore:ingotSteel>, <ore:ingotSteel>]]);
 mods.railcraft.Rolling.addShaped(ironPlate, [[<ore:ingotIron>, <ore:ingotIron>]]);
-mods.railcraft.Rolling.addShaped(hdtier1Plate, [[steelPlate, aluminumPlate, bronzePlate], [steelPlate, aluminumPlate, bronzePlate]]);
+mods.railcraft.Rolling.addShaped(hdtier1Plate * 2, [[steelPlate, aluminumPlate, bronzePlate], [steelPlate, aluminumPlate, bronzePlate]]);
 mods.railcraft.Rolling.addShaped(hdtier2Plate, [[hdtier1Plate, meteoricironPlate]]);
 
 // Galaxy Space Basic Plates
