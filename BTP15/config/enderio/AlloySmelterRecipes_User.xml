@@ -65,7 +65,7 @@ ore dictionary.
         <itemStack oreDictionary="dustObsidian" number="2" />
       </input>
       <output>
-        <itemStack oreDictionary="ingotSteel" number="1" />
+        <itemStack oreDictionary="ingotSteel" number="2" />
       </output>
     </recipe>	
 	<recipe name="Steel7" energyCost="8000" >
