@@ -206,7 +206,7 @@
 			<compressedMagnesium oreDictName="CompressedMagnesium"/>
 			<compressedAdamantite oreDictName="CompressedAdamantite"/>
 			<compressedLead oreDictName="CompressedLead"/>
-			<compressedMithril oreDictName="CompresssedMithril"/>
+			<compressedMithril oreDictName="CompressedMithril"/>
 			<compressedPlatinum oreDictName="CompressedPlatinum"/>
 			<adamantiteIngot oreDictName="ingotAdamantite"/>
 			<cobaltIngot oreDictName="ingotCobaltum"/>
