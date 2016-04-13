@@ -189,6 +189,32 @@
             <flint id="flint"/>
             <netherQuartz id="quartz"/>
         </miningResources>
+        <galacticraftResources>
+			<compressedSteel oreDictName="compressedSteel"/>
+			<compressedTin oreDictName="compressedTin"/>
+			<compressedIron oreDictName="compressedIron"/>
+			<compressedBronze oreDictName="compressedBronze"/>
+			<compressedAluminum oreDictName="compressedAluminum"/>
+			<compressedCopper oreDictName="compressedCopper"/>
+			<compressedMeteoricIron oreDictName="compressedMeteoricIron"/>
+			<compressedDesh oreDictName="compressedDesh"/>
+			<compressedCobaltum oreDictName="CompressedCobaltum"/>
+			<compressedOriharukon oreDictName="CompressedOriharukon"/>
+			<compressedDuralumin oreDictName="CompressedDuralumin"/>
+			<compressedLead oreDictName="CompressedLead"/>
+			<compressedNickel oreDictName="CompressedNickel"/>
+			<compressedMagnesium oreDictName="CompressedMagnesium"/>
+			<compressedAdamantite oreDictName="CompressedAdamantite"/>
+			<compressedLead oreDictName="CompressedLead"/>
+			<compressedMithril oreDictName="CompresssedMithril"/>
+			<compressedPlatinum oreDictName="CompressedPlatinum"/>
+			<adamantiteIngot oreDictName="ingotAdamantite"/>
+			<cobaltIngot oreDictName="ingotCobaltum"/>
+			<oriharukonIngot oreDictName="ingotOriharukon"/>
+			<magnesiumIngot oreDictName="ingotMagnesium"/>
+			<mithrilIngot oreDictName="ingotMithril"/>
+			<duraluminIngot oreDictName="ingotDuralumin"/>
+	</galacticraftResources>
         <huntingResources>
             <egg id="egg"/>
             <bone id="bone"/>
