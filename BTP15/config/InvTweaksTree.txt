@@ -214,6 +214,7 @@
 			<magnesiumIngot oreDictName="ingotMagnesium"/>
 			<mithrilIngot oreDictName="ingotMithril"/>
 			<duraluminIngot oreDictName="ingotDuralumin"/>
+			<wolframiumIngot oreDictName="ingotWolframium"/>
 	</galacticraftResources>
         <huntingResources>
             <egg id="egg"/>
