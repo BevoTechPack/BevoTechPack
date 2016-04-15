@@ -15,6 +15,7 @@ recipes.addShaped(<mo:replicator>, [[<mo:pattern_drive>, <mo:isolinear_circuit:2
 recipes.addShaped(<mo:tritanium_ingot> * 9, [[<ore:blockTritanium>]]);
 recipes.addShaped(<mo:tritanium_block>, [[<ore:ingotTritanium>, <ore:ingotTritanium>, <ore:ingotTritanium>], [<ore:ingotTritanium>, <ore:ingotTritanium>, <ore:ingotTritanium>], [<ore:ingotTritanium>, <ore:ingotTritanium>, <ore:ingotTritanium>]]);
 
-// Fix Sniper Scope Recipe
-recipes.remove(<mo:sniper_scope>);
-recipes.addShaped(<mo:sniper_scope>, [[<ore:ingotIron>, <ore:ingotIron>, <mo:isolinear_circuit:1>], [<ore:paneGlassColorless>, <mo:forcefield_emitter>, <ore:paneGlassColorless>], [<ore:ingotIron>, <ore:ingotIron>, <ore:ingotIron>]]);
+// Fix Tritanium Plate block recipes (in line with MO 1.9 recipes)
+recipes.remove(<mo:decorative.tritanium_plate_stripe> * 8);
+recipes.addShaped(<mo:decorative.tritanium_lamp> * 4, [[<mo:decorative.tritanium_plate>, <mo:decorative.tritanium_plate>, <mo:decorative.tritanium_plate>], [<minecraft:glowstone_dust>, <mo:decorative.tritanium_plate>, <minecraft:glowstone_dust>], [<ore:dustGlowstone>, <ore:dustGlowstone>, <ore:dustGlowstone>]]);
+recipes.addShaped(<mo:decorative.tritanium_plate_stripe> * 8, [[<mo:decorative.tritanium_plate>, <mo:decorative.tritanium_plate>, <mo:decorative.tritanium_plate>], [<mo:decorative.tritanium_plate>, <mo:decorative.tritanium_plate>, <mo:decorative.tritanium_plate>], [<mo:decorative.tritanium_plate>, <ore:dyeYellow>, <mo:decorative.tritanium_plate>]]);
