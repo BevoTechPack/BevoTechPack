@@ -14,7 +14,7 @@ Botania r1.8-249.jar
 buildcraft-7.1.16.jar
 buildcraft-compat-7.1.4.jar
 Carpenters Blocks v3.3.7 - MC 1.7.10.jar
-catwalks-2.0.3.jar
+catwalks-2.0.4.jar
 ChickenChunks-1.7.10-1.3.4.19-universal.jar
 Chisel2-2.5.1.44.jar
 CodeChickenCore-1.7.10-1.0.7.47-universal.jar
@@ -25,7 +25,7 @@ Computronics-1.7.10-1.6.0.jar
 craftingtweaks-mc1.7.10-1.0.73.jar
 DescriptionTags-1.0-1.7.10.jar
 Enchiridion 2-1.7.10-2.0.2a.jar
-EnderCore-1.7.10-0.2.0.32_beta.jar
+EnderCore-1.7.10-0.2.0.34_beta.jar
 EnderIO-1.7.10-2.3.0.424_beta.jar
 EnderStorage-1.7.10-1.4.7.38-universal.jar
 EnderZoo-1.7.10-1.0.15.32.jar
@@ -34,8 +34,8 @@ ExtraCells-1.7.10-2.3.9b188.jar
 extrautilities-1.2.12.jar
 Factorization-1.7.10-0.8.107.jar
 Fastcraft-1.23.jar
-FlaxbeardsSteamPower-1.7.10-0.28.12.jar
-forestry_1.7.10-4.2.11.59.jar
+FSP-1.7.10-0.29.1.jar
+forestry_1.7.10-4.2.12.60.jar
 Galacticraft-Planets-1.7-3.0.12.454.jar
 GalacticraftCore-1.7-3.0.12.454.jar
 GalaxySpace-1.0.8STABLE.jar
@@ -48,15 +48,15 @@ HQM-The Journey-4.4.4.jar
 IGW-Mod-1.7.10-1.1.11-32-universal.jar
 ImmersiveEngineering-0.7.6.jar
 immersiveintegration-0.6.8.jar
-industrialcraft-2-2.2.819-experimental.jar
+industrialcraft-2-2.2.821-experimental.jar
 INpureCore-[1.7.10]1.0.0B9-54.jar
 InventoryTweaks-1.59-dev-152.jar
 ironchest-1.7.10-6.0.62.742-universal.jar
 Jabba-1.2.1a_1.7.10.jar
-journeymap-1.7.10-5.1.4-unlimited.jar
+journeymap-1.7.10-5.1.4p1-unlimited.jar
 KoreSample-1.7.10-1.3.2.jar
 LaunchGui-1.7.10-2.0-18-client.jar
-logisticspipes-0.9.3.114.jar
+logisticspipes-0.9.3.118.jar
 magneticraft-0.6.1-final.jar
 malisiscore-1.7.10-0.14.3.jar
 malisisdoors-1.7.10-1.13.2.jar
@@ -67,7 +67,7 @@ MekanismGenerators-1.7.10-8.1.9.265.jar
 MekanismTools-1.7.10-8.1.9.265.jar
 mcjtylib-1.8.1.jar
 MicdoodleCore-1.7-3.0.12.454.jar
-MineFactoryReloaded-[1.7.10]2.8.2B1-177.jar
+MineFactoryReloaded-[1.7.10]2.8.2B1-179.jar
 MineMenu-1.7.10-1.2.0.B44-universal.jar
 MineTweaker3-1.7.10-3.0.10B.jar
 ModTweaker2-0.9.4.jar
@@ -85,9 +85,9 @@ OpenModsLib-1.7.10-0.9.1.jar
 Pam's HarvestCraft 1.7.10Lb.jar
 PlayerAPI-1.7.10-1.4.jar
 PneumaticCraft-1.7.10-1.12.6-149-universal.jar
-Practical-Logistics-1.7.10-0.2.0.jar
+Practical-Logistics-1.7.10-0.2.1.jar
 pressure-1.3.0.131-mc1.7.10.jar
-ProgressiveAutomation-1.7.10-1.6.32.jar
+ProgressiveAutomation-1.7.10-1.6.34.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
