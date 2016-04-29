@@ -46,7 +46,7 @@ growthcraft-1.7.10-2.5.2-complete.jar
 Guide-API-1.7.10-1.0.1-20.jar
 HQM-The Journey-4.4.4.jar
 IGW-Mod-1.7.10-1.1.11-32-universal.jar
-ImmersiveEngineering-0.7.5.jar
+ImmersiveEngineering-0.7.6.jar
 immersiveintegration-0.6.8.jar
 industrialcraft-2-2.2.819-experimental.jar
 INpureCore-[1.7.10]1.0.0B9-54.jar
