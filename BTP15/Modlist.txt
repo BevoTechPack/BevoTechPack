@@ -34,7 +34,7 @@ ExtraCells-1.7.10-2.3.9b188.jar
 extrautilities-1.2.12.jar
 Factorization-1.7.10-0.8.107.jar
 Fastcraft-1.23.jar
-FSP-1.7.10-0.29.1.jar
+FlaxbeardsSteamPower-1.7.10-0.28.12.jar
 forestry_1.7.10-4.2.12.60.jar
 Galacticraft-Planets-1.7-3.0.12.454.jar
 GalacticraftCore-1.7-3.0.12.454.jar
