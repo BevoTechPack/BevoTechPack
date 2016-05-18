@@ -1,0 +1,52 @@
+{
+  "comment": "",
+  "data": [
+    {
+      "comment": "",
+      "item": {
+        "comment": "Grapes",
+        "mod_id": "Growthcraft|Grapes",
+        "name": "grc.grapes",
+        "amount": 1,
+        "meta": 0
+      },
+      "fluid": {
+        "comment": "Grape Wine",
+        "name": "grc.grapewine0",
+        "amount": 40
+      },
+      "residue": {
+        "pomace": 0.3,
+        "comment": "Bone Meal",
+        "mod_id": "minecraft",
+        "name": "dye",
+        "amount": 1,
+        "meta": 15
+      },
+      "time": 40
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "foodApple",
+        "comment": "",
+        "amount": 1,
+        "meta": 32767
+      },
+      "fluid": {
+        "comment": "Apple Cider",
+        "name": "grc.applecider0",
+        "amount": 40
+      },
+      "residue": {
+        "pomace": 0.3,
+        "comment": "Bone Meal",
+        "mod_id": "minecraft",
+        "name": "dye",
+        "amount": 1,
+        "meta": 15
+      },
+      "time": 40
+    }
+  ]
+}

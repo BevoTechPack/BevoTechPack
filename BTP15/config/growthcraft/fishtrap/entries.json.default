@@ -1,0 +1,299 @@
+{
+  "comment": "",
+  "data": [
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 10,
+      "item": {
+        "comment": "Leather Boots",
+        "mod_id": "minecraft",
+        "name": "leather_boots",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.9,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 10,
+      "item": {
+        "comment": "Leather",
+        "mod_id": "minecraft",
+        "name": "leather",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 10,
+      "item": {
+        "comment": "Bone",
+        "mod_id": "minecraft",
+        "name": "bone",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 10,
+      "item": {
+        "comment": "Water Bottle",
+        "mod_id": "minecraft",
+        "name": "potion",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 5,
+      "item": {
+        "comment": "String",
+        "mod_id": "minecraft",
+        "name": "string",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 2,
+      "item": {
+        "comment": "Fishing Rod",
+        "mod_id": "minecraft",
+        "name": "fishing_rod",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.9,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 10,
+      "item": {
+        "comment": "Bowl",
+        "mod_id": "minecraft",
+        "name": "bowl",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 5,
+      "item": {
+        "comment": "Stick",
+        "mod_id": "minecraft",
+        "name": "stick",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 1,
+      "item": {
+        "comment": "Ink Sac",
+        "mod_id": "minecraft",
+        "name": "dye",
+        "amount": 10,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 10,
+      "item": {
+        "comment": "Tripwire Hook",
+        "mod_id": "minecraft",
+        "name": "tripwire_hook",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "junk",
+      "weight": 10,
+      "item": {
+        "comment": "Rotten Flesh",
+        "mod_id": "minecraft",
+        "name": "rotten_flesh",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "comment": "Lily Pad",
+        "mod_id": "minecraft",
+        "name": "waterlily",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "comment": "Name Tag",
+        "mod_id": "minecraft",
+        "name": "name_tag",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "comment": "Saddle",
+        "mod_id": "minecraft",
+        "name": "saddle",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "comment": "Bow",
+        "mod_id": "minecraft",
+        "name": "bow",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.25,
+      "enchanted": true
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "comment": "Fishing Rod",
+        "mod_id": "minecraft",
+        "name": "fishing_rod",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.25,
+      "enchanted": true
+    },
+    {
+      "comment": "",
+      "group": "treasure",
+      "weight": 1,
+      "item": {
+        "comment": "Book",
+        "mod_id": "minecraft",
+        "name": "book",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": true
+    },
+    {
+      "comment": "",
+      "group": "fish",
+      "weight": 60,
+      "item": {
+        "comment": "Raw Fish",
+        "mod_id": "minecraft",
+        "name": "fish",
+        "amount": 1,
+        "meta": 0
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "fish",
+      "weight": 25,
+      "item": {
+        "comment": "Raw Salmon",
+        "mod_id": "minecraft",
+        "name": "fish",
+        "amount": 1,
+        "meta": 1
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "fish",
+      "weight": 2,
+      "item": {
+        "comment": "Clownfish",
+        "mod_id": "minecraft",
+        "name": "fish",
+        "amount": 1,
+        "meta": 2
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    },
+    {
+      "comment": "",
+      "group": "fish",
+      "weight": 13,
+      "item": {
+        "comment": "Pufferfish",
+        "mod_id": "minecraft",
+        "name": "fish",
+        "amount": 1,
+        "meta": 3
+      },
+      "damage_variance": 0.0,
+      "enchanted": false
+    }
+  ]
+}
