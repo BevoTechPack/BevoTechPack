@@ -91,7 +91,7 @@ PlayerAPI-1.7.10-1.4.jar
 PneumaticCraft-1.7.10-1.12.7-150-universal.jar
 Practical-Logistics-1.7.10-0.2.1.jar
 pressure-1.3.0.131-mc1.7.10.jar
-ProgressiveAutomation-1.7.10-1.6.34.jar
+ProgressiveAutomation-1.7.10-1.6.35.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
