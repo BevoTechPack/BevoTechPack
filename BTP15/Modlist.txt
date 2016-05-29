@@ -62,9 +62,9 @@ malisiscore-1.7.10-0.14.3.jar
 malisisdoors-1.7.10-1.13.2.jar
 Mantle-1.7.10-0.3.2b.jar
 MatterOverdrive-1.7.10-0.4.1-build-41.jar
-Mekanism-1.7.10-9.0.1.270.jar
-MekanismGenerators-1.7.10-9.0.1.270.jar
-MekanismTools-1.7.10-9.0.1.270.jar
+Mekanism-1.7.10-9.0.2.271.jar
+MekanismGenerators-1.7.10-9.0.2.271.jar
+MekanismTools-1.7.10-9.0.2.271.jar
 mcjtylib-1.8.1.jar
 MicdoodleCore-1.7-3.0.12.454.jar
 MineFactoryReloaded-[1.7.10]2.8.2B1-188.jar
