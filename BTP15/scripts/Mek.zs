@@ -32,7 +32,7 @@ mods.mekanism.chemical.Dissolution.removeRecipe(<gas:lithium>);
 
 // Only allow Mekanism Lithium Dust for Induction Cells
 recipes.remove(<Mekanism:BasicBlock2:3>.onlyWithTag({tier:0}));
-recipes.addShaped(<Mekanism:BasicBlock2:3>.withTag({tier:0}), [[mekLithiumDust, <Mekanism:EnergyTablet:*>.marked("tab1"), mekLithiumDust], [<Mekanism:EnergyTablet:*>.marked("tab2"), <Mekanism:EnergyCube:*>.onlyWithTag({tier:"Basic"}).marked("cube"), <Mekanism:EnergyTablet:*>.marked("tab3")], [mekLithiumDust, <Mekanism:EnergyTablet:*>.marked("tab4"), mekLithiumDust]]);
+recipes.addShaped(<Mekanism:BasicBlock2:3>.withTag({tier:0}), [[mekLithiumDust, <Mekanism:EnergyTablet:*>, mekLithiumDust], [<Mekanism:EnergyTablet:*>, <Mekanism:EnergyCube:*>.onlyWithTag({tier:"Basic"}), <Mekanism:EnergyTablet:*>], [mekLithiumDust, <Mekanism:EnergyTablet:*>, mekLithiumDust]]);
 
 
 // Only allow Mekanism Lithium Dust for Induction Providers
