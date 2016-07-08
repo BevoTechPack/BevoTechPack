@@ -1,19 +1,20 @@
 AdvancedMachinesAS-1.7.10.jar
 ae2stuff-rv3-0.5.1.9-mc1.7.10.jar
-AOBD-2.9.1.jar
+AOBD-2.9.2.jar
 appliedenergistics2-rv3-beta-6.jar
+ArchitectureCraft-1.4.1-mc1.7.10.jar
 AsieLib-1.7.10-0.4.5.jar
-ASP + GS Patcher.jar
+ASP  GS Patcher.jar
 backpack-2.0.1-1.7.x.jar
 bdlib-1.9.4.109-mc1.7.10.jar
-BiblioCraft[v1.11.4][MC1.7.10].jar
+BiblioCraft[v1.11.5][MC1.7.10].jar
 BiblioWoods[Natura][v1.5].jar
 biomereactors-1.0.2.jar
 BloodMagic-1.7.10-1.3.3-17.jar
 Botania r1.8-249.jar
 buildcraft-7.1.16.jar
 buildcraft-compat-7.1.5.jar
-Carpenters Blocks v3.3.7 - MC 1.7.10.jar
+Carpenters Blocks v3.3.8 - MC 1.7.10.jar
 catwalks-2.0.4.jar
 ChickenChunks-1.7.10-1.3.4.19-universal.jar
 Chisel2-2.5.1.44.jar
@@ -22,52 +23,54 @@ CoFHCore-[1.7.10]3.1.2-325.jar
 compactmachines-1.7.10-1.21.jar
 CompactSolars-1.7.10-4.4.39.315-universal.jar
 Computronics-1.7.10-1.6.0.jar
-craftingtweaks-mc1.7.10-1.0.73.jar
+craftingtweaks-mc1.7.10-1.0.82.jar
+Decocraft-2.3.2_1.7.10.jar
 DescriptionTags-1.0-1.7.10.jar
 Enchiridion 2-1.7.10-2.0.2a.jar
-EnderCore-1.7.10-0.2.0.34_beta.jar
-EnderIO-1.7.10-2.3.0.425_beta.jar
+EnderCore-1.7.10-0.2.0.36_beta.jar
+EnderIO-1.7.10-2.3.0.427_beta.jar
 EnderStorage-1.7.10-1.4.7.38-universal.jar
 EnderZoo-1.7.10-1.0.15.32.jar
 EnhancedPortals_1.7.10-universal-3.0.12.jar
-ExtraCells-1.7.10-2.3.9b188.jar
+ExtraCells-1.7.10-2.3.14b197.jar
 extrautilities-1.2.12.jar
 Factorization-1.7.10-0.8.107.jar
-Fastcraft-1.23.jar
+fastcraft-1.23.jar
+forestry_1.7.10-4.2.14.62.jar
 FSP-1.7.10-0.29.3.jar
-forestry_1.7.10-4.2.12.60.jar
-Galacticraft-Planets-1.7-3.0.12.454.jar
 GalacticraftCore-1.7-3.0.12.454.jar
+Galacticraft-Planets-1.7-3.0.12.454.jar
 GalaxySpace-1.0.8STABLE.jar
 GardenStuff-1.7.10-1.7.0.jar
 gendustry-1.6.4.135-mc1.7.10.jar
 GraviSuite-1.7.10-2.0.3.jar
-growthcraft-1.7.10-2.5.2-complete.jar
-Guide-API-1.7.10-1.0.1-20.jar
+growthcraft-1.7.10-2.6.1-complete.jar
+Guide-API-1.7.10-1.0.1-29.jar
 HQM-The Journey-4.4.4.jar
-IGW-Mod-1.7.10-1.1.11-32-universal.jar
+IGW-Mod-1.7.10-1.1.12-34-universal.jar
 ImmersiveEngineering-0.7.7.jar
 immersiveintegration-0.6.8.jar
-industrialcraft-2-2.2.821-experimental.jar
+industrialcraft-2-2.2.822-experimental.jar
 INpureCore-[1.7.10]1.0.0B9-62.jar
 InventoryTweaks-1.59-dev-152.jar
 ironchest-1.7.10-6.0.62.742-universal.jar
-Jabba-1.2.1a_1.7.10.jar
+Jabba-1.2.2_1.7.10.jar
 journeymap-1.7.10-5.1.4p1-unlimited.jar
 KoreSample-1.7.10-1.3.2.jar
 LaunchGui-1.7.10-2.0-18-client.jar
-logisticspipes-0.9.3.122.jar
+logisticspipes-0.9.3.126.jar
 magneticraft-0.6.1-final.jar
+MagneticraftPatcher-1.7.10-0.2.jar
 malisiscore-1.7.10-0.14.3.jar
 malisisdoors-1.7.10-1.13.2.jar
 Mantle-1.7.10-0.3.2b.jar
-MatterOverdrive-1.7.10-0.4.1-build-41.jar
-Mekanism-1.7.10-9.0.2.271.jar
-MekanismGenerators-1.7.10-9.0.2.271.jar
-MekanismTools-1.7.10-9.0.2.271.jar
+MatterOverdrive-1.7.10-0.4.1-build-56.jar
 mcjtylib-1.8.1.jar
+Mekanism-1.7.10-9.0.3.278.jar
+MekanismGenerators-1.7.10-9.0.3.278.jar
+MekanismTools-1.7.10-9.0.3.278.jar
 MicdoodleCore-1.7-3.0.12.454.jar
-MineFactoryReloaded-[1.7.10]2.8.2B1-188.jar
+MineFactoryReloaded-[1.7.10]2.8.2B1-191.jar
 MineMenu-1.7.10-1.2.0.B44-universal.jar
 MineTweaker3-1.7.10-3.0.10B.jar
 ModTweaker2-0.9.4.jar
@@ -77,16 +80,16 @@ NEIIntegration-MC1.7.10-1.1.2.jar
 NoMoreRecipeConflict-0.3(1.7.10).jar
 NotEnoughItems-1.7.10-1.0.5.120-universal.jar
 NotEnoughResources-1.7.10-0.1.0-122.jar
-NuclearCraft-1.6e-dev2.jar
+NuclearCraft-1.7h--1.7.10.jar
 ObsidiPlates-1.7.10-universal-3.0.0.18.jar
 OpenBlocks-1.7.10-1.5.1.jar
-OpenComputers-MC1.7.10-1.6.0.3-rc.1-universal.jar
+OpenComputers-MC1.7.10-1.6.0.6-beta.4-universal.jar
 OpenModsLib-1.7.10-0.9.1.jar
 OpenModularTurrets-1.7.10-2.2.2-217.jar
 OpenPeripheralAddons-1.7.10-0.5.1.jar
 OpenPeripheralCore-1.7.10-1.3.jar
 OpenPeripheralIntegration-1.7.10-0.5.jar
-Pam's HarvestCraft 1.7.10Lb.jar
+Pams HarvestCraft 1.7.10Lb.jar
 PlayerAPI-1.7.10-1.4.jar
 PneumaticCraft-1.7.10-1.12.7-150-universal.jar
 Practical-Logistics-1.7.10-0.2.4.jar
@@ -94,6 +97,7 @@ pressure-1.3.0.131-mc1.7.10.jar
 ProgressiveAutomation-1.7.10-1.6.35.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
+ProjectRed-1.7.10-4.7.0pre12.95-Fabrication.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
 ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
@@ -107,12 +111,12 @@ rftools-4.23.jar
 roguelike-1.7.10-1.4.4.jar
 Ruins-1.7.10.jar
 ScottsTweaks-1.7.10-1.3.1.jar
-SimplyJetpacks-MC1.7.10-1.5.2.jar
+SimplyJetpacks-MC1.7.10-1.5.3.jar
 SonarCore-1.7.10-1.1.3.jar
 StevesCarts2.0.0.b18.jar
 StevesFactoryManagerA93.jar
 StevesWorkshop-0.5.1.jar
-StorageDrawers-1.7.10-1.9.7.jar
+StorageDrawers-1.7.10-1.10.0.jar
 StorageDrawers-Misc-1.7.10-1.1.2.jar
 tcnodetracker-1.7.10-1.1.2.jar
 TConstruct-1.7.10-1.8.8.jar
