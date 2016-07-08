@@ -7,8 +7,8 @@ mods.mekanism.Infuser.removeRecipe(<Mekanism:OtherDust:1>);
 mods.mekanism.Infuser.addRecipe("DIAMOND", 30, <Mekanism:EnrichedIron>, <IC2:itemIngot:3>);
 
 // Harder disassembler recipe
-recipes.remove(<Mekanism:AtomicDisassembler:100>);
-recipes.addShaped(<Mekanism:AtomicDisassembler:100>, [[<ore:alloyUltimate>, <ore:battery>, <ore:alloyUltimate>], [<ore:itemEnrichedAlloy>, <ore:alloyUltimate>, <ore:itemEnrichedAlloy>], [<ore:alloyUltimate>, <ore:ingotRefinedObsidian>, <ore:alloyUltimate>]]);
+recipes.remove(<Mekanism:AtomicDisassembler>);
+recipes.addShaped(<Mekanism:AtomicDisassembler>, [[<ore:alloyUltimate>, <ore:battery>, <ore:alloyUltimate>], [<ore:itemEnrichedAlloy>, <ore:alloyUltimate>, <ore:itemEnrichedAlloy>], [<ore:alloyUltimate>, <ore:ingotRefinedObsidian>, <ore:alloyUltimate>]]);
 
 
 // Remove Mekanism Lithium Dust from OreDict to prevent Lexikon, Unifier, Oredictionificator etc. from swapping world found ones to Mekanism.
