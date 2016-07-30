@@ -70,7 +70,7 @@ Mekanism-1.7.10-9.0.3.278.jar
 MekanismGenerators-1.7.10-9.0.3.278.jar
 MekanismTools-1.7.10-9.0.3.278.jar
 MicdoodleCore-1.7-3.0.12.454.jar
-MineFactoryReloaded-[1.7.10]2.8.2B1-191.jar
+MineFactoryReloaded-[1.7.10]2.8.2B1-188.jar
 MineMenu-1.7.10-1.2.0.B44-universal.jar
 MineTweaker3-1.7.10-3.0.10B.jar
 ModTweaker2-0.9.4.jar
