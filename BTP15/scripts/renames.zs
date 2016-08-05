@@ -63,3 +63,4 @@ NEI.overrideName(<factorization:ResourceBlock:1>, "Silver Block");
 NEI.overrideName(<factorization:ResourceBlock:2>, "Lead Block");
 NEI.overrideName(<factorization:ResourceBlock>, "Silver Ore");
 NEI.overrideName(<factorization:silver_ingot>, "Silver Ingot");
+NEI.overrideName(<factorization:lead_ingot>, "Lead Ingot");
