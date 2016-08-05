@@ -57,5 +57,4 @@ mods.tconstruct.Smeltery.addMelting(<aobd:crystallineTungsten>, <liquid:tungsten
 mods.tconstruct.Smeltery.addMelting(<aobd:crystallineUranium>, <liquid:uranium> * 144, 600, <NuclearCraft:blockBlock:4>);
 mods.tconstruct.Smeltery.addMelting(<aobd:crystallineWolframium>, <liquid:wolframium> * 144, 600, <aobd:blockWolframium>);
 mods.tconstruct.Smeltery.addMelting(<aobd:crystallineZinc>, <liquid:zinc> * 144, 600, <Steamcraft:blockZinc>);
-mods.tconstruct.Smeltery.addMelting(<Steamcraft:blockZinc>, <liquid:zinc> * 144, 600, <Steamcraft:blockZinc>);
 mods.tconstruct.Smeltery.addMelting(<Steamcraft:blockZinc>, <liquid:zinc> * 1296, 600, <Steamcraft:blockZinc>);
