@@ -19,12 +19,12 @@ catwalks-2.0.4.jar
 ChickenChunks-1.7.10-1.3.4.19-universal.jar
 Chisel-2.9.5.11.jar
 CodeChickenCore-1.7.10-1.0.7.47-universal.jar
-CoFHCore-[1.7.10]3.1.2-325.jar
+CoFHCore-[1.7.10]3.1.3-328.jar
 compactmachines-1.7.10-1.21.jar
 CompactSolars-1.7.10-4.4.39.315-universal.jar
 Computronics-1.7.10-1.6.0.jar
 craftingtweaks-mc1.7.10-1.0.82.jar
-Decocraft-2.3.2_1.7.10.jar
+Decocraft-2.3.3_1.7.10.jar
 DescriptionTags-1.0-1.7.10.jar
 Enchiridion 2-1.7.10-2.0.2a.jar
 EnderCore-1.7.10-0.2.0.36_beta.jar
@@ -36,7 +36,7 @@ ExtraCells-1.7.10-2.3.14b197.jar
 extrautilities-1.2.12.jar
 Factorization-1.7.10-0.8.107.jar
 fastcraft-1.23.jar
-forestry_1.7.10-4.2.14.62.jar
+forestry_1.7.10-4.2.15.63.jar
 FSP-1.7.10-0.29.3.jar
 GalacticraftCore-1.7-3.0.12.454.jar
 Galacticraft-Planets-1.7-3.0.12.454.jar
@@ -50,7 +50,7 @@ HQM-The Journey-4.4.4.jar
 IGW-Mod-1.7.10-1.1.12-34-universal.jar
 ImmersiveEngineering-0.7.7.jar
 immersiveintegration-0.6.8.jar
-industrialcraft-2-2.2.822-experimental.jar
+industrialcraft-2-2.2.823-experimental.jar
 INpureCore-[1.7.10]1.0.0B9-62.jar
 InventoryTweaks-1.59-dev-152.jar
 ironchest-1.7.10-6.0.62.742-universal.jar
@@ -83,7 +83,7 @@ NotEnoughResources-1.7.10-0.1.0-122.jar
 NuclearCraft-1.9c--1.7.10.jar
 ObsidiPlates-1.7.10-universal-3.0.0.18.jar
 OpenBlocks-1.7.10-1.5.1.jar
-OpenComputers-MC1.7.10-1.6.0.6-beta.4-universal.jar
+OpenComputers-MC1.7.10-1.6.0.7-rc.1-universal.jar
 OpenModsLib-1.7.10-0.9.1.jar
 OpenModularTurrets-1.7.10-2.2.2-217.jar
 OpenPeripheralAddons-1.7.10-0.5.1.jar
@@ -104,7 +104,7 @@ ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
 ProjectRed-1.7.10-4.7.0pre12.95-World.jar
 Railcraft_1.7.10-9.12.2.0.jar
 RandomThings-2.2.4.jar
-RedstoneArsenal-[1.7.10]1.1.3B1-93.jar
+RedstoneArsenal-[1.7.10]1.1.3B1-94.jar
 RefinedRelocation-mc1.7.10-1.1.28.jar
 RFDrills-1.7.10-1.7.3.jar
 rftools-4.23.jar
@@ -117,15 +117,15 @@ SonarCore-1.7.10-1.1.3.jar
 StevesCarts2.0.0.b18.jar
 StevesFactoryManagerA93.jar
 StevesWorkshop-0.5.1.jar
-StorageDrawers-1.7.10-1.10.0.jar
+StorageDrawers-1.7.10-1.10.1.jar
 StorageDrawers-Misc-1.7.10-1.1.2.jar
 tcnodetracker-1.7.10-1.1.2.jar
 TConstruct-1.7.10-1.8.8.jar
 Thaumcraft-1.7.10-4.2.3.5.jar
 thaumcraftneiplugin-1.7.10-1.7a.jar
 ThermalDynamics-[1.7.10]1.2.0-171.jar
-ThermalExpansion-[1.7.10]4.1.2-240.jar
-ThermalFoundation-[1.7.10]1.2.4-114.jar
+ThermalExpansion-[1.7.10]4.1.3-246.jar
+ThermalFoundation-[1.7.10]1.2.5-115.jar
 TiCTooltips-mc1.7.10-1.2.5.jar
 TMechworks-1.7.10-0.2.15.106.jar
 Translocator-1.7.10-1.1.2.16-universal.jar
