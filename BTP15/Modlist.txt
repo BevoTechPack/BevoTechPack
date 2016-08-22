@@ -80,7 +80,7 @@ NEIIntegration-MC1.7.10-1.1.2.jar
 NoMoreRecipeConflict-0.3(1.7.10).jar
 NotEnoughItems-1.7.10-1.0.5.120-universal.jar
 NotEnoughResources-1.7.10-0.1.0-122.jar
-NuclearCraft-1.9--1.7.10.jar
+NuclearCraft-1.9c--1.7.10.jar
 ObsidiPlates-1.7.10-universal-3.0.0.18.jar
 OpenBlocks-1.7.10-1.5.1.jar
 OpenComputers-MC1.7.10-1.6.0.6-beta.4-universal.jar
