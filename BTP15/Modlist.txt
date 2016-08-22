@@ -17,7 +17,7 @@ buildcraft-compat-7.1.5.jar
 Carpenters Blocks v3.3.8 - MC 1.7.10.jar
 catwalks-2.0.4.jar
 ChickenChunks-1.7.10-1.3.4.19-universal.jar
-Chisel2-2.5.1.44.jar
+Chisel-2.9.5.11.jar
 CodeChickenCore-1.7.10-1.0.7.47-universal.jar
 CoFHCore-[1.7.10]3.1.2-325.jar
 compactmachines-1.7.10-1.21.jar
