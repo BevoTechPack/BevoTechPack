@@ -14,56 +14,56 @@ import mods.nei.NEI;
 <GraviSuite:itemSimpleItem>.displayName = "Super Conductor Cover";
 
 // Factorization Dirty Gravel
-NEI.overrideName(<factorization:ore/gravel:0>, "Dirty Iron Gravel");
-NEI.overrideName(<factorization:ore/gravel:1>, "Dirty Gold Gravel");
-NEI.overrideName(<factorization:ore/gravel:2>, "Dirty Lead Gravel");
-NEI.overrideName(<factorization:ore/gravel:3>, "Dirty Tin Gravel");
-NEI.overrideName(<factorization:ore/gravel:4>, "Dirty Copper Gravel");
-NEI.overrideName(<factorization:ore/gravel:6>, "Dirty Galena Gravel");
-NEI.overrideName(<factorization:ore/gravel:8>, "Dirty Cobalt Gravel");
-NEI.overrideName(<factorization:ore/gravel:9>, "Dirty Ardite Gravel");
-NEI.overrideName(<factorization:ore/gravel:10>, "Dirty Dark Iron Gravel");
+<factorization:ore/gravel:0>.displayName = "Dirty Iron Gravel";
+<factorization:ore/gravel:1>.displayName = "Dirty Gold Gravel";
+<factorization:ore/gravel:2>.displayName = "Dirty Lead Gravel";
+<factorization:ore/gravel:3>.displayName = "Dirty Tin Gravel";
+<factorization:ore/gravel:4>.displayName = "Dirty Copper Gravel";
+<factorization:ore/gravel:6>.displayName = "Dirty Galena Gravel";
+<factorization:ore/gravel:8>.displayName = "Dirty Cobalt Gravel";
+<factorization:ore/gravel:9>.displayName = "Dirty Ardite Gravel";
+<factorization:ore/gravel:10>.displayName = "Dirty Dark Iron Gravel";
 
 // Factorization Clean Gravel
-NEI.overrideName(<factorization:ore/clean:0>, "Clean Iron Gravel");
-NEI.overrideName(<factorization:ore/clean:1>, "Clean Gold Gravel");
-NEI.overrideName(<factorization:ore/clean:2>, "Clean Lead Gravel");
-NEI.overrideName(<factorization:ore/clean:3>, "Clean Tin Gravel");
-NEI.overrideName(<factorization:ore/clean:4>, "Clean Copper Gravel");
-NEI.overrideName(<factorization:ore/clean:6>, "Clean Galena Gravel");
-NEI.overrideName(<factorization:ore/clean:8>, "Clean Cobalt Gravel");
-NEI.overrideName(<factorization:ore/clean:9>, "Clean Ardite Gravel");
-NEI.overrideName(<factorization:ore/clean:10>, "Clean Dark Iron Gravel");
+<factorization:ore/clean:0>.displayName = "Clean Iron Gravel";
+<factorization:ore/clean:1>.displayName = "Clean Gold Gravel";
+<factorization:ore/clean:2>.displayName = "Clean Lead Gravel";
+<factorization:ore/clean:3>.displayName = "Clean Tin Gravel";
+<factorization:ore/clean:4>.displayName = "Clean Copper Gravel";
+<factorization:ore/clean:6>.displayName = "Clean Galena Gravel";
+<factorization:ore/clean:8>.displayName = "Clean Cobalt Gravel";
+<factorization:ore/clean:9>.displayName = "Clean Ardite Gravel";
+<factorization:ore/clean:10>.displayName = "Clean Dark Iron Gravel";
 
 // Factorization Reduced Chunks
-NEI.overrideName(<factorization:ore/reduced:0>, "Reduced Iron Chunks");
-NEI.overrideName(<factorization:ore/reduced:1>, "Reduced Gold Chunks");
-NEI.overrideName(<factorization:ore/reduced:2>, "Reduced Lead Chunks");
-NEI.overrideName(<factorization:ore/reduced:3>, "Reduced Tin Chunks");
-NEI.overrideName(<factorization:ore/reduced:4>, "Reduced Copper Chunks");
-NEI.overrideName(<factorization:ore/reduced:5>, "Reduced Silver Chunks");
-NEI.overrideName(<factorization:ore/reduced:8>, "Reduced Cobalt Chunks");
-NEI.overrideName(<factorization:ore/reduced:9>, "Reduced Ardite Chunks");
-NEI.overrideName(<factorization:ore/reduced:10>, "Reduced Dark Iron Chunks");
+<factorization:ore/reduced:0>.displayName = "Reduced Iron Chunks";
+<factorization:ore/reduced:1>.displayName = "Reduced Gold Chunks";
+<factorization:ore/reduced:2>.displayName = "Reduced Lead Chunks";
+<factorization:ore/reduced:3>.displayName = "Reduced Tin Chunks";
+<factorization:ore/reduced:4>.displayName = "Reduced Copper Chunks";
+<factorization:ore/reduced:5>.displayName = "Reduced Silver Chunks";
+<factorization:ore/reduced:8>.displayName = "Reduced Cobalt Chunks";
+<factorization:ore/reduced:9>.displayName = "Reduced Ardite Chunks";
+<factorization:ore/reduced:10>.displayName = "Reduced Dark Iron Chunks";
 
 // Factorization Crystalline Ore
-NEI.overrideName(<factorization:ore/crystal:0>, "Crystalline Iron");
-NEI.overrideName(<factorization:ore/crystal:1>, "Crystalline Gold");
-NEI.overrideName(<factorization:ore/crystal:2>, "Crystalline Lead");
-NEI.overrideName(<factorization:ore/crystal:3>, "Crystalline Tin");
-NEI.overrideName(<factorization:ore/crystal:4>, "Crystalline Copper");
-NEI.overrideName(<factorization:ore/crystal:5>, "Crystalline Silver");
-NEI.overrideName(<factorization:ore/crystal:8>, "Crystalline Cobalt");
-NEI.overrideName(<factorization:ore/crystal:9>, "Crystalline Ardite");
-NEI.overrideName(<factorization:ore/crystal:10>, "Crystalline Dark Iron");
+<factorization:ore/crystal:0>.displayName = "Crystalline Iron";
+<factorization:ore/crystal:1>.displayName = "Crystalline Gold";
+<factorization:ore/crystal:2>.displayName = "Crystalline Lead";
+<factorization:ore/crystal:3>.displayName = "Crystalline Tin";
+<factorization:ore/crystal:4>.displayName = "Crystalline Copper";
+<factorization:ore/crystal:5>.displayName = "Crystalline Silver";
+<factorization:ore/crystal:8>.displayName = "Crystalline Cobalt";
+<factorization:ore/crystal:9>.displayName = "Crystalline Ardite";
+<factorization:ore/crystal:10>.displayName = "Crystalline Dark Iron";
 
 // Factorization Random Items
-NEI.overrideName(<factorization:FzBlock:14>, "Lead Wire");
-NEI.overrideName(<factorization:ResourceBlock:1>, "Silver Block");
-NEI.overrideName(<factorization:ResourceBlock:2>, "Lead Block");
-NEI.overrideName(<factorization:ResourceBlock>, "Silver Ore");
-NEI.overrideName(<factorization:silver_ingot>, "Silver Ingot");
-NEI.overrideName(<factorization:lead_ingot>, "Lead Ingot");
+<factorization:FzBlock:14>.displayName = "Lead Wire";
+<factorization:ResourceBlock:1>.displayName = "Silver Block";
+<factorization:ResourceBlock:2>.displayName = "Lead Block";
+<factorization:ResourceBlock>.displayName = "Silver Ore";
+<factorization:silver_ingot>.displayName = "Silver Ingot";
+<factorization:lead_ingot>.displayName = "Lead Ingot";
 
 // Railcraft
-NEI.overrideName(<Railcraft:part.plate:4>, "Lead Plate");
+<Railcraft:part.plate:4>.displayName = "Lead Plate";
