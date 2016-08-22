@@ -89,7 +89,7 @@ OpenModularTurrets-1.7.10-2.2.2-217.jar
 OpenPeripheralAddons-1.7.10-0.5.1.jar
 OpenPeripheralCore-1.7.10-1.3.jar
 OpenPeripheralIntegration-1.7.10-0.5.jar
-Pams HarvestCraft 1.7.10Lb.jar
+Pam's HarvestCraft 1.7.10k.jar
 PlayerAPI-1.7.10-1.4.jar
 PneumaticCraft-1.7.10-1.12.7-150-universal.jar
 Practical-Logistics-1.7.10-0.2.4.jar
