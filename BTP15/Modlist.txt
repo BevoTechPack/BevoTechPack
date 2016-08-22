@@ -27,8 +27,8 @@ craftingtweaks-mc1.7.10-1.0.82.jar
 Decocraft-2.3.3_1.7.10.jar
 DescriptionTags-1.0-1.7.10.jar
 Enchiridion 2-1.7.10-2.0.2a.jar
-EnderCore-1.7.10-0.2.0.36_beta.jar
-EnderIO-1.7.10-2.3.0.428_beta.jar
+EnderCore-1.7.10-0.2.0.37_beta.jar
+EnderIO-1.7.10-2.3.0.429_beta
 EnderStorage-1.7.10-1.4.7.38-universal.jar
 EnderZoo-1.7.10-1.0.15.32.jar
 EnhancedPortals_1.7.10-universal-3.0.12.jar
