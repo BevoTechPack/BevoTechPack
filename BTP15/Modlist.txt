@@ -64,7 +64,7 @@ MagneticraftPatcher-1.7.10-0.2.jar
 malisiscore-1.7.10-0.14.3.jar
 malisisdoors-1.7.10-1.13.2.jar
 Mantle-1.7.10-0.3.2b.jar
-MatterOverdrive-1.7.10-0.4.1-build-56.jar
+MatterOverdrive-1.7.10-0.4.2.jar
 mcjtylib-1.8.1.jar
 Mekanism-1.7.10-9.0.3.278.jar
 MekanismGenerators-1.7.10-9.0.3.278.jar
