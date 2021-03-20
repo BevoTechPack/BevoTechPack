@@ -13,6 +13,6 @@ Bevo's Website/Forums: http://bevolj.com/
 
 AT Launcher Web Page: http://www.atlauncher.com/pack/BevosTechPack/
 
-Bug/Issue Tracker: https://github.com/BevoTechPack/BevoTechPack/issues?state=open
+Bug/Issue Tracker: This pack is over 5 years old, all the pack developers have moved on.  The pack is still available ONLY on ATLauncher (all others are posted without permission to gain money on other launchers).  Therefore I have took the decision to close the issues page (20th March 2021).
 
 Permissions for mod use: https://github.com/BevoTechPack/BevoTechPack/blob/master/perms.txt
